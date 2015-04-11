@@ -1,0 +1,7 @@
+node_modules
+population/variation/bower_components/d3/
+population/variation/bower_components/d3-tip/
+population/variation/bower_components/jquery/
+population/variation/bower_components/topojson/
+population/variation/bower_components/underscore/
+ne_10m_admin_1_states_provinces.*
