@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'roo', '1.13.2'
+gem 'pry'

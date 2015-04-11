@@ -1,0 +1,13 @@
+{
+  "name": "variation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "ananthakumaran <ananthakumaran@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^5.0.0",
+    "raw-loader": "^0.5.1",
+    "webpack": "~1.4.14"
+  }
+}

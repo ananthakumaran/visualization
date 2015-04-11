@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+require 'roo'
+require 'uri'
+require 'pry'
+require 'csv'
+
+xls = Roo::Spreadsheet.open('./data/variation.xls')
+csv = CSV.open('./data/variation.csv', 'w')
+csv << ['stateCode', 'year', 'male', 'female']
+sheet = xls.sheet(0)
+
+start_row_index = 20
+end_row_index = 474
+current_row_index = start_row_index
+
+while current_row_index < end_row_index
+  current_row = sheet.row(current_row_index)
+  state_code = current_row[0]
+  12.times do
+    current_row = sheet.row(current_row_index)
+    csv << [state_code, current_row[3].to_i.to_s, current_row[7].to_i.to_s, current_row[8].to_i.to_s]
+    current_row_index += 1
+  end
+  current_row_index += 1
+end
+
+csv.close
