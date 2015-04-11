@@ -1,0 +1,21 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+
+img.thumb {
+    width: 960px;
+    box-sizing: border-box;
+    height: 200px;
+    border: 1px solid #ccc;
+}
+
+img.thumb:hover {
+    border: 1px solid #aaa;
+}
