@@ -7,6 +7,13 @@ body {
     font-size: 14px;
 }
 
+header {
+    text-align: center;
+    font: 18px sans-serif;
+    color: saddlebrown;
+    margin: 10px 0;
+}
+
 svg {
     display: block;
     margin: 0 auto;
