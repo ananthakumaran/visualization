@@ -47,7 +47,11 @@ var stateCode = {
 
 variation = d3.csv.parse(variation);
 var byStateCode = _.groupBy(variation, 'stateCode');
-
+var totalPopulation = _.chain(byStateCode['00'])
+      .groupBy('year')
+      .mapObject(([d]) => ((+d.male) + (+d.female)))
+      .value();
+var years = [1901, 1911, 1921, 1931, 1941, 1951, 1961, 1971, 1981, 1991, 2001, 2011];
 var selectedYear = 2011;
 function population(d, year=selectedYear) {
   if (d.id) {
@@ -70,7 +74,7 @@ var radius = d3.scale.sqrt()
       .domain([0, 20e7])
       .range([0, 30]);
 
-function render() {
+function renderMap() {
   var projection = d3.geo.mercator()
         .scale(1100)
         .center([83, 25]);
@@ -122,21 +126,39 @@ function render() {
     .text(d3.format(".1s"));
 }
 
+
+var formatter = d3.format(',');
+var barTip = d3Tip()
+      .attr('class', 'd3-tip bar-tip')
+      .html(d => `${formatter(d)}`);
+svg.call(barTip);
+
 function transition(year) {
   svg.selectAll('g.bubble circle')
     .data(topo.features)
     .transition()
     .attr("r", d => radius(population(d, year)));
+
+  var target = svg.selectAll('.bars rect.bar')[0][_.findIndex(years, x => (x === year))];
+  barTip.show(totalPopulation[year], target);
 }
 
-var years = [1901, 1911, 1921, 1931, 1941, 1951, 1961, 1971, 1981, 1991, 2001, 2011];
 var lastYearIndex = years.length - 1;
+var sliderWidth = 200;
+var sliderX = 475;
+var sliderY = 140;
+var sliderTranslate = `translate(${sliderX}, ${sliderY})`;
+var barHeight = 100;
 
 function renderSlider() {
   var x = d3.scale.linear()
         .domain([0, lastYearIndex])
-        .range([0, 200])
+        .range([0, sliderWidth])
         .clamp(true);
+
+  var xaxis = d3.scale.ordinal()
+        .domain(_.range(years.length))
+        .rangeBands([0, sliderWidth], 0.1, 0);
 
   var brush = d3.svg.brush()
         .x(x)
@@ -145,9 +167,9 @@ function renderSlider() {
 
   svg.append("g")
     .attr("class", "x axis")
-    .attr("transform", "translate(475, 125)")
+    .attr("transform", sliderTranslate)
     .call(d3.svg.axis()
-          .scale(x)
+          .scale(xaxis)
           .orient("bottom")
           .tickFormat(d => {
             var year = years[d];
@@ -166,7 +188,7 @@ function renderSlider() {
 
   var slider = svg.append("g")
         .attr("class", "slider")
-        .attr("transform", "translate(475, 125)")
+        .attr("transform", sliderTranslate)
         .call(brush);
 
   slider.selectAll(".extent,.resize")
@@ -174,7 +196,8 @@ function renderSlider() {
 
   slider.select(".background")
     .style('cursor', 'ew-resize')
-    .attr("height", 20);
+    .attr('transform', `translate(0, -${barHeight + 10})`)
+    .attr("height", barHeight + 20 + 10);
 
   var handle = slider.append("path")
         .attr("class", "handle")
@@ -183,7 +206,7 @@ function renderSlider() {
   slider
     .call(brush.event)
     .transition()
-    .duration(750)
+    .duration(500)
     .call(brush.extent([lastYearIndex, lastYearIndex]))
     .call(brush.event);
 
@@ -194,13 +217,54 @@ function renderSlider() {
       value = x.invert(d3.mouse(this)[0]);
       value = Math.round(value);
       brush.extent([value, value]);
+    } else {
+      value = Math.round(value);
     }
 
-    handle.attr("transform", `translate(${x(value)}, -12)`);
+    handle.attr("transform", `translate(${xaxis(value) + 7}, -12)`);
     selectedYear = years[Math.round(value)];
     transition(selectedYear);
   }
 }
 
-renderSlider();
+function renderBar() {
+  var populationValues = _.values(totalPopulation);
+
+  var y = d3.scale.linear()
+        .domain([0, totalPopulation[2011]])
+        .range([barHeight, 0]);
+
+  var x = d3.scale.ordinal()
+        .domain(populationValues)
+        .rangeBands([0, sliderWidth], 0.1, 0);
+
+  svg.append('g')
+    .attr('class', 'bars')
+    .attr('transform', `translate(${sliderX}, ${sliderY - barHeight - 12})`)
+    .selectAll('.bar')
+    .data(populationValues)
+    .enter()
+    .append('rect')
+    .attr('class', 'bar')
+    .attr("x", x)
+    .attr("y", y)
+    .attr("height", d => (barHeight - y(d)))
+    .attr("width", x.rangeBand());
+  svg.append("g")
+    .attr("class", "y axis")
+    .attr("transform", `translate(${sliderX + sliderWidth + 2}, ${sliderY - barHeight - 12})`)
+    .call(d3.svg.axis()
+          .scale(y)
+          .tickSize(4)
+          .tickFormat(d => (`${d/1000000}M`))
+          .ticks(5)
+          .orient('right'));
+}
+
+function render() {
+  renderBar();
+  renderSlider();
+  renderMap();
+}
+
 render();
