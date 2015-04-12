@@ -130,10 +130,11 @@ function transition(year) {
 }
 
 var years = [1901, 1911, 1921, 1931, 1941, 1951, 1961, 1971, 1981, 1991, 2001, 2011];
+var lastYearIndex = years.length - 1;
 
 function renderSlider() {
   var x = d3.scale.linear()
-        .domain([0, years.length - 1])
+        .domain([0, lastYearIndex])
         .range([0, 200])
         .clamp(true);
 
@@ -150,14 +151,16 @@ function renderSlider() {
           .orient("bottom")
           .tickFormat(d => {
             var year = years[d];
-            if (year === 1901 || year === 2001 || year === 1951) {
+            if (year === 1901 || year === 2001) {
               return year.toString();
             }
             return year.toString().substring(2);
           })
           .tickSize(0)
-          .tickPadding(12))
+          .innerTickSize(5)
+          .tickPadding([5]))
     .select(".domain")
+    .attr('transform', 'translate(0, -9)')
     .select(function () { return this.parentNode.appendChild(this.cloneNode(true)); })
     .attr("class", "halo");
 
@@ -170,32 +173,32 @@ function renderSlider() {
     .remove();
 
   slider.select(".background")
+    .style('cursor', 'ew-resize')
     .attr("height", 20);
 
-  var handle = slider.append("circle")
+  var handle = slider.append("path")
         .attr("class", "handle")
-        .attr("r", 9);
+        .attr('d', 'M-5.5,-2.5v10l6,5.5l6,-5.5v-10z');
 
   slider
     .call(brush.event)
-    .transition() // gratuitous intro!
+    .transition()
     .duration(750)
-    .call(brush.extent([70, 70]))
+    .call(brush.extent([lastYearIndex, lastYearIndex]))
     .call(brush.event);
 
   function brushed() {
     var value = brush.extent()[0];
 
-    if (d3.event.sourceEvent) { // not a programmatic event
+    if (d3.event.sourceEvent) {
       value = x.invert(d3.mouse(this)[0]);
+      value = Math.round(value);
       brush.extent([value, value]);
     }
 
-    handle.attr("cx", x(value));
-    if (years[Math.round(value)]) {
-      selectedYear = years[Math.round(value)];
-      transition(selectedYear);
-    }
+    handle.attr("transform", `translate(${x(value)}, -12)`);
+    selectedYear = years[Math.round(value)];
+    transition(selectedYear);
   }
 }
 
