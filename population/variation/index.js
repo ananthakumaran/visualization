@@ -5,12 +5,7 @@ var width = 960,
     topojson = require('topojson'),
     india = require('json!./data/india.json'),
     variation = require('raw!./data/variation.csv'),
-    d3Tip = require('d3-tip'),
-    $ = require('jquery');
-
-window.jQuery = $;
-require('jqueryui/jquery-ui.js');
-require('jquery-ui-slider-pips/dist/jquery-ui-slider-pips.js');
+    d3Tip = require('d3-tip');
 
 var stateCode = {
   'AN': '35',
@@ -134,19 +129,74 @@ function transition(year) {
     .attr("r", d => radius(population(d, year)));
 }
 
+var years = [1901, 1911, 1921, 1931, 1941, 1951, 1961, 1971, 1981, 1991, 2001, 2011];
+
 function renderSlider() {
+  var x = d3.scale.linear()
+        .domain([0, years.length - 1])
+        .range([0, 200])
+        .clamp(true);
 
-  function animate(e, ui) {
-    selectedYear = years[ui.value];
-    transition(selectedYear);
+  var brush = d3.svg.brush()
+        .x(x)
+        .extent([0, 0])
+        .on("brush", brushed);
+
+  svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(475, 125)")
+    .call(d3.svg.axis()
+          .scale(x)
+          .orient("bottom")
+          .tickFormat(d => {
+            var year = years[d];
+            if (year === 1901 || year === 2001 || year === 1951) {
+              return year.toString();
+            }
+            return year.toString().substring(2);
+          })
+          .tickSize(0)
+          .tickPadding(12))
+    .select(".domain")
+    .select(function () { return this.parentNode.appendChild(this.cloneNode(true)); })
+    .attr("class", "halo");
+
+  var slider = svg.append("g")
+        .attr("class", "slider")
+        .attr("transform", "translate(475, 125)")
+        .call(brush);
+
+  slider.selectAll(".extent,.resize")
+    .remove();
+
+  slider.select(".background")
+    .attr("height", 20);
+
+  var handle = slider.append("circle")
+        .attr("class", "handle")
+        .attr("r", 9);
+
+  slider
+    .call(brush.event)
+    .transition() // gratuitous intro!
+    .duration(750)
+    .call(brush.extent([70, 70]))
+    .call(brush.event);
+
+  function brushed() {
+    var value = brush.extent()[0];
+
+    if (d3.event.sourceEvent) { // not a programmatic event
+      value = x.invert(d3.mouse(this)[0]);
+      brush.extent([value, value]);
+    }
+
+    handle.attr("cx", x(value));
+    if (years[Math.round(value)]) {
+      selectedYear = years[Math.round(value)];
+      transition(selectedYear);
+    }
   }
-
-  var years = [1901, 1911, 1921, 1931, 1941, 1951, 1961, 1971, 1981, 1991, 2001, 2011];
-  $(".slider")
-    .slider({ min: 0, max: years.length - 1, value: years.length - 1 })
-    .slider("pips", { rest: "label", labels: years})
-    .on("slidechange", animate)
-    .on("slide", animate);
 }
 
 renderSlider();

@@ -10,7 +10,7 @@ csv = CSV.open('./data/variation.csv', 'w')
 csv << ['stateCode', 'year', 'male', 'female']
 sheet = xls.sheet(0)
 
-start_row_index = 20
+start_row_index = 7
 end_row_index = 474
 current_row_index = start_row_index
 
