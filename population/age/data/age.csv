@@ -1,0 +1,3673 @@
+state,age,male,female
+India,0,10633298,9677936
+India,1,11381468,10373729
+India,2,11952853,11103415
+India,3,12331431,11642610
+India,4,12333024,11377014
+India,5,13725480,12328750
+India,6,13394700,12259545
+India,7,12903364,11923276
+India,8,14061937,12906436
+India,9,12214985,11209653
+India,10,16089436,14462671
+India,11,12962604,11778342
+India,12,14637892,13239415
+India,13,12563775,11716908
+India,14,13165128,12093041
+India,15,13739746,12159708
+India,16,13027935,11564358
+India,17,11349449,9868018
+India,18,15020851,12937296
+India,19,10844415,10014673
+India,20,14892165,13990570
+India,21,10532278,9446694
+India,22,12392976,11135249
+India,23,9674189,9479866
+India,24,10093085,9787150
+India,25,14311524,13456554
+India,26,10315030,9761967
+India,27,8552032,8157318
+India,28,10719926,11407090
+India,29,7445696,7286828
+India,30,15628996,14770033
+India,31,7157502,6665743
+India,32,8801105,8812439
+India,33,6108879,6655662
+India,34,6964192,7030400
+India,35,15036666,13385965
+India,36,8067568,7760149
+India,37,5784879,5907352
+India,38,8090401,9381357
+India,39,5939867,5786480
+India,40,15173411,13355581
+India,41,6172297,5395597
+India,42,6856826,6523816
+India,43,4468914,4865438
+India,44,4873938,4752294
+India,45,12685175,11187786
+India,46,5735540,5257138
+India,47,4043122,3908175
+India,48,5568554,6081038
+India,49,4105723,3746076
+India,50,11379329,10083093
+India,51,4323584,3562382
+India,52,4068700,3666464
+India,53,2808043,2782747
+India,54,3263610,3131302
+India,55,7769352,7838194
+India,56,3666804,3405033
+India,57,2339391,2259635
+India,58,3072508,3646426
+India,59,2607957,2540755
+India,60,8677046,9133643
+India,61,3095448,2931365
+India,62,2892015,2853128
+India,63,1977207,2016898
+India,64,2060033,2026924
+India,65,6275854,6746498
+India,66,2278670,2233276
+India,67,1353711,1251371
+India,68,1640034,1908339
+India,69,1396057,1371173
+India,70,5393714,5592566
+India,71,1584873,1499310
+India,72,1176727,1074202
+India,73,708381,658155
+India,74,787804,733110
+India,75,2278704,2493642
+India,76,832251,834882
+India,77,438394,396654
+India,78,506957,561458
+India,79,434297,455264
+India,80,1725200,2059738
+India,81,491522,536294
+India,82,306378,297415
+India,83,192946,187239
+India,84,210994,212503
+India,85,580527,684271
+India,86,215850,232048
+India,87,112348,109063
+India,88,112374,123266
+India,89,99007,114413
+India,90,360237,472835
+India,91,118606,139691
+India,92,75430,78131
+India,93,46220,48410
+India,94,51972,55002
+India,95,124950,147584
+India,96,57894,62374
+India,97,35238,36175
+India,98,48393,56118
+India,99,28284,36287
+India,100+,289325,316453
+India,Age not stated,2372881,2116921
+Jammu & Kashmir,0,154761,120551
+Jammu & Kashmir,1,148546,125847
+Jammu & Kashmir,2,152596,133335
+Jammu & Kashmir,3,151640,134800
+Jammu & Kashmir,4,155958,136850
+Jammu & Kashmir,5,161229,141907
+Jammu & Kashmir,6,159625,141260
+Jammu & Kashmir,7,142123,128415
+Jammu & Kashmir,8,150470,134844
+Jammu & Kashmir,9,133371,118729
+Jammu & Kashmir,10,166773,147510
+Jammu & Kashmir,11,149261,132788
+Jammu & Kashmir,12,152365,137433
+Jammu & Kashmir,13,136728,124351
+Jammu & Kashmir,14,139728,126916
+Jammu & Kashmir,15,140502,130490
+Jammu & Kashmir,16,136077,126964
+Jammu & Kashmir,17,115421,106198
+Jammu & Kashmir,18,141830,134386
+Jammu & Kashmir,19,106532,99062
+Jammu & Kashmir,20,149061,145367
+Jammu & Kashmir,21,111514,101114
+Jammu & Kashmir,22,122733,112374
+Jammu & Kashmir,23,106836,98214
+Jammu & Kashmir,24,113434,100266
+Jammu & Kashmir,25,152478,138392
+Jammu & Kashmir,26,122473,102013
+Jammu & Kashmir,27,103066,81337
+Jammu & Kashmir,28,120577,110693
+Jammu & Kashmir,29,85965,69128
+Jammu & Kashmir,30,163327,152274
+Jammu & Kashmir,31,89361,69540
+Jammu & Kashmir,32,93527,79193
+Jammu & Kashmir,33,74486,64272
+Jammu & Kashmir,34,75045,65878
+Jammu & Kashmir,35,141081,128154
+Jammu & Kashmir,36,89010,75908
+Jammu & Kashmir,37,66859,55619
+Jammu & Kashmir,38,84337,86040
+Jammu & Kashmir,39,59978,50959
+Jammu & Kashmir,40,151283,130069
+Jammu & Kashmir,41,70095,52583
+Jammu & Kashmir,42,68427,55921
+Jammu & Kashmir,43,49814,45696
+Jammu & Kashmir,44,48120,42077
+Jammu & Kashmir,45,122222,108822
+Jammu & Kashmir,46,60612,50358
+Jammu & Kashmir,47,40522,34114
+Jammu & Kashmir,48,53496,55583
+Jammu & Kashmir,49,34708,30353
+Jammu & Kashmir,50,118640,102453
+Jammu & Kashmir,51,46232,34024
+Jammu & Kashmir,52,36420,29316
+Jammu & Kashmir,53,27377,23199
+Jammu & Kashmir,54,26930,23975
+Jammu & Kashmir,55,70840,73310
+Jammu & Kashmir,56,35330,30449
+Jammu & Kashmir,57,21625,17457
+Jammu & Kashmir,58,26040,28986
+Jammu & Kashmir,59,18918,17076
+Jammu & Kashmir,60,87926,80046
+Jammu & Kashmir,61,31047,24311
+Jammu & Kashmir,62,21300,17315
+Jammu & Kashmir,63,18777,14883
+Jammu & Kashmir,64,14377,12744
+Jammu & Kashmir,65,51088,52388
+Jammu & Kashmir,66,19876,17446
+Jammu & Kashmir,67,10128,8335
+Jammu & Kashmir,68,12389,14215
+Jammu & Kashmir,69,9262,8838
+Jammu & Kashmir,70,59667,55029
+Jammu & Kashmir,71,18003,14472
+Jammu & Kashmir,72,8797,7246
+Jammu & Kashmir,73,5651,4914
+Jammu & Kashmir,74,5354,4886
+Jammu & Kashmir,75,23725,24029
+Jammu & Kashmir,76,8201,7329
+Jammu & Kashmir,77,3397,2965
+Jammu & Kashmir,78,4288,4437
+Jammu & Kashmir,79,3483,3222
+Jammu & Kashmir,80,24489,23960
+Jammu & Kashmir,81,6895,6127
+Jammu & Kashmir,82,2507,2109
+Jammu & Kashmir,83,1633,1340
+Jammu & Kashmir,84,1721,1435
+Jammu & Kashmir,85,6710,6733
+Jammu & Kashmir,86,2303,1948
+Jammu & Kashmir,87,950,723
+Jammu & Kashmir,88,1044,956
+Jammu & Kashmir,89,845,766
+Jammu & Kashmir,90,6022,5613
+Jammu & Kashmir,91,1614,1405
+Jammu & Kashmir,92,548,465
+Jammu & Kashmir,93,355,286
+Jammu & Kashmir,94,334,290
+Jammu & Kashmir,95,1209,1188
+Jammu & Kashmir,96,565,481
+Jammu & Kashmir,97,238,190
+Jammu & Kashmir,98,394,318
+Jammu & Kashmir,99,394,285
+Jammu & Kashmir,100+,5074,4408
+Jammu & Kashmir,Age not stated,9747,5372
+Himachal Pradesh,0,53261,48574
+Himachal Pradesh,1,59961,53955
+Himachal Pradesh,2,55969,51348
+Himachal Pradesh,3,57322,53000
+Himachal Pradesh,4,58498,53096
+Himachal Pradesh,5,61890,55789
+Himachal Pradesh,6,60558,54677
+Himachal Pradesh,7,63842,58197
+Himachal Pradesh,8,61593,55531
+Himachal Pradesh,9,63574,55526
+Himachal Pradesh,10,71647,62949
+Himachal Pradesh,11,67693,59754
+Himachal Pradesh,12,66799,59031
+Himachal Pradesh,13,65336,58789
+Himachal Pradesh,14,66765,60461
+Himachal Pradesh,15,67225,60153
+Himachal Pradesh,16,66658,59752
+Himachal Pradesh,17,65721,58864
+Himachal Pradesh,18,72265,64494
+Himachal Pradesh,19,64860,60469
+Himachal Pradesh,20,69643,66259
+Himachal Pradesh,21,63969,62669
+Himachal Pradesh,22,66720,66298
+Himachal Pradesh,23,61664,61986
+Himachal Pradesh,24,61724,62934
+Himachal Pradesh,25,63006,65865
+Himachal Pradesh,26,59721,61704
+Himachal Pradesh,27,56142,57866
+Himachal Pradesh,28,60448,63045
+Himachal Pradesh,29,50808,50555
+Himachal Pradesh,30,65731,69340
+Himachal Pradesh,31,52399,51668
+Himachal Pradesh,32,54497,55843
+Himachal Pradesh,33,47270,46531
+Himachal Pradesh,34,51356,51722
+Himachal Pradesh,35,63321,65238
+Himachal Pradesh,36,53799,53611
+Himachal Pradesh,37,46457,45266
+Himachal Pradesh,38,52845,55551
+Himachal Pradesh,39,41808,40070
+Himachal Pradesh,40,60353,65736
+Himachal Pradesh,41,42875,40187
+Himachal Pradesh,42,47054,46735
+Himachal Pradesh,43,36356,35488
+Himachal Pradesh,44,35631,35145
+Himachal Pradesh,45,54723,59615
+Himachal Pradesh,46,40122,39542
+Himachal Pradesh,47,33269,31246
+Himachal Pradesh,48,40409,40602
+Himachal Pradesh,49,29119,26481
+Himachal Pradesh,50,49852,59120
+Himachal Pradesh,51,30779,28198
+Himachal Pradesh,52,32700,30517
+Himachal Pradesh,53,25901,22793
+Himachal Pradesh,54,26492,24335
+Himachal Pradesh,55,39322,45908
+Himachal Pradesh,56,29535,27136
+Himachal Pradesh,57,21949,18340
+Himachal Pradesh,58,25505,24286
+Himachal Pradesh,59,18934,15945
+Himachal Pradesh,60,36833,48467
+Himachal Pradesh,61,20941,19355
+Himachal Pradesh,62,21900,19535
+Himachal Pradesh,63,19812,15165
+Himachal Pradesh,64,15978,13386
+Himachal Pradesh,65,27313,35015
+Himachal Pradesh,66,16313,15326
+Himachal Pradesh,67,12005,9282
+Himachal Pradesh,68,13304,12095
+Himachal Pradesh,69,9452,8502
+Himachal Pradesh,70,25786,35444
+Himachal Pradesh,71,11562,11996
+Himachal Pradesh,72,10199,9103
+Himachal Pradesh,73,7484,5939
+Himachal Pradesh,74,7088,5986
+Himachal Pradesh,75,14636,18997
+Himachal Pradesh,76,7517,7618
+Himachal Pradesh,77,4766,3764
+Himachal Pradesh,78,5476,5121
+Himachal Pradesh,79,4045,3766
+Himachal Pradesh,80,13028,18584
+Himachal Pradesh,81,4737,5852
+Himachal Pradesh,82,3463,3291
+Himachal Pradesh,83,2526,2057
+Himachal Pradesh,84,2410,2135
+Himachal Pradesh,85,5558,6944
+Himachal Pradesh,86,2489,2663
+Himachal Pradesh,87,1479,1223
+Himachal Pradesh,88,1290,1193
+Himachal Pradesh,89,1005,947
+Himachal Pradesh,90,3501,4887
+Himachal Pradesh,91,1214,1484
+Himachal Pradesh,92,724,775
+Himachal Pradesh,93,517,530
+Himachal Pradesh,94,456,461
+Himachal Pradesh,95,1059,1428
+Himachal Pradesh,96,503,624
+Himachal Pradesh,97,320,310
+Himachal Pradesh,98,399,487
+Himachal Pradesh,99,269,396
+Himachal Pradesh,100+,1518,2001
+Himachal Pradesh,Age not stated,5353,4810
+Punjab,0,226929,193021
+Punjab,1,229359,195264
+Punjab,2,224550,193819
+Punjab,3,232219,200958
+Punjab,4,236899,200511
+Punjab,5,262314,216456
+Punjab,6,253724,210196
+Punjab,7,262427,220853
+Punjab,8,263834,215613
+Punjab,9,259383,203219
+Punjab,10,303757,233267
+Punjab,11,274903,213274
+Punjab,12,289167,227788
+Punjab,13,283488,227353
+Punjab,14,294215,236190
+Punjab,15,309954,245771
+Punjab,16,311992,250175
+Punjab,17,299464,237455
+Punjab,18,355581,276032
+Punjab,19,293189,238070
+Punjab,20,351177,295384
+Punjab,21,280599,242813
+Punjab,22,308178,271670
+Punjab,23,261379,247949
+Punjab,24,264198,253289
+Punjab,25,312371,282177
+Punjab,26,268889,249927
+Punjab,27,226483,207949
+Punjab,28,267452,269724
+Punjab,29,195210,183679
+Punjab,30,337776,303858
+Punjab,31,185695,170416
+Punjab,32,218956,213812
+Punjab,33,161373,168227
+Punjab,34,178733,177693
+Punjab,35,329430,275295
+Punjab,36,194107,183588
+Punjab,37,148252,145440
+Punjab,38,191162,228449
+Punjab,39,147911,145437
+Punjab,40,335462,290448
+Punjab,41,152157,139060
+Punjab,42,175501,176861
+Punjab,43,120446,143336
+Punjab,44,125642,129556
+Punjab,45,311780,262116
+Punjab,46,151309,139562
+Punjab,47,111336,105417
+Punjab,48,140553,165586
+Punjab,49,103157,96955
+Punjab,50,277467,234505
+Punjab,51,111390,92610
+Punjab,52,109384,100541
+Punjab,53,80432,80724
+Punjab,54,84991,82420
+Punjab,55,182554,168415
+Punjab,56,100356,84614
+Punjab,57,64252,57518
+Punjab,58,77418,98760
+Punjab,59,61265,61403
+Punjab,60,200799,210882
+Punjab,61,76438,78086
+Punjab,62,78233,88152
+Punjab,63,65962,74657
+Punjab,64,61051,62330
+Punjab,65,171712,163312
+Punjab,66,68940,58368
+Punjab,67,42908,32741
+Punjab,68,50885,57573
+Punjab,69,38361,34788
+Punjab,70,151263,136165
+Punjab,71,44859,38605
+Punjab,72,32307,27615
+Punjab,73,21602,19725
+Punjab,74,22089,19242
+Punjab,75,65469,64746
+Punjab,76,23760,21598
+Punjab,77,12086,9894
+Punjab,78,15365,17181
+Punjab,79,13523,13044
+Punjab,80,61519,65073
+Punjab,81,17380,17146
+Punjab,82,10109,8847
+Punjab,83,6632,6081
+Punjab,84,6983,6565
+Punjab,85,22324,23760
+Punjab,86,7615,7215
+Punjab,87,3415,2871
+Punjab,88,3544,3661
+Punjab,89,3382,3444
+Punjab,90,15730,18105
+Punjab,91,4361,4867
+Punjab,92,2087,1952
+Punjab,93,1435,1246
+Punjab,94,1567,1524
+Punjab,95,4292,4748
+Punjab,96,1870,1917
+Punjab,97,953,954
+Punjab,98,1380,1606
+Punjab,99,933,1367
+Punjab,100+,8539,10502
+Punjab,Age not stated,22272,19250
+Chandigarh,0,8283,7449
+Chandigarh,1,8325,7420
+Chandigarh,2,8649,7725
+Chandigarh,3,8951,7987
+Chandigarh,4,9139,7926
+Chandigarh,5,10292,8872
+Chandigarh,6,9897,8519
+Chandigarh,7,9987,8637
+Chandigarh,8,9413,7858
+Chandigarh,9,9666,8053
+Chandigarh,10,11410,8950
+Chandigarh,11,10180,8116
+Chandigarh,12,10461,8212
+Chandigarh,13,9846,7906
+Chandigarh,14,10243,8140
+Chandigarh,15,10603,8335
+Chandigarh,16,11116,8438
+Chandigarh,17,11139,7977
+Chandigarh,18,14792,9868
+Chandigarh,19,12871,9279
+Chandigarh,20,14939,11190
+Chandigarh,21,13333,10262
+Chandigarh,22,14452,10799
+Chandigarh,23,12874,10398
+Chandigarh,24,12869,10128
+Chandigarh,25,14979,11381
+Chandigarh,26,13207,10927
+Chandigarh,27,11085,8916
+Chandigarh,28,12102,10391
+Chandigarh,29,9321,7928
+Chandigarh,30,14097,11325
+Chandigarh,31,9597,7817
+Chandigarh,32,9950,8239
+Chandigarh,33,7808,6811
+Chandigarh,34,8173,6986
+Chandigarh,35,13175,10185
+Chandigarh,36,9818,8150
+Chandigarh,37,7293,6251
+Chandigarh,38,8545,7700
+Chandigarh,39,6735,5820
+Chandigarh,40,11551,9172
+Chandigarh,41,7664,6274
+Chandigarh,42,7194,6340
+Chandigarh,43,5598,5217
+Chandigarh,44,5261,4650
+Chandigarh,45,10196,8049
+Chandigarh,46,7090,5907
+Chandigarh,47,5140,4458
+Chandigarh,48,5854,5324
+Chandigarh,49,4613,3721
+Chandigarh,50,7883,6394
+Chandigarh,51,5458,4252
+Chandigarh,52,4796,3715
+Chandigarh,53,4012,3237
+Chandigarh,54,3959,3236
+Chandigarh,55,5813,4591
+Chandigarh,56,4782,3523
+Chandigarh,57,3317,2298
+Chandigarh,58,3329,2780
+Chandigarh,59,2504,1988
+Chandigarh,60,4361,4138
+Chandigarh,61,2784,2560
+Chandigarh,62,2344,1989
+Chandigarh,63,2222,2040
+Chandigarh,64,1819,1544
+Chandigarh,65,2606,2670
+Chandigarh,66,1854,1684
+Chandigarh,67,1284,1035
+Chandigarh,68,1363,1261
+Chandigarh,69,1143,939
+Chandigarh,70,2039,2007
+Chandigarh,71,1330,1201
+Chandigarh,72,989,859
+Chandigarh,73,812,663
+Chandigarh,74,828,657
+Chandigarh,75,1047,1154
+Chandigarh,76,720,662
+Chandigarh,77,547,492
+Chandigarh,78,507,476
+Chandigarh,79,434,383
+Chandigarh,80,753,885
+Chandigarh,81,437,473
+Chandigarh,82,360,317
+Chandigarh,83,274,212
+Chandigarh,84,288,208
+Chandigarh,85,330,401
+Chandigarh,86,225,248
+Chandigarh,87,162,104
+Chandigarh,88,144,92
+Chandigarh,89,109,94
+Chandigarh,90,171,198
+Chandigarh,91,103,117
+Chandigarh,92,62,67
+Chandigarh,93,46,36
+Chandigarh,94,41,43
+Chandigarh,95,41,67
+Chandigarh,96,52,49
+Chandigarh,97,22,30
+Chandigarh,98,41,32
+Chandigarh,99,21,23
+Chandigarh,100+,118,135
+Chandigarh,Age not stated,201,145
+Uttarakhand,0,92117,80649
+Uttarakhand,1,94371,82647
+Uttarakhand,2,97265,87507
+Uttarakhand,3,101245,92670
+Uttarakhand,4,103990,92403
+Uttarakhand,5,116064,102003
+Uttarakhand,6,112147,100736
+Uttarakhand,7,110555,99785
+Uttarakhand,8,114848,102048
+Uttarakhand,9,106565,94050
+Uttarakhand,10,134113,116189
+Uttarakhand,11,114025,101011
+Uttarakhand,12,124845,111517
+Uttarakhand,13,111390,103545
+Uttarakhand,14,118901,109807
+Uttarakhand,15,121583,112207
+Uttarakhand,16,119257,110854
+Uttarakhand,17,108809,98392
+Uttarakhand,18,135318,119066
+Uttarakhand,19,103516,95108
+Uttarakhand,20,121872,116964
+Uttarakhand,21,93716,90451
+Uttarakhand,22,103140,102658
+Uttarakhand,23,80429,85518
+Uttarakhand,24,85457,89863
+Uttarakhand,25,102214,105876
+Uttarakhand,26,83362,85609
+Uttarakhand,27,68083,69646
+Uttarakhand,28,84576,91491
+Uttarakhand,29,59128,60199
+Uttarakhand,30,110763,113973
+Uttarakhand,31,55775,54039
+Uttarakhand,32,71548,73421
+Uttarakhand,33,50277,53224
+Uttarakhand,34,57064,58216
+Uttarakhand,35,109759,102752
+Uttarakhand,36,64303,64869
+Uttarakhand,37,47112,48622
+Uttarakhand,38,64319,73150
+Uttarakhand,39,45341,45273
+Uttarakhand,40,108487,105165
+Uttarakhand,41,46665,43064
+Uttarakhand,42,55030,55535
+Uttarakhand,43,35780,38166
+Uttarakhand,44,39569,39248
+Uttarakhand,45,91677,87474
+Uttarakhand,46,45213,43841
+Uttarakhand,47,33337,31717
+Uttarakhand,48,46191,48657
+Uttarakhand,49,31564,29706
+Uttarakhand,50,79265,81376
+Uttarakhand,51,33852,29538
+Uttarakhand,52,35617,32926
+Uttarakhand,53,25324,23558
+Uttarakhand,54,27966,27736
+Uttarakhand,55,53848,64264
+Uttarakhand,56,28603,30478
+Uttarakhand,57,20405,20251
+Uttarakhand,58,26358,29927
+Uttarakhand,59,22651,21676
+Uttarakhand,60,64780,76644
+Uttarakhand,61,27415,25862
+Uttarakhand,62,29896,27624
+Uttarakhand,63,21311,17545
+Uttarakhand,64,19818,18161
+Uttarakhand,65,46235,53305
+Uttarakhand,66,20326,19210
+Uttarakhand,67,13062,10661
+Uttarakhand,68,15996,15406
+Uttarakhand,69,12793,11765
+Uttarakhand,70,39139,45517
+Uttarakhand,71,13729,13000
+Uttarakhand,72,12002,10690
+Uttarakhand,73,7708,6111
+Uttarakhand,74,8392,7155
+Uttarakhand,75,18064,21730
+Uttarakhand,76,7924,8120
+Uttarakhand,77,4754,4010
+Uttarakhand,78,5646,5541
+Uttarakhand,79,4449,4408
+Uttarakhand,80,14007,18333
+Uttarakhand,81,4511,5084
+Uttarakhand,82,3483,3476
+Uttarakhand,83,2172,2067
+Uttarakhand,84,2439,2363
+Uttarakhand,85,5096,6397
+Uttarakhand,86,2255,2329
+Uttarakhand,87,1260,1120
+Uttarakhand,88,1167,1210
+Uttarakhand,89,912,967
+Uttarakhand,90,2720,3699
+Uttarakhand,91,1158,1321
+Uttarakhand,92,749,847
+Uttarakhand,93,447,451
+Uttarakhand,94,520,538
+Uttarakhand,95,979,1267
+Uttarakhand,96,556,597
+Uttarakhand,97,347,370
+Uttarakhand,98,405,502
+Uttarakhand,99,275,339
+Uttarakhand,100+,3000,3170
+Uttarakhand,Age not stated,9312,7296
+Haryana,0,254326,212408
+Haryana,1,256720,211806
+Haryana,2,257396,217250
+Haryana,3,256528,220472
+Haryana,4,258819,216794
+Haryana,5,286865,233125
+Haryana,6,272455,225757
+Haryana,7,270994,226755
+Haryana,8,281655,232252
+Haryana,9,259856,209043
+Haryana,10,320318,253384
+Haryana,11,282039,224845
+Haryana,12,305753,245137
+Haryana,13,277252,231454
+Haryana,14,288774,239722
+Haryana,15,306076,247651
+Haryana,16,302833,242802
+Haryana,17,274242,216151
+Haryana,18,340968,266823
+Haryana,19,263429,216415
+Haryana,20,330697,283752
+Haryana,21,262284,222288
+Haryana,22,290891,244779
+Haryana,23,241904,219752
+Haryana,24,247023,224116
+Haryana,25,305014,263957
+Haryana,26,252401,221138
+Haryana,27,206915,176405
+Haryana,28,250878,246173
+Haryana,29,163132,145946
+Haryana,30,316606,282797
+Haryana,31,156029,137610
+Haryana,32,205197,193704
+Haryana,33,144143,151353
+Haryana,34,154869,151283
+Haryana,35,303559,250888
+Haryana,36,178867,163838
+Haryana,37,132738,122290
+Haryana,38,181199,202545
+Haryana,39,116354,109585
+Haryana,40,305227,256778
+Haryana,41,126026,105375
+Haryana,42,158978,145464
+Haryana,43,100813,112118
+Haryana,44,99537,95634
+Haryana,45,255445,204917
+Haryana,46,121532,106292
+Haryana,47,86253,77636
+Haryana,48,118656,131313
+Haryana,49,73863,65907
+Haryana,50,216063,188251
+Haryana,51,80784,65726
+Haryana,52,89048,80054
+Haryana,53,62294,62081
+Haryana,54,62499,58428
+Haryana,55,140421,132950
+Haryana,56,75622,65757
+Haryana,57,48095,44889
+Haryana,58,65003,85178
+Haryana,59,45068,47955
+Haryana,60,161023,183361
+Haryana,61,66648,69313
+Haryana,62,83756,78783
+Haryana,63,57881,57781
+Haryana,64,44650,41153
+Haryana,65,121779,120328
+Haryana,66,46503,41830
+Haryana,67,28125,23370
+Haryana,68,35656,41366
+Haryana,69,23207,22275
+Haryana,70,100680,105084
+Haryana,71,29990,28896
+Haryana,72,27071,23878
+Haryana,73,15842,15021
+Haryana,74,14721,12978
+Haryana,75,48521,50634
+Haryana,76,17836,17413
+Haryana,77,10039,8156
+Haryana,78,12872,14000
+Haryana,79,8424,8322
+Haryana,80,42611,48427
+Haryana,81,12127,13033
+Haryana,82,8963,8087
+Haryana,83,5388,4904
+Haryana,84,4706,4149
+Haryana,85,15985,17356
+Haryana,86,5859,5624
+Haryana,87,2915,2293
+Haryana,88,3239,3018
+Haryana,89,2099,2107
+Haryana,90,10234,11790
+Haryana,91,2840,3199
+Haryana,92,2122,1842
+Haryana,93,1309,1229
+Haryana,94,1178,1115
+Haryana,95,2965,3318
+Haryana,96,1373,1401
+Haryana,97,808,744
+Haryana,98,1047,1195
+Haryana,99,652,808
+Haryana,100+,4977,5553
+Haryana,Age not stated,16888,14646
+Nct Of Delhi,0,135801,118896
+Nct Of Delhi,1,145143,126505
+Nct Of Delhi,2,148868,132796
+Nct Of Delhi,3,150577,135022
+Nct Of Delhi,4,153947,133645
+Nct Of Delhi,5,175420,147532
+Nct Of Delhi,6,165684,142618
+Nct Of Delhi,7,163769,142530
+Nct Of Delhi,8,166754,141635
+Nct Of Delhi,9,157860,132170
+Nct Of Delhi,10,199751,163789
+Nct Of Delhi,11,170780,142958
+Nct Of Delhi,12,183037,152546
+Nct Of Delhi,13,166567,143679
+Nct Of Delhi,14,175311,149729
+Nct Of Delhi,15,183018,151604
+Nct Of Delhi,16,179164,148387
+Nct Of Delhi,17,171583,138103
+Nct Of Delhi,18,217908,166264
+Nct Of Delhi,19,173445,137899
+Nct Of Delhi,20,218155,180189
+Nct Of Delhi,21,179370,148917
+Nct Of Delhi,22,202588,171663
+Nct Of Delhi,23,171041,151530
+Nct Of Delhi,24,180257,160350
+Nct Of Delhi,25,215787,196152
+Nct Of Delhi,26,187815,168685
+Nct Of Delhi,27,157514,137469
+Nct Of Delhi,28,188212,173941
+Nct Of Delhi,29,128868,113883
+Nct Of Delhi,30,234151,210139
+Nct Of Delhi,31,128112,109288
+Nct Of Delhi,32,161530,142923
+Nct Of Delhi,33,111309,103608
+Nct Of Delhi,34,122353,111286
+Nct Of Delhi,35,224792,185907
+Nct Of Delhi,36,135842,122183
+Nct Of Delhi,37,105526,94827
+Nct Of Delhi,38,136171,133922
+Nct Of Delhi,39,96124,83950
+Nct Of Delhi,40,211406,173005
+Nct Of Delhi,41,102086,84243
+Nct Of Delhi,42,117844,102407
+Nct Of Delhi,43,79612,75051
+Nct Of Delhi,44,79910,71633
+Nct Of Delhi,45,173543,139401
+Nct Of Delhi,46,94736,81285
+Nct Of Delhi,47,72645,61290
+Nct Of Delhi,48,91109,82678
+Nct Of Delhi,49,63194,51332
+Nct Of Delhi,50,135535,114257
+Nct Of Delhi,51,65681,52199
+Nct Of Delhi,52,68089,55691
+Nct Of Delhi,53,53264,43738
+Nct Of Delhi,54,53653,45362
+Nct Of Delhi,55,89496,81912
+Nct Of Delhi,56,55451,47508
+Nct Of Delhi,57,40270,33845
+Nct Of Delhi,58,46956,45102
+Nct Of Delhi,59,37012,31340
+Nct Of Delhi,60,86363,95635
+Nct Of Delhi,61,41977,40676
+Nct Of Delhi,62,44348,40553
+Nct Of Delhi,63,36179,31694
+Nct Of Delhi,64,29236,25358
+Nct Of Delhi,65,53707,56219
+Nct Of Delhi,66,27071,25776
+Nct Of Delhi,67,19632,16146
+Nct Of Delhi,68,22587,20868
+Nct Of Delhi,69,16401,14045
+Nct Of Delhi,70,38302,43507
+Nct Of Delhi,71,17754,17596
+Nct Of Delhi,72,15490,13902
+Nct Of Delhi,73,11797,9884
+Nct Of Delhi,74,11604,9414
+Nct Of Delhi,75,19360,22098
+Nct Of Delhi,76,10767,10519
+Nct Of Delhi,77,7101,5839
+Nct Of Delhi,78,7720,6856
+Nct Of Delhi,79,5498,4935
+Nct Of Delhi,80,12953,17389
+Nct Of Delhi,81,5826,6547
+Nct Of Delhi,82,4518,3987
+Nct Of Delhi,83,3402,2803
+Nct Of Delhi,84,3041,2562
+Nct Of Delhi,85,5370,6775
+Nct Of Delhi,86,2813,2925
+Nct Of Delhi,87,1901,1398
+Nct Of Delhi,88,1536,1259
+Nct Of Delhi,89,1130,908
+Nct Of Delhi,90,2567,3623
+Nct Of Delhi,91,1406,1548
+Nct Of Delhi,92,1059,989
+Nct Of Delhi,93,714,597
+Nct Of Delhi,94,629,640
+Nct Of Delhi,95,1134,1202
+Nct Of Delhi,96,757,752
+Nct Of Delhi,97,487,420
+Nct Of Delhi,98,521,464
+Nct Of Delhi,99,249,292
+Nct Of Delhi,100+,1848,2090
+Nct Of Delhi,Age not stated,9175,7527
+Rajasthan,0,722108,635198
+Rajasthan,1,733983,635967
+Rajasthan,2,817121,730237
+Rajasthan,3,796994,731136
+Rajasthan,4,788368,711058
+Rajasthan,5,915046,791642
+Rajasthan,6,865556,775090
+Rajasthan,7,802370,721301
+Rajasthan,8,932409,835396
+Rajasthan,9,743492,660436
+Rajasthan,10,1046140,927195
+Rajasthan,11,809002,711707
+Rajasthan,12,955169,844767
+Rajasthan,13,795839,727456
+Rajasthan,14,824546,738697
+Rajasthan,15,867769,751875
+Rajasthan,16,831610,724333
+Rajasthan,17,666499,569266
+Rajasthan,18,931689,825909
+Rajasthan,19,592307,552760
+Rajasthan,20,934787,856354
+Rajasthan,21,607832,506337
+Rajasthan,22,756582,628821
+Rajasthan,23,536706,537504
+Rajasthan,24,541576,519995
+Rajasthan,25,862408,701719
+Rajasthan,26,546662,493244
+Rajasthan,27,433504,396233
+Rajasthan,28,590952,668478
+Rajasthan,29,329533,325764
+Rajasthan,30,917649,796276
+Rajasthan,31,333572,297350
+Rajasthan,32,495337,498844
+Rajasthan,33,308887,388799
+Rajasthan,34,329124,356845
+Rajasthan,35,846216,651865
+Rajasthan,36,398621,376574
+Rajasthan,37,273234,283888
+Rajasthan,38,438341,567334
+Rajasthan,39,245378,253113
+Rajasthan,40,848707,693988
+Rajasthan,41,268010,231215
+Rajasthan,42,377358,367690
+Rajasthan,43,215195,284807
+Rajasthan,44,217646,230739
+Rajasthan,45,704064,554302
+Rajasthan,46,264988,247160
+Rajasthan,47,185132,194581
+Rajasthan,48,289959,380767
+Rajasthan,49,164369,160082
+Rajasthan,50,665163,526857
+Rajasthan,51,191211,149014
+Rajasthan,52,220700,202244
+Rajasthan,53,131411,157157
+Rajasthan,54,136522,136529
+Rajasthan,55,430930,387663
+Rajasthan,56,161476,149657
+Rajasthan,57,99048,107961
+Rajasthan,58,148269,217669
+Rajasthan,59,96143,98633
+Rajasthan,60,466184,448720
+Rajasthan,61,125354,114069
+Rajasthan,62,135939,140020
+Rajasthan,63,81999,101654
+Rajasthan,64,74548,81652
+Rajasthan,65,311363,339373
+Rajasthan,66,96121,98096
+Rajasthan,67,56665,58867
+Rajasthan,68,76147,117948
+Rajasthan,69,49175,56621
+Rajasthan,70,298081,326040
+Rajasthan,71,68825,70841
+Rajasthan,72,61887,62668
+Rajasthan,73,31182,35428
+Rajasthan,74,30036,31927
+Rajasthan,75,118780,146128
+Rajasthan,76,35811,40688
+Rajasthan,77,19256,19896
+Rajasthan,78,25632,34971
+Rajasthan,79,16537,19956
+Rajasthan,80,97963,134026
+Rajasthan,81,21556,27193
+Rajasthan,82,15385,16914
+Rajasthan,83,8262,9437
+Rajasthan,84,8188,8681
+Rajasthan,85,30311,40617
+Rajasthan,86,8949,10771
+Rajasthan,87,4650,4718
+Rajasthan,88,4766,6167
+Rajasthan,89,3260,4468
+Rajasthan,90,17330,28042
+Rajasthan,91,4312,6204
+Rajasthan,92,3101,3806
+Rajasthan,93,1838,2173
+Rajasthan,94,1812,2325
+Rajasthan,95,5452,7970
+Rajasthan,96,2204,2830
+Rajasthan,97,1298,1653
+Rajasthan,98,2088,3126
+Rajasthan,99,975,1613
+Rajasthan,100+,9041,11578
+Rajasthan,Age not stated,137515,132087
+Uttar Pradesh,0,1844947,1655612
+Uttar Pradesh,1,1914323,1724417
+Uttar Pradesh,2,2184858,2006725
+Uttar Pradesh,3,2347635,2198497
+Uttar Pradesh,4,2368711,2130943
+Uttar Pradesh,5,2815690,2448403
+Uttar Pradesh,6,2709417,2441153
+Uttar Pradesh,7,2516369,2267439
+Uttar Pradesh,8,2915118,2599422
+Uttar Pradesh,9,2293737,2054969
+Uttar Pradesh,10,3397755,2949523
+Uttar Pradesh,11,2425324,2133968
+Uttar Pradesh,12,2961012,2598983
+Uttar Pradesh,13,2301450,2131162
+Uttar Pradesh,14,2593613,2377091
+Uttar Pradesh,15,2760508,2427101
+Uttar Pradesh,16,2591691,2361441
+Uttar Pradesh,17,2058384,1827394
+Uttar Pradesh,18,3063915,2530525
+Uttar Pradesh,19,1833075,1586346
+Uttar Pradesh,20,2895147,2357152
+Uttar Pradesh,21,1659429,1343304
+Uttar Pradesh,22,2065047,1678513
+Uttar Pradesh,23,1317082,1388796
+Uttar Pradesh,24,1468780,1405398
+Uttar Pradesh,25,2424734,1850202
+Uttar Pradesh,26,1448323,1303229
+Uttar Pradesh,27,1031824,1027261
+Uttar Pradesh,28,1597201,1948250
+Uttar Pradesh,29,964285,984520
+Uttar Pradesh,30,2681401,2185313
+Uttar Pradesh,31,903075,837688
+Uttar Pradesh,32,1265678,1419680
+Uttar Pradesh,33,690412,1069022
+Uttar Pradesh,34,890835,1011578
+Uttar Pradesh,35,2680166,1860199
+Uttar Pradesh,36,1149865,1037706
+Uttar Pradesh,37,653675,767116
+Uttar Pradesh,38,1146111,1699644
+Uttar Pradesh,39,771414,790326
+Uttar Pradesh,40,2716130,1889804
+Uttar Pradesh,41,800741,640792
+Uttar Pradesh,42,862840,951574
+Uttar Pradesh,43,432319,735356
+Uttar Pradesh,44,583132,618714
+Uttar Pradesh,45,2121453,1459256
+Uttar Pradesh,46,713679,625533
+Uttar Pradesh,47,379439,461694
+Uttar Pradesh,48,674147,1040199
+Uttar Pradesh,49,493430,480947
+Uttar Pradesh,50,1944337,1335564
+Uttar Pradesh,51,546606,401763
+Uttar Pradesh,52,455992,483318
+Uttar Pradesh,53,255476,399586
+Uttar Pradesh,54,369506,394875
+Uttar Pradesh,55,1261369,1054788
+Uttar Pradesh,56,441690,420584
+Uttar Pradesh,57,217018,297298
+Uttar Pradesh,58,353169,688372
+Uttar Pradesh,59,352955,376903
+Uttar Pradesh,60,1586993,1332874
+Uttar Pradesh,61,461157,382703
+Uttar Pradesh,62,421013,435969
+Uttar Pradesh,63,217113,311363
+Uttar Pradesh,64,282495,273511
+Uttar Pradesh,65,1123038,936408
+Uttar Pradesh,66,313009,269592
+Uttar Pradesh,67,129211,145557
+Uttar Pradesh,68,193282,333056
+Uttar Pradesh,69,199932,196884
+Uttar Pradesh,70,991458,806681
+Uttar Pradesh,71,239023,191909
+Uttar Pradesh,72,142233,131238
+Uttar Pradesh,73,67377,81525
+Uttar Pradesh,74,95001,85923
+Uttar Pradesh,75,377304,333400
+Uttar Pradesh,76,106382,93810
+Uttar Pradesh,77,39476,40871
+Uttar Pradesh,78,54905,82204
+Uttar Pradesh,79,60810,60730
+Uttar Pradesh,80,319697,296525
+Uttar Pradesh,81,75297,68531
+Uttar Pradesh,82,36907,32787
+Uttar Pradesh,83,19640,20918
+Uttar Pradesh,84,27812,24442
+Uttar Pradesh,85,102081,88643
+Uttar Pradesh,86,31230,26812
+Uttar Pradesh,87,13098,11616
+Uttar Pradesh,88,16423,19303
+Uttar Pradesh,89,16434,16931
+Uttar Pradesh,90,74894,73099
+Uttar Pradesh,91,22223,21107
+Uttar Pradesh,92,11021,10258
+Uttar Pradesh,93,6198,6717
+Uttar Pradesh,94,8295,8120
+Uttar Pradesh,95,24589,22158
+Uttar Pradesh,96,9805,9106
+Uttar Pradesh,97,5018,5119
+Uttar Pradesh,98,8226,9681
+Uttar Pradesh,99,5704,6421
+Uttar Pradesh,100+,101329,98269
+Uttar Pradesh,Age not stated,865933,756129
+Bihar,0,1057050,957907
+Bihar,1,1213637,1116953
+Bihar,2,1434919,1367066
+Bihar,3,1441206,1394592
+Bihar,4,1430059,1351640
+Bihar,5,1605376,1466727
+Bihar,6,1704992,1591840
+Bihar,7,1411042,1325132
+Bihar,8,1798593,1673605
+Bihar,9,1276356,1182614
+Bihar,10,2027478,1821190
+Bihar,11,1256269,1129384
+Bihar,12,1683310,1504957
+Bihar,13,1135187,1049840
+Bihar,14,1221587,1090680
+Bihar,15,1289350,1036675
+Bihar,16,1143121,903830
+Bihar,17,798482,610419
+Bihar,18,1320854,973158
+Bihar,19,738774,658032
+Bihar,20,1239346,1110387
+Bihar,21,712345,609159
+Bihar,22,976344,846413
+Bihar,23,608628,634916
+Bihar,24,673922,653275
+Bihar,25,1353711,1188162
+Bihar,26,740356,693158
+Bihar,27,480414,503454
+Bihar,28,791885,967320
+Bihar,29,462321,490924
+Bihar,30,1541816,1398734
+Bihar,31,506306,484191
+Bihar,32,650216,724869
+Bihar,33,363956,473560
+Bihar,34,448302,463787
+Bihar,35,1487036,1186027
+Bihar,36,613976,556248
+Bihar,37,309388,349502
+Bihar,38,530373,704740
+Bihar,39,367388,352583
+Bihar,40,1450992,1093483
+Bihar,41,430031,341122
+Bihar,42,399965,426810
+Bihar,43,204798,276994
+Bihar,44,271023,270474
+Bihar,45,1109013,902291
+Bihar,46,371971,333603
+Bihar,47,176936,203317
+Bihar,48,316969,411209
+Bihar,49,235105,209960
+Bihar,50,1040278,756756
+Bihar,51,288732,214038
+Bihar,52,202699,210250
+Bihar,53,114404,146880
+Bihar,54,162312,176391
+Bihar,55,664285,673786
+Bihar,56,230098,230970
+Bihar,57,105331,129218
+Bihar,58,163161,264527
+Bihar,59,167481,167821
+Bihar,60,862240,770011
+Bihar,61,252467,216646
+Bihar,62,205627,208665
+Bihar,63,102895,124446
+Bihar,64,136696,128315
+Bihar,65,634337,555357
+Bihar,66,194151,160826
+Bihar,67,74574,65736
+Bihar,68,102737,124056
+Bihar,69,97919,80086
+Bihar,70,516432,388186
+Bihar,71,127664,93769
+Bihar,72,68227,53025
+Bihar,73,31510,27908
+Bihar,74,40550,32260
+Bihar,75,174520,146963
+Bihar,76,54839,43029
+Bihar,77,20829,15919
+Bihar,78,23505,25395
+Bihar,79,24280,21200
+Bihar,80,132872,116031
+Bihar,81,33001,28060
+Bihar,82,14698,12234
+Bihar,83,7310,6520
+Bihar,84,10116,8212
+Bihar,85,39811,34612
+Bihar,86,12576,10338
+Bihar,87,4791,3853
+Bihar,88,6172,5967
+Bihar,89,5908,5480
+Bihar,90,28102,26481
+Bihar,91,8327,7624
+Bihar,92,5436,5119
+Bihar,93,3043,3086
+Bihar,94,3945,3605
+Bihar,95,11690,9874
+Bihar,96,4839,3932
+Bihar,97,2309,2279
+Bihar,98,3821,4007
+Bihar,99,2337,2287
+Bihar,100+,19490,19153
+Bihar,Age not stated,220309,183193
+Sikkim,0,3905,3744
+Sikkim,1,4232,3990
+Sikkim,2,4180,4050
+Sikkim,3,4478,4237
+Sikkim,4,4890,4630
+Sikkim,5,5393,5167
+Sikkim,6,5683,5532
+Sikkim,7,5951,5777
+Sikkim,8,5525,5497
+Sikkim,9,6136,6017
+Sikkim,10,6929,6614
+Sikkim,11,6684,6481
+Sikkim,12,6846,6554
+Sikkim,13,6722,6590
+Sikkim,14,6784,6719
+Sikkim,15,6715,6608
+Sikkim,16,6667,6761
+Sikkim,17,6784,6360
+Sikkim,18,7347,6907
+Sikkim,19,6485,6303
+Sikkim,20,7084,6764
+Sikkim,21,6977,6434
+Sikkim,22,7204,6575
+Sikkim,23,6626,5960
+Sikkim,24,7255,6418
+Sikkim,25,7684,6719
+Sikkim,26,7263,6457
+Sikkim,27,6661,5658
+Sikkim,28,6962,6044
+Sikkim,29,6130,5061
+Sikkim,30,7428,6255
+Sikkim,31,5863,4953
+Sikkim,32,5580,4647
+Sikkim,33,4593,3724
+Sikkim,34,5098,4084
+Sikkim,35,5940,5185
+Sikkim,36,4835,4174
+Sikkim,37,4312,3712
+Sikkim,38,4438,3831
+Sikkim,39,3871,3329
+Sikkim,40,5215,4416
+Sikkim,41,4119,3136
+Sikkim,42,4396,3452
+Sikkim,43,3097,2549
+Sikkim,44,3343,2829
+Sikkim,45,4212,3511
+Sikkim,46,3233,2577
+Sikkim,47,2706,2291
+Sikkim,48,3113,2516
+Sikkim,49,2850,2453
+Sikkim,50,3800,3270
+Sikkim,51,2680,2200
+Sikkim,52,2679,1981
+Sikkim,53,2186,1608
+Sikkim,54,2279,1749
+Sikkim,55,2763,2147
+Sikkim,56,2084,1717
+Sikkim,57,1776,1214
+Sikkim,58,1671,1207
+Sikkim,59,1619,1343
+Sikkim,60,2385,2025
+Sikkim,61,1412,1087
+Sikkim,62,1258,1014
+Sikkim,63,1137,932
+Sikkim,64,1249,1051
+Sikkim,65,1661,1481
+Sikkim,66,1130,986
+Sikkim,67,934,790
+Sikkim,68,950,810
+Sikkim,69,918,823
+Sikkim,70,1380,1109
+Sikkim,71,837,618
+Sikkim,72,774,566
+Sikkim,73,655,497
+Sikkim,74,658,467
+Sikkim,75,744,585
+Sikkim,76,557,428
+Sikkim,77,455,329
+Sikkim,78,420,333
+Sikkim,79,380,285
+Sikkim,80,482,406
+Sikkim,81,266,224
+Sikkim,82,246,169
+Sikkim,83,203,177
+Sikkim,84,225,166
+Sikkim,85,221,164
+Sikkim,86,134,106
+Sikkim,87,99,94
+Sikkim,88,88,76
+Sikkim,89,70,59
+Sikkim,90,91,88
+Sikkim,91,70,45
+Sikkim,92,78,51
+Sikkim,93,27,28
+Sikkim,94,54,41
+Sikkim,95,58,37
+Sikkim,96,30,38
+Sikkim,97,30,20
+Sikkim,98,27,28
+Sikkim,99,21,10
+Sikkim,100+,58,37
+Sikkim,Age not stated,637,539
+Arunachal Pradesh,0,11799,11430
+Arunachal Pradesh,1,15296,14844
+Arunachal Pradesh,2,14628,14302
+Arunachal Pradesh,3,15191,14759
+Arunachal Pradesh,4,15550,15080
+Arunachal Pradesh,5,17508,16881
+Arunachal Pradesh,6,17652,17268
+Arunachal Pradesh,7,17142,16935
+Arunachal Pradesh,8,18189,17750
+Arunachal Pradesh,9,16208,15590
+Arunachal Pradesh,10,20115,19292
+Arunachal Pradesh,11,17170,16425
+Arunachal Pradesh,12,19251,19202
+Arunachal Pradesh,13,16365,16612
+Arunachal Pradesh,14,17538,17389
+Arunachal Pradesh,15,18039,17639
+Arunachal Pradesh,16,16310,16267
+Arunachal Pradesh,17,14261,13679
+Arunachal Pradesh,18,17304,16749
+Arunachal Pradesh,19,12759,12961
+Arunachal Pradesh,20,17035,17606
+Arunachal Pradesh,21,11860,12270
+Arunachal Pradesh,22,12798,12597
+Arunachal Pradesh,23,11496,10750
+Arunachal Pradesh,24,12844,12440
+Arunachal Pradesh,25,16172,15885
+Arunachal Pradesh,26,12682,12000
+Arunachal Pradesh,27,11248,10241
+Arunachal Pradesh,28,12925,12525
+Arunachal Pradesh,29,10339,9697
+Arunachal Pradesh,30,18073,17654
+Arunachal Pradesh,31,9561,8275
+Arunachal Pradesh,32,9521,8559
+Arunachal Pradesh,33,6845,6251
+Arunachal Pradesh,34,8462,7970
+Arunachal Pradesh,35,15227,14221
+Arunachal Pradesh,36,8762,8276
+Arunachal Pradesh,37,7033,6765
+Arunachal Pradesh,38,9029,9247
+Arunachal Pradesh,39,8160,7671
+Arunachal Pradesh,40,16639,14828
+Arunachal Pradesh,41,7620,6138
+Arunachal Pradesh,42,7476,5893
+Arunachal Pradesh,43,5147,4101
+Arunachal Pradesh,44,5979,4782
+Arunachal Pradesh,45,11860,9994
+Arunachal Pradesh,46,6361,4974
+Arunachal Pradesh,47,4860,3850
+Arunachal Pradesh,48,6512,5379
+Arunachal Pradesh,49,5580,4309
+Arunachal Pradesh,50,11266,8937
+Arunachal Pradesh,51,4732,3319
+Arunachal Pradesh,52,4197,2810
+Arunachal Pradesh,53,2822,2042
+Arunachal Pradesh,54,3470,2515
+Arunachal Pradesh,55,5839,4635
+Arunachal Pradesh,56,3388,2295
+Arunachal Pradesh,57,2420,1622
+Arunachal Pradesh,58,2689,2133
+Arunachal Pradesh,59,2660,2205
+Arunachal Pradesh,60,6418,5683
+Arunachal Pradesh,61,2449,2070
+Arunachal Pradesh,62,1862,1639
+Arunachal Pradesh,63,1304,1146
+Arunachal Pradesh,64,1459,1415
+Arunachal Pradesh,65,3164,3043
+Arunachal Pradesh,66,1273,1243
+Arunachal Pradesh,67,961,837
+Arunachal Pradesh,68,1108,1047
+Arunachal Pradesh,69,1136,1161
+Arunachal Pradesh,70,2975,2759
+Arunachal Pradesh,71,999,866
+Arunachal Pradesh,72,634,592
+Arunachal Pradesh,73,391,388
+Arunachal Pradesh,74,548,495
+Arunachal Pradesh,75,1141,1033
+Arunachal Pradesh,76,481,422
+Arunachal Pradesh,77,326,275
+Arunachal Pradesh,78,365,326
+Arunachal Pradesh,79,374,392
+Arunachal Pradesh,80,1008,942
+Arunachal Pradesh,81,335,326
+Arunachal Pradesh,82,222,221
+Arunachal Pradesh,83,135,119
+Arunachal Pradesh,84,171,194
+Arunachal Pradesh,85,341,330
+Arunachal Pradesh,86,150,150
+Arunachal Pradesh,87,92,108
+Arunachal Pradesh,88,127,100
+Arunachal Pradesh,89,101,106
+Arunachal Pradesh,90,298,273
+Arunachal Pradesh,91,93,97
+Arunachal Pradesh,92,69,76
+Arunachal Pradesh,93,46,48
+Arunachal Pradesh,94,64,65
+Arunachal Pradesh,95,88,98
+Arunachal Pradesh,96,51,47
+Arunachal Pradesh,97,48,45
+Arunachal Pradesh,98,58,53
+Arunachal Pradesh,99,30,21
+Arunachal Pradesh,100+,294,199
+Arunachal Pradesh,Age not stated,859,650
+Nagaland,0,17103,16361
+Nagaland,1,20579,19564
+Nagaland,2,20781,19392
+Nagaland,3,20888,19924
+Nagaland,4,21940,20730
+Nagaland,5,23692,21942
+Nagaland,6,24802,23373
+Nagaland,7,24604,22710
+Nagaland,8,24166,22453
+Nagaland,9,23383,21974
+Nagaland,10,28025,25995
+Nagaland,11,25536,23523
+Nagaland,12,26301,24375
+Nagaland,13,24785,22762
+Nagaland,14,24590,22779
+Nagaland,15,26094,24031
+Nagaland,16,24771,23480
+Nagaland,17,21890,21010
+Nagaland,18,25021,23908
+Nagaland,19,20218,19199
+Nagaland,20,25085,24404
+Nagaland,21,20721,19877
+Nagaland,22,19965,19401
+Nagaland,23,18346,17758
+Nagaland,24,19652,19154
+Nagaland,25,21469,20880
+Nagaland,26,19430,18783
+Nagaland,27,16145,15690
+Nagaland,28,18214,18311
+Nagaland,29,14340,13639
+Nagaland,30,22038,21745
+Nagaland,31,15500,14404
+Nagaland,32,14613,14019
+Nagaland,33,11839,11092
+Nagaland,34,12515,12159
+Nagaland,35,17084,16906
+Nagaland,36,13384,13175
+Nagaland,37,10743,10467
+Nagaland,38,13291,13573
+Nagaland,39,10193,9382
+Nagaland,40,18578,17354
+Nagaland,41,11866,10228
+Nagaland,42,10938,9889
+Nagaland,43,8401,7313
+Nagaland,44,7870,6824
+Nagaland,45,13544,12089
+Nagaland,46,10059,8123
+Nagaland,47,7990,6477
+Nagaland,48,8940,7642
+Nagaland,49,7224,5659
+Nagaland,50,12798,10890
+Nagaland,51,7291,5742
+Nagaland,52,6131,4941
+Nagaland,53,4918,3944
+Nagaland,54,4996,4208
+Nagaland,55,6787,5970
+Nagaland,56,5135,4220
+Nagaland,57,3838,3066
+Nagaland,58,4455,3690
+Nagaland,59,3526,2711
+Nagaland,60,7302,6407
+Nagaland,61,4013,3214
+Nagaland,62,3177,2810
+Nagaland,63,2760,2287
+Nagaland,64,2431,2118
+Nagaland,65,4109,3733
+Nagaland,66,2556,2273
+Nagaland,67,2028,1675
+Nagaland,68,2333,2176
+Nagaland,69,1775,1585
+Nagaland,70,3641,3485
+Nagaland,71,1929,1678
+Nagaland,72,1440,1173
+Nagaland,73,1142,962
+Nagaland,74,1108,1035
+Nagaland,75,1871,1767
+Nagaland,76,1181,995
+Nagaland,77,813,642
+Nagaland,78,1006,818
+Nagaland,79,764,708
+Nagaland,80,1577,1487
+Nagaland,81,785,662
+Nagaland,82,523,456
+Nagaland,83,404,344
+Nagaland,84,439,345
+Nagaland,85,544,555
+Nagaland,86,382,326
+Nagaland,87,283,266
+Nagaland,88,255,235
+Nagaland,89,263,192
+Nagaland,90,458,382
+Nagaland,91,215,194
+Nagaland,92,204,170
+Nagaland,93,154,115
+Nagaland,94,124,103
+Nagaland,95,185,131
+Nagaland,96,127,89
+Nagaland,97,98,80
+Nagaland,98,118,79
+Nagaland,99,63,46
+Nagaland,100+,199,149
+Nagaland,Age not stated,849,622
+Manipur,0,22852,21326
+Manipur,1,30580,27824
+Manipur,2,25449,23718
+Manipur,3,26997,25182
+Manipur,4,27282,25472
+Manipur,5,30408,28671
+Manipur,6,30916,28680
+Manipur,7,30285,29182
+Manipur,8,30471,28941
+Manipur,9,27686,26003
+Manipur,10,35162,32579
+Manipur,11,30781,28749
+Manipur,12,33380,31539
+Manipur,13,30843,29713
+Manipur,14,30980,30037
+Manipur,15,31912,30768
+Manipur,16,28529,28031
+Manipur,17,26464,26137
+Manipur,18,32559,32291
+Manipur,19,25031,25286
+Manipur,20,33066,33626
+Manipur,21,26170,26298
+Manipur,22,27607,27934
+Manipur,23,25875,26572
+Manipur,24,26869,27765
+Manipur,25,31578,33352
+Manipur,26,27060,27504
+Manipur,27,25353,25969
+Manipur,28,27383,28752
+Manipur,29,21514,22012
+Manipur,30,33111,34143
+Manipur,31,20758,20250
+Manipur,32,20557,20881
+Manipur,33,17192,17130
+Manipur,34,18060,18872
+Manipur,35,25983,26312
+Manipur,36,19168,19342
+Manipur,37,17360,17359
+Manipur,38,19911,21204
+Manipur,39,15597,16217
+Manipur,40,26581,27033
+Manipur,41,16756,15614
+Manipur,42,16164,15909
+Manipur,43,13161,13056
+Manipur,44,13234,13321
+Manipur,45,20511,20649
+Manipur,46,14461,13920
+Manipur,47,13031,12557
+Manipur,48,14314,14563
+Manipur,49,11600,11424
+Manipur,50,20465,21015
+Manipur,51,11217,10235
+Manipur,52,10658,10305
+Manipur,53,8799,8520
+Manipur,54,9459,9604
+Manipur,55,13051,13734
+Manipur,56,9574,8821
+Manipur,57,7666,7139
+Manipur,58,8268,8060
+Manipur,59,6850,6336
+Manipur,60,14057,14390
+Manipur,61,6606,6044
+Manipur,62,5774,5423
+Manipur,63,5005,4565
+Manipur,64,5125,4908
+Manipur,65,8150,8736
+Manipur,66,4498,4269
+Manipur,67,3703,3472
+Manipur,68,3718,3792
+Manipur,69,3149,3161
+Manipur,70,7239,7965
+Manipur,71,2994,2907
+Manipur,72,2391,2472
+Manipur,73,1956,1867
+Manipur,74,2196,2266
+Manipur,75,3869,4054
+Manipur,76,2128,2104
+Manipur,77,1639,1391
+Manipur,78,1725,1829
+Manipur,79,1302,1387
+Manipur,80,3129,3497
+Manipur,81,1297,1347
+Manipur,82,972,1011
+Manipur,83,823,738
+Manipur,84,846,873
+Manipur,85,1200,1212
+Manipur,86,663,664
+Manipur,87,508,466
+Manipur,88,409,428
+Manipur,89,325,333
+Manipur,90,561,703
+Manipur,91,269,261
+Manipur,92,197,198
+Manipur,93,142,154
+Manipur,94,121,147
+Manipur,95,180,244
+Manipur,96,143,123
+Manipur,97,100,118
+Manipur,98,117,132
+Manipur,99,53,74
+Manipur,100+,516,500
+Manipur,Age not stated,4232,3545
+Mizoram,0,12017,11882
+Mizoram,1,14711,14034
+Mizoram,2,11504,11152
+Mizoram,3,11844,11391
+Mizoram,4,11465,11233
+Mizoram,5,12056,11799
+Mizoram,6,11964,11479
+Mizoram,7,12123,11967
+Mizoram,8,11951,11484
+Mizoram,9,11794,11171
+Mizoram,10,12805,12511
+Mizoram,11,11958,11432
+Mizoram,12,11701,11285
+Mizoram,13,11631,11099
+Mizoram,14,11431,11128
+Mizoram,15,11437,10928
+Mizoram,16,11424,10929
+Mizoram,17,10973,10601
+Mizoram,18,11468,11304
+Mizoram,19,10605,10674
+Mizoram,20,12268,12272
+Mizoram,21,10828,11096
+Mizoram,22,10866,11246
+Mizoram,23,10569,10695
+Mizoram,24,10981,10887
+Mizoram,25,11417,11179
+Mizoram,26,10835,11078
+Mizoram,27,9850,9762
+Mizoram,28,10267,10603
+Mizoram,29,9021,8334
+Mizoram,30,10857,10400
+Mizoram,31,9190,9084
+Mizoram,32,8498,8454
+Mizoram,33,7982,8018
+Mizoram,34,7814,8077
+Mizoram,35,9242,8852
+Mizoram,36,7565,7399
+Mizoram,37,6945,6737
+Mizoram,38,7366,7316
+Mizoram,39,5699,5263
+Mizoram,40,7371,6712
+Mizoram,41,5710,5337
+Mizoram,42,5946,5655
+Mizoram,43,4826,4530
+Mizoram,44,6117,5976
+Mizoram,45,6399,6206
+Mizoram,46,5659,5688
+Mizoram,47,5226,5021
+Mizoram,48,5429,5296
+Mizoram,49,4315,3936
+Mizoram,50,5704,5565
+Mizoram,51,4809,4590
+Mizoram,52,4400,4250
+Mizoram,53,3929,3662
+Mizoram,54,3714,3633
+Mizoram,55,3872,3650
+Mizoram,56,3621,3325
+Mizoram,57,2918,2727
+Mizoram,58,3153,3009
+Mizoram,59,2575,2327
+Mizoram,60,3317,3321
+Mizoram,61,2422,2394
+Mizoram,62,2213,2208
+Mizoram,63,2424,2226
+Mizoram,64,1981,1974
+Mizoram,65,2080,2202
+Mizoram,66,1684,1666
+Mizoram,67,1467,1428
+Mizoram,68,1594,1596
+Mizoram,69,1289,1164
+Mizoram,70,1760,1791
+Mizoram,71,1267,1176
+Mizoram,72,1091,1002
+Mizoram,73,1043,984
+Mizoram,74,947,959
+Mizoram,75,1135,1173
+Mizoram,76,819,798
+Mizoram,77,729,775
+Mizoram,78,696,626
+Mizoram,79,505,528
+Mizoram,80,771,814
+Mizoram,81,534,530
+Mizoram,82,403,375
+Mizoram,83,344,355
+Mizoram,84,300,362
+Mizoram,85,292,341
+Mizoram,86,227,291
+Mizoram,87,188,193
+Mizoram,88,158,179
+Mizoram,89,103,145
+Mizoram,90,152,195
+Mizoram,91,73,100
+Mizoram,92,60,66
+Mizoram,93,53,53
+Mizoram,94,36,41
+Mizoram,95,37,59
+Mizoram,96,32,36
+Mizoram,97,26,24
+Mizoram,98,27,39
+Mizoram,99,17,25
+Mizoram,100+,49,69
+Mizoram,Age not stated,379,254
+Tripura,0,28650,27625
+Tripura,1,32563,31545
+Tripura,2,33442,31570
+Tripura,3,35467,34061
+Tripura,4,34383,33260
+Tripura,5,35258,33962
+Tripura,6,34245,31983
+Tripura,7,33918,32512
+Tripura,8,34968,33481
+Tripura,9,34152,33256
+Tripura,10,38244,36202
+Tripura,11,35830,34324
+Tripura,12,38045,36189
+Tripura,13,35375,33999
+Tripura,14,35507,33975
+Tripura,15,36298,34722
+Tripura,16,36901,34633
+Tripura,17,35616,31846
+Tripura,18,38564,38971
+Tripura,19,33757,36521
+Tripura,20,41080,45482
+Tripura,21,35264,36155
+Tripura,22,37557,37940
+Tripura,23,34324,34135
+Tripura,24,35554,35686
+Tripura,25,42174,44312
+Tripura,26,36262,35896
+Tripura,27,34399,31100
+Tripura,28,33738,31836
+Tripura,29,28486,25946
+Tripura,30,42615,40769
+Tripura,31,29609,27113
+Tripura,32,29365,26800
+Tripura,33,23509,20947
+Tripura,34,24133,22129
+Tripura,35,38025,37804
+Tripura,36,29918,28384
+Tripura,37,24739,22791
+Tripura,38,26855,25850
+Tripura,39,23514,21462
+Tripura,40,36394,35639
+Tripura,41,25052,23445
+Tripura,42,24638,22262
+Tripura,43,19062,16675
+Tripura,44,18947,16637
+Tripura,45,31870,31954
+Tripura,46,21583,20233
+Tripura,47,17638,15623
+Tripura,48,19676,17230
+Tripura,49,15950,13712
+Tripura,50,27446,26931
+Tripura,51,18721,15910
+Tripura,52,16588,13527
+Tripura,53,11990,9170
+Tripura,54,11882,10021
+Tripura,55,19859,19919
+Tripura,56,13454,11676
+Tripura,57,9778,7925
+Tripura,58,9990,8037
+Tripura,59,8768,7468
+Tripura,60,18205,19608
+Tripura,61,10808,10208
+Tripura,62,8774,7926
+Tripura,63,5901,4593
+Tripura,64,5923,5183
+Tripura,65,13722,15150
+Tripura,66,7623,7480
+Tripura,67,5086,4515
+Tripura,68,4447,4173
+Tripura,69,4166,4118
+Tripura,70,11217,13199
+Tripura,71,5713,5913
+Tripura,72,3942,3618
+Tripura,73,2372,1928
+Tripura,74,2291,2131
+Tripura,75,5986,7135
+Tripura,76,3240,3603
+Tripura,77,1890,1963
+Tripura,78,1617,1554
+Tripura,79,1526,1572
+Tripura,80,4273,5754
+Tripura,81,2115,2443
+Tripura,82,1284,1311
+Tripura,83,683,677
+Tripura,84,685,702
+Tripura,85,1694,2263
+Tripura,86,922,1177
+Tripura,87,536,612
+Tripura,88,359,381
+Tripura,89,411,507
+Tripura,90,1072,1876
+Tripura,91,465,707
+Tripura,92,325,369
+Tripura,93,181,210
+Tripura,94,251,252
+Tripura,95,515,695
+Tripura,96,318,329
+Tripura,97,210,216
+Tripura,98,236,246
+Tripura,99,156,239
+Tripura,100+,780,1088
+Tripura,Age not stated,867,749
+Meghalaya,0,41353,39940
+Meghalaya,1,43842,42420
+Meghalaya,2,39792,38927
+Meghalaya,3,40228,39185
+Meghalaya,4,40631,39836
+Meghalaya,5,41342,39859
+Meghalaya,6,41458,39723
+Meghalaya,7,39338,38367
+Meghalaya,8,38410,37883
+Meghalaya,9,37037,35765
+Meghalaya,10,42976,41393
+Meghalaya,11,39148,37563
+Meghalaya,12,39303,38291
+Meghalaya,13,36051,36034
+Meghalaya,14,35995,35852
+Meghalaya,15,35883,34808
+Meghalaya,16,35098,34117
+Meghalaya,17,31749,30561
+Meghalaya,18,33933,33240
+Meghalaya,19,28053,28746
+Meghalaya,20,32348,33881
+Meghalaya,21,26999,27954
+Meghalaya,22,27430,28603
+Meghalaya,23,25285,26663
+Meghalaya,24,27078,28771
+Meghalaya,25,30024,30857
+Meghalaya,26,26427,26835
+Meghalaya,27,23290,23356
+Meghalaya,28,24597,25113
+Meghalaya,29,20338,20444
+Meghalaya,30,28698,26596
+Meghalaya,31,19552,18666
+Meghalaya,32,17612,17746
+Meghalaya,33,13692,14098
+Meghalaya,34,16232,16765
+Meghalaya,35,23224,22008
+Meghalaya,36,17785,17531
+Meghalaya,37,14364,14677
+Meghalaya,38,16984,18046
+Meghalaya,39,14963,15124
+Meghalaya,40,22885,21474
+Meghalaya,41,14655,14368
+Meghalaya,42,13980,13856
+Meghalaya,43,10668,10905
+Meghalaya,44,11189,11470
+Meghalaya,45,18108,17361
+Meghalaya,46,13020,12498
+Meghalaya,47,10257,9701
+Meghalaya,48,11482,11150
+Meghalaya,49,10176,9362
+Meghalaya,50,16041,14798
+Meghalaya,51,9225,8449
+Meghalaya,52,7948,7373
+Meghalaya,53,5993,5862
+Meghalaya,54,6703,6351
+Meghalaya,55,8583,8327
+Meghalaya,56,6769,6402
+Meghalaya,57,4828,4551
+Meghalaya,58,5225,5123
+Meghalaya,59,5287,5014
+Meghalaya,60,9325,9252
+Meghalaya,61,4954,4939
+Meghalaya,62,4062,4030
+Meghalaya,63,3461,3336
+Meghalaya,64,3619,3730
+Meghalaya,65,6219,6446
+Meghalaya,66,3347,3514
+Meghalaya,67,2457,2574
+Meghalaya,68,2754,2908
+Meghalaya,69,2705,2850
+Meghalaya,70,4952,5624
+Meghalaya,71,2356,2558
+Meghalaya,72,1536,1688
+Meghalaya,73,1073,1211
+Meghalaya,74,1244,1456
+Meghalaya,75,2172,2619
+Meghalaya,76,1266,1473
+Meghalaya,77,768,878
+Meghalaya,78,811,1010
+Meghalaya,79,831,1017
+Meghalaya,80,1687,2125
+Meghalaya,81,781,950
+Meghalaya,82,490,551
+Meghalaya,83,325,419
+Meghalaya,84,400,489
+Meghalaya,85,578,803
+Meghalaya,86,311,442
+Meghalaya,87,232,300
+Meghalaya,88,206,273
+Meghalaya,89,229,289
+Meghalaya,90,426,624
+Meghalaya,91,179,256
+Meghalaya,92,140,153
+Meghalaya,93,89,125
+Meghalaya,94,129,122
+Meghalaya,95,137,178
+Meghalaya,96,131,144
+Meghalaya,97,85,103
+Meghalaya,98,100,102
+Meghalaya,99,79,72
+Meghalaya,100+,293,330
+Meghalaya,Age not stated,3329,2455
+Assam,0,280888,267962
+Assam,1,319440,306716
+Assam,2,340330,329228
+Assam,3,350169,341445
+Assam,4,344095,332560
+Assam,5,371004,353712
+Assam,6,357559,343022
+Assam,7,374789,362567
+Assam,8,374655,360231
+Assam,9,328339,318461
+Assam,10,395123,370837
+Assam,11,332178,318029
+Assam,12,383476,361395
+Assam,13,337035,326074
+Assam,14,341569,326011
+Assam,15,352466,321086
+Assam,16,333980,293515
+Assam,17,283757,244018
+Assam,18,358886,332016
+Assam,19,266400,282457
+Assam,20,345112,384629
+Assam,21,252850,270141
+Assam,22,310640,322185
+Assam,23,249979,254399
+Assam,24,256999,262471
+Assam,25,375426,417911
+Assam,26,286366,294182
+Assam,27,243678,231904
+Assam,28,286068,279168
+Assam,29,201504,198940
+Assam,30,403689,417455
+Assam,31,208708,202963
+Assam,32,225436,214809
+Assam,33,161668,151209
+Assam,34,174746,169377
+Assam,35,398155,392194
+Assam,36,231204,222805
+Assam,37,155189,144906
+Assam,38,206802,196677
+Assam,39,162329,150212
+Assam,40,379934,357084
+Assam,41,178638,157017
+Assam,42,170560,145661
+Assam,43,115053,98111
+Assam,44,121278,107870
+Assam,45,317336,301876
+Assam,46,161721,141959
+Assam,47,106889,88307
+Assam,48,147725,122459
+Assam,49,112410,94567
+Assam,50,276550,262887
+Assam,51,123411,102390
+Assam,52,100157,74951
+Assam,53,67873,48377
+Assam,54,74269,61498
+Assam,55,181925,176153
+Assam,56,94084,78564
+Assam,57,53654,39328
+Assam,58,66589,51590
+Assam,59,61990,52948
+Assam,60,184618,197454
+Assam,61,78449,73173
+Assam,62,54680,46396
+Assam,63,37248,28404
+Assam,64,39568,35708
+Assam,65,116745,128104
+Assam,66,50723,47997
+Assam,67,27200,21127
+Assam,68,29302,24982
+Assam,69,30003,27459
+Assam,70,104845,111500
+Assam,71,39522,37009
+Assam,72,22826,17746
+Assam,73,13950,10067
+Assam,74,15302,12510
+Assam,75,47312,46535
+Assam,76,20122,17469
+Assam,77,9228,6776
+Assam,78,10185,7889
+Assam,79,9752,9084
+Assam,80,32477,37365
+Assam,81,12453,12550
+Assam,82,6393,4982
+Assam,83,3978,3048
+Assam,84,4531,3847
+Assam,85,11557,11946
+Assam,86,4996,4813
+Assam,87,2312,1947
+Assam,88,2198,1755
+Assam,89,2395,2513
+Assam,90,8233,10350
+Assam,91,3262,3633
+Assam,92,1723,1512
+Assam,93,1206,1021
+Assam,94,1423,1283
+Assam,95,3377,3372
+Assam,96,1891,1620
+Assam,97,1054,792
+Assam,98,1323,1122
+Assam,99,1076,1024
+Assam,100+,5379,5843
+Assam,Age not stated,9894,8930
+West Bengal,0,658033,624760
+West Bengal,1,717355,681923
+West Bengal,2,770215,737218
+West Bengal,3,801170,782928
+West Bengal,4,797089,762452
+West Bengal,5,862822,816986
+West Bengal,6,803712,764803
+West Bengal,7,849029,816280
+West Bengal,8,882730,840173
+West Bengal,9,818470,792804
+West Bengal,10,1010766,953312
+West Bengal,11,865049,826152
+West Bengal,12,984295,924494
+West Bengal,13,887191,872702
+West Bengal,14,930205,902357
+West Bengal,15,959715,896929
+West Bengal,16,939171,848673
+West Bengal,17,870750,746690
+West Bengal,18,1103257,1017917
+West Bengal,19,829432,845497
+West Bengal,20,1043157,1119115
+West Bengal,21,803764,778992
+West Bengal,22,979828,931777
+West Bengal,23,782313,736866
+West Bengal,24,813568,768942
+West Bengal,25,1026692,1076954
+West Bengal,26,852456,823917
+West Bengal,27,732977,678744
+West Bengal,28,858415,810975
+West Bengal,29,574364,562415
+West Bengal,30,1122177,1151193
+West Bengal,31,549559,541090
+West Bengal,32,709939,677151
+West Bengal,33,519093,477802
+West Bengal,34,563891,529695
+West Bengal,35,1104185,1131554
+West Bengal,36,685605,693862
+West Bengal,37,528305,513365
+West Bengal,38,703659,676401
+West Bengal,39,501607,474103
+West Bengal,40,1164722,1117440
+West Bengal,41,562412,519879
+West Bengal,42,640040,548895
+West Bengal,43,428723,369124
+West Bengal,44,423707,378118
+West Bengal,45,1004383,966558
+West Bengal,46,537208,491811
+West Bengal,47,386701,327390
+West Bengal,48,534323,445090
+West Bengal,49,351597,290658
+West Bengal,50,891607,822200
+West Bengal,51,441198,358504
+West Bengal,52,411010,314849
+West Bengal,53,282548,210311
+West Bengal,54,290869,234784
+West Bengal,55,645549,632427
+West Bengal,56,375674,319621
+West Bengal,57,235625,179444
+West Bengal,58,281633,219301
+West Bengal,59,208422,170954
+West Bengal,60,582619,619732
+West Bengal,61,271593,251574
+West Bengal,62,232224,203337
+West Bengal,63,161065,126690
+West Bengal,64,158900,137720
+West Bengal,65,418497,479867
+West Bengal,66,204958,200767
+West Bengal,67,129025,102407
+West Bengal,68,135268,117056
+West Bengal,69,103532,91616
+West Bengal,70,315300,371959
+West Bengal,71,131532,131133
+West Bengal,72,107835,94607
+West Bengal,73,67637,51578
+West Bengal,74,64577,54449
+West Bengal,75,156758,187063
+West Bengal,76,80184,82760
+West Bengal,77,43347,36455
+West Bengal,78,46268,41470
+West Bengal,79,33659,31803
+West Bengal,80,98784,130085
+West Bengal,81,42256,47834
+West Bengal,82,29798,28149
+West Bengal,83,18229,15518
+West Bengal,84,18125,17025
+West Bengal,85,41652,53122
+West Bengal,86,20847,23170
+West Bengal,87,11390,10255
+West Bengal,88,10481,9737
+West Bengal,89,7667,8724
+West Bengal,90,22493,35417
+West Bengal,91,13396,16327
+West Bengal,92,9125,9620
+West Bengal,93,4230,4142
+West Bengal,94,4579,4733
+West Bengal,95,9848,13632
+West Bengal,96,5341,6415
+West Bengal,97,3551,3573
+West Bengal,98,4474,4962
+West Bengal,99,2414,3255
+West Bengal,100+,27856,31330
+West Bengal,Age not stated,63752,48699
+Jharkhand,0,323923,301266
+Jharkhand,1,353600,328788
+Jharkhand,2,389275,370188
+Jharkhand,3,409861,401155
+Jharkhand,4,394475,375766
+Jharkhand,5,447878,416283
+Jharkhand,6,448135,428902
+Jharkhand,7,401517,388551
+Jharkhand,8,471739,450379
+Jharkhand,9,348610,336431
+Jharkhand,10,521422,483063
+Jharkhand,11,356346,335816
+Jharkhand,12,486510,454181
+Jharkhand,13,364081,355848
+Jharkhand,14,384268,362861
+Jharkhand,15,408766,353636
+Jharkhand,16,362192,309714
+Jharkhand,17,278341,232394
+Jharkhand,18,414989,349269
+Jharkhand,19,250599,245368
+Jharkhand,20,385606,390437
+Jharkhand,21,244422,226345
+Jharkhand,22,331708,306324
+Jharkhand,23,222319,227832
+Jharkhand,24,247208,245421
+Jharkhand,25,421509,409253
+Jharkhand,26,269643,253571
+Jharkhand,27,202817,194948
+Jharkhand,28,282370,290616
+Jharkhand,29,165975,161937
+Jharkhand,30,453884,434973
+Jharkhand,31,166082,157014
+Jharkhand,32,236317,234367
+Jharkhand,33,144963,153059
+Jharkhand,34,164620,162017
+Jharkhand,35,433413,383605
+Jharkhand,36,204511,190797
+Jharkhand,37,130395,132897
+Jharkhand,38,194102,212818
+Jharkhand,39,130254,123972
+Jharkhand,40,414526,368838
+Jharkhand,41,141260,122547
+Jharkhand,42,166338,158645
+Jharkhand,43,95690,101758
+Jharkhand,44,112607,106297
+Jharkhand,45,348652,308118
+Jharkhand,46,139429,125218
+Jharkhand,47,88820,86154
+Jharkhand,48,133228,135782
+Jharkhand,49,88837,79856
+Jharkhand,50,301815,267839
+Jharkhand,51,95152,80504
+Jharkhand,52,94151,87172
+Jharkhand,53,58452,58671
+Jharkhand,54,71112,71313
+Jharkhand,55,211507,224137
+Jharkhand,56,87140,83586
+Jharkhand,57,54318,52329
+Jharkhand,58,73683,81616
+Jharkhand,59,60956,55962
+Jharkhand,60,235735,248330
+Jharkhand,61,74855,71889
+Jharkhand,62,75878,75446
+Jharkhand,63,42292,42601
+Jharkhand,64,45805,44651
+Jharkhand,65,169504,176331
+Jharkhand,66,54772,51356
+Jharkhand,67,28579,25784
+Jharkhand,68,36302,38159
+Jharkhand,69,28695,25915
+Jharkhand,70,129853,124845
+Jharkhand,71,31800,28109
+Jharkhand,72,23781,20673
+Jharkhand,73,12042,10709
+Jharkhand,74,13402,11894
+Jharkhand,75,46796,48247
+Jharkhand,76,14509,13778
+Jharkhand,77,6792,6323
+Jharkhand,78,8439,9106
+Jharkhand,79,7006,6958
+Jharkhand,80,34468,35361
+Jharkhand,81,8210,7684
+Jharkhand,82,4819,4613
+Jharkhand,83,2766,2513
+Jharkhand,84,3151,2791
+Jharkhand,85,10757,10677
+Jharkhand,86,3403,3001
+Jharkhand,87,1522,1402
+Jharkhand,88,1737,1737
+Jharkhand,89,1562,1568
+Jharkhand,90,7183,7652
+Jharkhand,91,1895,1838
+Jharkhand,92,1334,1283
+Jharkhand,93,768,685
+Jharkhand,94,961,869
+Jharkhand,95,2760,2641
+Jharkhand,96,1033,1034
+Jharkhand,97,616,536
+Jharkhand,98,903,969
+Jharkhand,99,570,601
+Jharkhand,100+,4490,4374
+Jharkhand,Age not stated,62252,54482
+Odisha,0,345960,324949
+Odisha,1,399084,370743
+Odisha,2,363209,344678
+Odisha,3,381316,369300
+Odisha,4,388558,365232
+Odisha,5,429353,398758
+Odisha,6,409017,383037
+Odisha,7,419291,408833
+Odisha,8,433510,416854
+Odisha,9,394168,381947
+Odisha,10,468214,445392
+Odisha,11,428712,411221
+Odisha,12,467103,449696
+Odisha,13,420237,419236
+Odisha,14,419269,419545
+Odisha,15,436883,432703
+Odisha,16,388035,387017
+Odisha,17,346739,345307
+Odisha,18,460498,445918
+Odisha,19,340529,341769
+Odisha,20,470195,507836
+Odisha,21,338625,338370
+Odisha,22,403387,398014
+Odisha,23,331531,337882
+Odisha,24,327201,330486
+Odisha,25,471972,524738
+Odisha,26,352927,350537
+Odisha,27,310830,300072
+Odisha,28,381733,380392
+Odisha,29,255414,245422
+Odisha,30,504205,552287
+Odisha,31,247063,240754
+Odisha,32,302942,302137
+Odisha,33,231376,225757
+Odisha,34,256647,239823
+Odisha,35,502684,521292
+Odisha,36,294474,289046
+Odisha,37,216369,209448
+Odisha,38,298289,303157
+Odisha,39,216869,199560
+Odisha,40,505346,513062
+Odisha,41,242420,214922
+Odisha,42,268307,237431
+Odisha,43,181339,166111
+Odisha,44,190508,172028
+Odisha,45,437220,429262
+Odisha,46,233358,210241
+Odisha,47,164935,145761
+Odisha,48,225442,205384
+Odisha,49,151411,131016
+Odisha,50,388647,396273
+Odisha,51,173338,147238
+Odisha,52,166334,141409
+Odisha,53,109710,94514
+Odisha,54,119495,110854
+Odisha,55,277931,307561
+Odisha,56,151823,138631
+Odisha,57,96710,85716
+Odisha,58,123835,120660
+Odisha,59,93992,86861
+Odisha,60,314904,354024
+Odisha,61,133010,126951
+Odisha,62,132177,118106
+Odisha,63,79149,66246
+Odisha,64,78395,71099
+Odisha,65,222967,248586
+Odisha,66,92898,87756
+Odisha,67,54942,45587
+Odisha,68,66099,61411
+Odisha,69,50943,48336
+Odisha,70,200417,224793
+Odisha,71,64878,64353
+Odisha,72,54730,47561
+Odisha,73,29753,23519
+Odisha,74,30857,27209
+Odisha,75,87822,96701
+Odisha,76,36424,34389
+Odisha,77,19652,15881
+Odisha,78,22078,19049
+Odisha,79,17318,15486
+Odisha,80,69255,72172
+Odisha,81,21294,19973
+Odisha,82,14518,11144
+Odisha,83,8104,5574
+Odisha,84,8458,6321
+Odisha,85,22656,20486
+Odisha,86,8677,7277
+Odisha,87,4658,3340
+Odisha,88,4363,3365
+Odisha,89,3463,3167
+Odisha,90,12830,14091
+Odisha,91,3737,3817
+Odisha,92,2588,2264
+Odisha,93,1492,1259
+Odisha,94,1587,1411
+Odisha,95,3878,4078
+Odisha,96,1776,1592
+Odisha,97,1179,1008
+Odisha,98,1562,1505
+Odisha,99,861,923
+Odisha,100+,7921,8368
+Odisha,Age not stated,61347,57824
+Chhattisgarh,0,253745,244497
+Chhattisgarh,1,238726,229676
+Chhattisgarh,2,255727,248740
+Chhattisgarh,3,273363,273921
+Chhattisgarh,4,265409,257261
+Chhattisgarh,5,289080,274708
+Chhattisgarh,6,283885,272951
+Chhattisgarh,7,273006,266429
+Chhattisgarh,8,292487,281478
+Chhattisgarh,9,265621,259113
+Chhattisgarh,10,328502,313874
+Chhattisgarh,11,290403,280204
+Chhattisgarh,12,299695,291195
+Chhattisgarh,13,267634,266666
+Chhattisgarh,14,274951,270889
+Chhattisgarh,15,279910,269780
+Chhattisgarh,16,273513,267711
+Chhattisgarh,17,241275,232412
+Chhattisgarh,18,301756,284871
+Chhattisgarh,19,222997,225617
+Chhattisgarh,20,291123,306303
+Chhattisgarh,21,221076,210295
+Chhattisgarh,22,259030,250031
+Chhattisgarh,23,208314,215645
+Chhattisgarh,24,213835,213845
+Chhattisgarh,25,277843,267334
+Chhattisgarh,26,217227,202947
+Chhattisgarh,27,186718,175330
+Chhattisgarh,28,221163,226669
+Chhattisgarh,29,146287,135782
+Chhattisgarh,30,294827,296084
+Chhattisgarh,31,137213,127486
+Chhattisgarh,32,183092,190715
+Chhattisgarh,33,134137,151725
+Chhattisgarh,34,148754,151025
+Chhattisgarh,35,289102,266915
+Chhattisgarh,36,171267,163233
+Chhattisgarh,37,131385,134585
+Chhattisgarh,38,177268,206601
+Chhattisgarh,39,122243,116815
+Chhattisgarh,40,306697,292242
+Chhattisgarh,41,122850,107139
+Chhattisgarh,42,156202,153238
+Chhattisgarh,43,107066,122637
+Chhattisgarh,44,103587,104895
+Chhattisgarh,45,271157,235297
+Chhattisgarh,46,125360,112664
+Chhattisgarh,47,91811,90461
+Chhattisgarh,48,126306,133290
+Chhattisgarh,49,78340,69688
+Chhattisgarh,50,231544,209905
+Chhattisgarh,51,75658,64661
+Chhattisgarh,52,84191,82214
+Chhattisgarh,53,56769,64601
+Chhattisgarh,54,62164,61240
+Chhattisgarh,55,163324,159454
+Chhattisgarh,56,70443,66463
+Chhattisgarh,57,47078,50961
+Chhattisgarh,58,63111,77595
+Chhattisgarh,59,45382,45542
+Chhattisgarh,60,164568,188484
+Chhattisgarh,61,52443,53391
+Chhattisgarh,62,57256,65886
+Chhattisgarh,63,37809,46446
+Chhattisgarh,64,36880,40579
+Chhattisgarh,65,125362,147915
+Chhattisgarh,66,40834,45687
+Chhattisgarh,67,24807,28517
+Chhattisgarh,68,31248,42394
+Chhattisgarh,69,22085,24961
+Chhattisgarh,70,103994,123667
+Chhattisgarh,71,25006,26730
+Chhattisgarh,72,21099,22524
+Chhattisgarh,73,11835,13225
+Chhattisgarh,74,12315,12605
+Chhattisgarh,75,42462,51388
+Chhattisgarh,76,12433,14358
+Chhattisgarh,77,6725,7630
+Chhattisgarh,78,7890,10500
+Chhattisgarh,79,6035,7157
+Chhattisgarh,80,31268,39220
+Chhattisgarh,81,6753,8035
+Chhattisgarh,82,4477,4930
+Chhattisgarh,83,2700,2905
+Chhattisgarh,84,2749,2974
+Chhattisgarh,85,9490,11515
+Chhattisgarh,86,2700,3090
+Chhattisgarh,87,1430,1670
+Chhattisgarh,88,1590,1983
+Chhattisgarh,89,1399,1694
+Chhattisgarh,90,6149,8014
+Chhattisgarh,91,1709,2002
+Chhattisgarh,92,1413,1450
+Chhattisgarh,93,885,1016
+Chhattisgarh,94,1124,1123
+Chhattisgarh,95,2344,2704
+Chhattisgarh,96,1157,1139
+Chhattisgarh,97,746,786
+Chhattisgarh,98,1110,1180
+Chhattisgarh,99,533,618
+Chhattisgarh,100+,3347,3658
+Chhattisgarh,Age not stated,12107,11008
+Madhya Pradesh,0,733148,677139
+Madhya Pradesh,1,756113,689164
+Madhya Pradesh,2,783964,729385
+Madhya Pradesh,3,802830,759852
+Madhya Pradesh,4,798192,741499
+Madhya Pradesh,5,889096,781910
+Madhya Pradesh,6,872829,794274
+Madhya Pradesh,7,833279,778329
+Madhya Pradesh,8,930043,864149
+Madhya Pradesh,9,784446,738100
+Madhya Pradesh,10,1030242,950852
+Madhya Pradesh,11,835981,783746
+Madhya Pradesh,12,948499,871117
+Madhya Pradesh,13,798035,753044
+Madhya Pradesh,14,826572,766413
+Madhya Pradesh,15,858450,754630
+Madhya Pradesh,16,827357,724096
+Madhya Pradesh,17,694205,598938
+Madhya Pradesh,18,943897,797945
+Madhya Pradesh,19,656163,591108
+Madhya Pradesh,20,936168,835135
+Madhya Pradesh,21,652578,539337
+Madhya Pradesh,22,785732,653431
+Madhya Pradesh,23,583939,572673
+Madhya Pradesh,24,595671,572915
+Madhya Pradesh,25,854734,713487
+Madhya Pradesh,26,625036,560766
+Madhya Pradesh,27,476151,445435
+Madhya Pradesh,28,639659,699023
+Madhya Pradesh,29,392745,380470
+Madhya Pradesh,30,959962,830526
+Madhya Pradesh,31,401108,353625
+Madhya Pradesh,32,535057,529479
+Madhya Pradesh,33,362721,435840
+Madhya Pradesh,34,391857,414785
+Madhya Pradesh,35,901015,693216
+Madhya Pradesh,36,486897,439197
+Madhya Pradesh,37,322140,333232
+Madhya Pradesh,38,471480,593963
+Madhya Pradesh,39,311932,308599
+Madhya Pradesh,40,913128,740764
+Madhya Pradesh,41,342744,284249
+Madhya Pradesh,42,413170,396474
+Madhya Pradesh,43,259953,322927
+Madhya Pradesh,44,264893,276172
+Madhya Pradesh,45,750959,585654
+Madhya Pradesh,46,335793,299766
+Madhya Pradesh,47,218512,222098
+Madhya Pradesh,48,328715,388291
+Madhya Pradesh,49,204819,188354
+Madhya Pradesh,50,677297,530748
+Madhya Pradesh,51,229953,176383
+Madhya Pradesh,52,228498,208868
+Madhya Pradesh,53,146656,171296
+Madhya Pradesh,54,164118,160555
+Madhya Pradesh,55,447921,392901
+Madhya Pradesh,56,194836,175369
+Madhya Pradesh,57,110872,119378
+Madhya Pradesh,58,158994,220406
+Madhya Pradesh,59,117620,119780
+Madhya Pradesh,60,486214,469394
+Madhya Pradesh,61,156884,145615
+Madhya Pradesh,62,154244,161424
+Madhya Pradesh,63,97418,120191
+Madhya Pradesh,64,94703,101323
+Madhya Pradesh,65,350038,365467
+Madhya Pradesh,66,119503,122171
+Madhya Pradesh,67,62555,66961
+Madhya Pradesh,68,84165,122502
+Madhya Pradesh,69,63744,69955
+Madhya Pradesh,70,325824,337534
+Madhya Pradesh,71,85959,86575
+Madhya Pradesh,72,62682,61581
+Madhya Pradesh,73,34123,39287
+Madhya Pradesh,74,36658,37198
+Madhya Pradesh,75,136526,153631
+Madhya Pradesh,76,42978,47661
+Madhya Pradesh,77,20154,20764
+Madhya Pradesh,78,25016,33813
+Madhya Pradesh,79,20133,22679
+Madhya Pradesh,80,109960,129743
+Madhya Pradesh,81,27465,31817
+Madhya Pradesh,82,16124,15567
+Madhya Pradesh,83,9088,9641
+Madhya Pradesh,84,9792,9969
+Madhya Pradesh,85,35015,39926
+Madhya Pradesh,86,11330,12477
+Madhya Pradesh,87,5080,4923
+Madhya Pradesh,88,5760,7081
+Madhya Pradesh,89,5029,5874
+Madhya Pradesh,90,24487,31920
+Madhya Pradesh,91,6706,8694
+Madhya Pradesh,92,4146,4399
+Madhya Pradesh,93,2610,2963
+Madhya Pradesh,94,3148,3391
+Madhya Pradesh,95,8513,10104
+Madhya Pradesh,96,3704,4096
+Madhya Pradesh,97,2173,2196
+Madhya Pradesh,98,3184,3647
+Madhya Pradesh,99,1784,2371
+Madhya Pradesh,100+,14937,17235
+Madhya Pradesh,Age not stated,43376,39486
+Gujarat,0,510124,450743
+Gujarat,1,593467,526078
+Gujarat,2,585751,530967
+Gujarat,3,583036,540726
+Gujarat,4,599512,539928
+Gujarat,5,636862,548504
+Gujarat,6,606632,524932
+Gujarat,7,642667,563579
+Gujarat,8,629448,548875
+Gujarat,9,610792,523545
+Gujarat,10,704106,607854
+Gujarat,11,663546,573045
+Gujarat,12,663603,581622
+Gujarat,13,626998,553513
+Gujarat,14,625581,549577
+Gujarat,15,656901,565087
+Gujarat,16,612601,535426
+Gujarat,17,592392,508548
+Gujarat,18,702316,595128
+Gujarat,19,581900,515461
+Gujarat,20,735875,662508
+Gujarat,21,583022,506058
+Gujarat,22,636266,543678
+Gujarat,23,542554,510274
+Gujarat,24,548410,512077
+Gujarat,25,725062,606498
+Gujarat,26,554557,491724
+Gujarat,27,488975,440993
+Gujarat,28,560989,562477
+Gujarat,29,437700,409847
+Gujarat,30,756358,657457
+Gujarat,31,431557,382029
+Gujarat,32,495302,464310
+Gujarat,33,374644,396542
+Gujarat,34,409163,403166
+Gujarat,35,704216,558546
+Gujarat,36,436444,391328
+Gujarat,37,350720,334144
+Gujarat,38,423384,472506
+Gujarat,39,343571,326366
+Gujarat,40,671435,589508
+Gujarat,41,345008,302032
+Gujarat,42,401005,375192
+Gujarat,43,276946,307603
+Gujarat,44,299482,297265
+Gujarat,45,586607,490153
+Gujarat,46,314547,286147
+Gujarat,47,254410,247664
+Gujarat,48,306700,345705
+Gujarat,49,249608,232472
+Gujarat,50,514051,463546
+Gujarat,51,248659,204936
+Gujarat,52,257247,233606
+Gujarat,53,185502,192529
+Gujarat,54,203814,193293
+Gujarat,55,362131,333482
+Gujarat,56,202397,181265
+Gujarat,57,150186,144232
+Gujarat,58,173828,212631
+Gujarat,59,149546,145249
+Gujarat,60,356624,373505
+Gujarat,61,146896,137396
+Gujarat,62,143489,144848
+Gujarat,63,103410,114982
+Gujarat,64,100840,105762
+Gujarat,65,239371,270341
+Gujarat,66,99181,100151
+Gujarat,67,66782,68153
+Gujarat,68,76492,105860
+Gujarat,69,68176,75565
+Gujarat,70,206352,258268
+Gujarat,71,73543,76287
+Gujarat,72,60820,63973
+Gujarat,73,38119,41926
+Gujarat,74,38688,41701
+Gujarat,75,91520,119453
+Gujarat,76,36185,40805
+Gujarat,77,23509,24602
+Gujarat,78,24438,33245
+Gujarat,79,20689,25550
+Gujarat,80,69765,104406
+Gujarat,81,21305,27163
+Gujarat,82,15057,17120
+Gujarat,83,9469,11120
+Gujarat,84,9174,11250
+Gujarat,85,25062,35509
+Gujarat,86,8895,10941
+Gujarat,87,4984,5733
+Gujarat,88,4860,6554
+Gujarat,89,4388,6152
+Gujarat,90,14102,25247
+Gujarat,91,5429,7369
+Gujarat,92,4375,5138
+Gujarat,93,2782,3300
+Gujarat,94,2955,3636
+Gujarat,95,6393,9325
+Gujarat,96,3098,3790
+Gujarat,97,2304,2555
+Gujarat,98,2981,3852
+Gujarat,99,1665,2758
+Gujarat,100+,11434,15667
+Gujarat,Age not stated,125546,113298
+Daman & Diu,0,1675,1508
+Daman & Diu,1,1977,1882
+Daman & Diu,2,2111,1933
+Daman & Diu,3,2115,1974
+Daman & Diu,4,2142,1841
+Daman & Diu,5,2145,1845
+Daman & Diu,6,1979,1807
+Daman & Diu,7,1998,1772
+Daman & Diu,8,1934,1714
+Daman & Diu,9,1772,1540
+Daman & Diu,10,1982,1750
+Daman & Diu,11,1940,1657
+Daman & Diu,12,1818,1560
+Daman & Diu,13,1747,1542
+Daman & Diu,14,1813,1512
+Daman & Diu,15,2068,1482
+Daman & Diu,16,2421,1455
+Daman & Diu,17,3048,1463
+Daman & Diu,18,5777,1822
+Daman & Diu,19,4925,1853
+Daman & Diu,20,7064,2325
+Daman & Diu,21,4955,1913
+Daman & Diu,22,6378,2261
+Daman & Diu,23,4711,1979
+Daman & Diu,24,4817,2181
+Daman & Diu,25,6452,2930
+Daman & Diu,26,4625,2212
+Daman & Diu,27,3637,1882
+Daman & Diu,28,4376,2301
+Daman & Diu,29,2954,1812
+Daman & Diu,30,5475,2573
+Daman & Diu,31,2485,1557
+Daman & Diu,32,3033,1724
+Daman & Diu,33,1994,1373
+Daman & Diu,34,2327,1490
+Daman & Diu,35,4352,2139
+Daman & Diu,36,2377,1468
+Daman & Diu,37,1731,1191
+Daman & Diu,38,2083,1375
+Daman & Diu,39,1712,1122
+Daman & Diu,40,3126,1653
+Daman & Diu,41,1498,939
+Daman & Diu,42,1515,1014
+Daman & Diu,43,1125,850
+Daman & Diu,44,1120,761
+Daman & Diu,45,1981,1172
+Daman & Diu,46,1065,751
+Daman & Diu,47,857,705
+Daman & Diu,48,934,683
+Daman & Diu,49,812,658
+Daman & Diu,50,1317,938
+Daman & Diu,51,657,551
+Daman & Diu,52,621,525
+Daman & Diu,53,513,455
+Daman & Diu,54,538,495
+Daman & Diu,55,787,685
+Daman & Diu,56,549,512
+Daman & Diu,57,429,416
+Daman & Diu,58,432,436
+Daman & Diu,59,379,431
+Daman & Diu,60,691,842
+Daman & Diu,61,393,429
+Daman & Diu,62,317,398
+Daman & Diu,63,311,331
+Daman & Diu,64,265,331
+Daman & Diu,65,398,602
+Daman & Diu,66,267,277
+Daman & Diu,67,180,218
+Daman & Diu,68,207,267
+Daman & Diu,69,130,207
+Daman & Diu,70,309,556
+Daman & Diu,71,158,217
+Daman & Diu,72,138,183
+Daman & Diu,73,121,159
+Daman & Diu,74,115,147
+Daman & Diu,75,166,244
+Daman & Diu,76,87,117
+Daman & Diu,77,56,98
+Daman & Diu,78,74,81
+Daman & Diu,79,54,90
+Daman & Diu,80,94,182
+Daman & Diu,81,39,80
+Daman & Diu,82,32,63
+Daman & Diu,83,24,48
+Daman & Diu,84,26,47
+Daman & Diu,85,31,67
+Daman & Diu,86,18,30
+Daman & Diu,87,22,17
+Daman & Diu,88,12,14
+Daman & Diu,89,11,17
+Daman & Diu,90,20,32
+Daman & Diu,91,12,18
+Daman & Diu,92,10,17
+Daman & Diu,93,4,8
+Daman & Diu,94,5,6
+Daman & Diu,95,14,8
+Daman & Diu,96,13,6
+Daman & Diu,97,7,2
+Daman & Diu,98,7,3
+Daman & Diu,99,4,3
+Daman & Diu,100+,31,26
+Daman & Diu,Age not stated,248,108
+Dadra & Nagar Haveli,0,3181,3013
+Dadra & Nagar Haveli,1,3881,3565
+Dadra & Nagar Haveli,2,3994,3715
+Dadra & Nagar Haveli,3,3935,3663
+Dadra & Nagar Haveli,4,3911,3703
+Dadra & Nagar Haveli,5,3877,3550
+Dadra & Nagar Haveli,6,3652,3255
+Dadra & Nagar Haveli,7,3977,3516
+Dadra & Nagar Haveli,8,3905,3577
+Dadra & Nagar Haveli,9,3648,3292
+Dadra & Nagar Haveli,10,4051,3784
+Dadra & Nagar Haveli,11,3895,3502
+Dadra & Nagar Haveli,12,3559,3294
+Dadra & Nagar Haveli,13,3573,3155
+Dadra & Nagar Haveli,14,3307,2883
+Dadra & Nagar Haveli,15,3280,2768
+Dadra & Nagar Haveli,16,3087,2578
+Dadra & Nagar Haveli,17,3386,2296
+Dadra & Nagar Haveli,18,5218,2857
+Dadra & Nagar Haveli,19,5008,2626
+Dadra & Nagar Haveli,20,6247,3664
+Dadra & Nagar Haveli,21,5242,3034
+Dadra & Nagar Haveli,22,6102,3554
+Dadra & Nagar Haveli,23,4747,3038
+Dadra & Nagar Haveli,24,5257,3416
+Dadra & Nagar Haveli,25,6278,4246
+Dadra & Nagar Haveli,26,4949,3449
+Dadra & Nagar Haveli,27,4177,2825
+Dadra & Nagar Haveli,28,4556,3357
+Dadra & Nagar Haveli,29,3536,2512
+Dadra & Nagar Haveli,30,5633,3721
+Dadra & Nagar Haveli,31,3350,2320
+Dadra & Nagar Haveli,32,3449,2396
+Dadra & Nagar Haveli,33,2577,2083
+Dadra & Nagar Haveli,34,2948,2164
+Dadra & Nagar Haveli,35,4698,3063
+Dadra & Nagar Haveli,36,2886,1976
+Dadra & Nagar Haveli,37,2392,1748
+Dadra & Nagar Haveli,38,2724,2129
+Dadra & Nagar Haveli,39,2162,1499
+Dadra & Nagar Haveli,40,3699,2429
+Dadra & Nagar Haveli,41,1949,1390
+Dadra & Nagar Haveli,42,1923,1412
+Dadra & Nagar Haveli,43,1509,1320
+Dadra & Nagar Haveli,44,1474,1076
+Dadra & Nagar Haveli,45,2636,1925
+Dadra & Nagar Haveli,46,1409,1177
+Dadra & Nagar Haveli,47,1078,951
+Dadra & Nagar Haveli,48,1460,1175
+Dadra & Nagar Haveli,49,1088,890
+Dadra & Nagar Haveli,50,1951,1478
+Dadra & Nagar Haveli,51,1010,778
+Dadra & Nagar Haveli,52,877,753
+Dadra & Nagar Haveli,53,656,651
+Dadra & Nagar Haveli,54,721,628
+Dadra & Nagar Haveli,55,1262,1095
+Dadra & Nagar Haveli,56,655,633
+Dadra & Nagar Haveli,57,463,452
+Dadra & Nagar Haveli,58,641,713
+Dadra & Nagar Haveli,59,505,532
+Dadra & Nagar Haveli,60,1074,1224
+Dadra & Nagar Haveli,61,542,529
+Dadra & Nagar Haveli,62,479,507
+Dadra & Nagar Haveli,63,350,423
+Dadra & Nagar Haveli,64,349,354
+Dadra & Nagar Haveli,65,777,839
+Dadra & Nagar Haveli,66,331,363
+Dadra & Nagar Haveli,67,199,221
+Dadra & Nagar Haveli,68,232,314
+Dadra & Nagar Haveli,69,216,224
+Dadra & Nagar Haveli,70,485,662
+Dadra & Nagar Haveli,71,206,260
+Dadra & Nagar Haveli,72,113,179
+Dadra & Nagar Haveli,73,93,135
+Dadra & Nagar Haveli,74,76,100
+Dadra & Nagar Haveli,75,186,249
+Dadra & Nagar Haveli,76,68,111
+Dadra & Nagar Haveli,77,50,63
+Dadra & Nagar Haveli,78,43,68
+Dadra & Nagar Haveli,79,47,73
+Dadra & Nagar Haveli,80,96,181
+Dadra & Nagar Haveli,81,33,67
+Dadra & Nagar Haveli,82,39,40
+Dadra & Nagar Haveli,83,18,35
+Dadra & Nagar Haveli,84,17,20
+Dadra & Nagar Haveli,85,41,65
+Dadra & Nagar Haveli,86,25,33
+Dadra & Nagar Haveli,87,10,9
+Dadra & Nagar Haveli,88,20,7
+Dadra & Nagar Haveli,89,9,18
+Dadra & Nagar Haveli,90,27,37
+Dadra & Nagar Haveli,91,12,7
+Dadra & Nagar Haveli,92,16,9
+Dadra & Nagar Haveli,93,8,7
+Dadra & Nagar Haveli,94,7,10
+Dadra & Nagar Haveli,95,8,17
+Dadra & Nagar Haveli,96,9,11
+Dadra & Nagar Haveli,97,11,9
+Dadra & Nagar Haveli,98,8,7
+Dadra & Nagar Haveli,99,0,6
+Dadra & Nagar Haveli,100+,29,40
+Dadra & Nagar Haveli,Age not stated,200,172
+Maharashtra,0,946095,829465
+Maharashtra,1,1021679,904663
+Maharashtra,2,996272,892271
+Maharashtra,3,990688,904533
+Maharashtra,4,984895,891465
+Maharashtra,5,1066065,944317
+Maharashtra,6,1029697,924412
+Maharashtra,7,1027436,934275
+Maharashtra,8,1019451,916229
+Maharashtra,9,1035528,923244
+Maharashtra,10,1227446,1089893
+Maharashtra,11,1141531,1022179
+Maharashtra,12,1111511,989718
+Maharashtra,13,1086667,986070
+Maharashtra,14,1095106,984414
+Maharashtra,15,1128043,990737
+Maharashtra,16,1117920,970447
+Maharashtra,17,1073589,913506
+Maharashtra,18,1296423,1080629
+Maharashtra,19,1094425,961548
+Maharashtra,20,1341142,1251383
+Maharashtra,21,1131553,987399
+Maharashtra,22,1245195,1084858
+Maharashtra,23,1054630,942220
+Maharashtra,24,1072594,979992
+Maharashtra,25,1312088,1276842
+Maharashtra,26,1079451,983102
+Maharashtra,27,961132,865399
+Maharashtra,28,1074976,992246
+Maharashtra,29,844913,756964
+Maharashtra,30,1384073,1372991
+Maharashtra,31,814928,733866
+Maharashtra,32,897172,817488
+Maharashtra,33,668756,619212
+Maharashtra,34,771368,716453
+Maharashtra,35,1302046,1289046
+Maharashtra,36,813296,771742
+Maharashtra,37,618877,592180
+Maharashtra,38,825866,807068
+Maharashtra,39,649349,577690
+Maharashtra,40,1284058,1276074
+Maharashtra,41,681969,598279
+Maharashtra,42,730715,637843
+Maharashtra,43,515723,458807
+Maharashtra,44,532360,480261
+Maharashtra,45,1086886,1088364
+Maharashtra,46,587077,539041
+Maharashtra,47,455642,409789
+Maharashtra,48,543463,504185
+Maharashtra,49,443150,374857
+Maharashtra,50,954219,973602
+Maharashtra,51,462630,388627
+Maharashtra,52,444047,365960
+Maharashtra,53,331183,271855
+Maharashtra,54,388912,338282
+Maharashtra,55,693406,760702
+Maharashtra,56,388657,350876
+Maharashtra,57,275974,236057
+Maharashtra,58,335689,306615
+Maharashtra,59,280403,257435
+Maharashtra,60,691433,891636
+Maharashtra,61,305592,320185
+Maharashtra,62,273842,279787
+Maharashtra,63,223279,205009
+Maharashtra,64,222493,229224
+Maharashtra,65,606545,809777
+Maharashtra,66,269713,301806
+Maharashtra,67,184032,168267
+Maharashtra,68,208567,198257
+Maharashtra,69,171381,160007
+Maharashtra,70,518204,624384
+Maharashtra,71,186373,185227
+Maharashtra,72,146470,131143
+Maharashtra,73,91126,74566
+Maharashtra,74,97119,88524
+Maharashtra,75,235323,285052
+Maharashtra,76,98277,99850
+Maharashtra,77,62367,51029
+Maharashtra,78,67300,61132
+Maharashtra,79,52164,50279
+Maharashtra,80,157642,207535
+Maharashtra,81,53523,58097
+Maharashtra,82,35679,32866
+Maharashtra,83,24512,20434
+Maharashtra,84,23594,22769
+Maharashtra,85,55078,71699
+Maharashtra,86,21685,23709
+Maharashtra,87,13000,12093
+Maharashtra,88,12910,12739
+Maharashtra,89,11503,12978
+Maharashtra,90,32503,49742
+Maharashtra,91,13050,15997
+Maharashtra,92,9980,9888
+Maharashtra,93,6397,6114
+Maharashtra,94,7088,7127
+Maharashtra,95,14457,18235
+Maharashtra,96,7406,8113
+Maharashtra,97,5417,5112
+Maharashtra,98,6767,7256
+Maharashtra,99,3309,4241
+Maharashtra,100+,26609,31341
+Maharashtra,Age not stated,219312,188384
+Andhra Pradesh,0,626538,588309
+Andhra Pradesh,1,650403,609923
+Andhra Pradesh,2,606189,575381
+Andhra Pradesh,3,676134,643487
+Andhra Pradesh,4,676623,631778
+Andhra Pradesh,5,744802,696331
+Andhra Pradesh,6,734261,682643
+Andhra Pradesh,7,764908,719040
+Andhra Pradesh,8,766274,730609
+Andhra Pradesh,9,750153,715411
+Andhra Pradesh,10,913080,854308
+Andhra Pradesh,11,795307,764103
+Andhra Pradesh,12,859629,816378
+Andhra Pradesh,13,809422,776327
+Andhra Pradesh,14,831446,781595
+Andhra Pradesh,15,861559,790809
+Andhra Pradesh,16,824000,752131
+Andhra Pradesh,17,780993,685119
+Andhra Pradesh,18,960859,916244
+Andhra Pradesh,19,768896,753137
+Andhra Pradesh,20,1045844,1133462
+Andhra Pradesh,21,714024,683155
+Andhra Pradesh,22,823250,812991
+Andhra Pradesh,23,728178,688007
+Andhra Pradesh,24,744401,758782
+Andhra Pradesh,25,1093110,1209822
+Andhra Pradesh,26,731964,741105
+Andhra Pradesh,27,627589,604564
+Andhra Pradesh,28,780522,848236
+Andhra Pradesh,29,576702,585422
+Andhra Pradesh,30,1225543,1258392
+Andhra Pradesh,31,498167,466205
+Andhra Pradesh,32,614364,608117
+Andhra Pradesh,33,437627,422701
+Andhra Pradesh,34,524706,528549
+Andhra Pradesh,35,1173447,1211264
+Andhra Pradesh,36,561081,580492
+Andhra Pradesh,37,406946,403960
+Andhra Pradesh,38,590501,652003
+Andhra Pradesh,39,466537,461108
+Andhra Pradesh,40,1231998,1178553
+Andhra Pradesh,41,417088,365693
+Andhra Pradesh,42,470480,422336
+Andhra Pradesh,43,307739,288574
+Andhra Pradesh,44,367093,349919
+Andhra Pradesh,45,1023985,1005112
+Andhra Pradesh,46,390938,365660
+Andhra Pradesh,47,263819,239311
+Andhra Pradesh,48,383753,384521
+Andhra Pradesh,49,312138,288032
+Andhra Pradesh,50,921379,917145
+Andhra Pradesh,51,268429,235752
+Andhra Pradesh,52,258926,234048
+Andhra Pradesh,53,177261,159458
+Andhra Pradesh,54,236588,248400
+Andhra Pradesh,55,587711,725058
+Andhra Pradesh,56,236182,246710
+Andhra Pradesh,57,138481,136974
+Andhra Pradesh,58,197842,238436
+Andhra Pradesh,59,190323,211881
+Andhra Pradesh,60,748932,935496
+Andhra Pradesh,61,213895,235759
+Andhra Pradesh,62,211660,224506
+Andhra Pradesh,63,137681,136228
+Andhra Pradesh,64,173596,182084
+Andhra Pradesh,65,545760,645901
+Andhra Pradesh,66,157643,161877
+Andhra Pradesh,67,89868,79001
+Andhra Pradesh,68,126989,130596
+Andhra Pradesh,69,114100,116119
+Andhra Pradesh,70,470512,501806
+Andhra Pradesh,71,100800,100614
+Andhra Pradesh,72,76128,68706
+Andhra Pradesh,73,45012,38290
+Andhra Pradesh,74,60291,57199
+Andhra Pradesh,75,175004,193396
+Andhra Pradesh,76,50905,51982
+Andhra Pradesh,77,22501,19528
+Andhra Pradesh,78,30282,31418
+Andhra Pradesh,79,28782,33191
+Andhra Pradesh,80,127912,174309
+Andhra Pradesh,81,26703,33957
+Andhra Pradesh,82,16610,18107
+Andhra Pradesh,83,10260,10498
+Andhra Pradesh,84,13122,15187
+Andhra Pradesh,85,35293,49942
+Andhra Pradesh,86,11725,14202
+Andhra Pradesh,87,5462,5950
+Andhra Pradesh,88,5916,6927
+Andhra Pradesh,89,6272,8496
+Andhra Pradesh,90,22075,34506
+Andhra Pradesh,91,6615,8626
+Andhra Pradesh,92,4040,4877
+Andhra Pradesh,93,2549,2788
+Andhra Pradesh,94,2977,3606
+Andhra Pradesh,95,6728,9590
+Andhra Pradesh,96,3149,3832
+Andhra Pradesh,97,2041,2287
+Andhra Pradesh,98,2665,3344
+Andhra Pradesh,99,1266,1807
+Andhra Pradesh,100+,12607,15378
+Andhra Pradesh,Age not stated,387686,383745
+Karnataka,0,478346,455299
+Karnataka,1,522962,494712
+Karnataka,2,515273,495206
+Karnataka,3,531690,511233
+Karnataka,4,533753,508245
+Karnataka,5,562819,524503
+Karnataka,6,530448,496544
+Karnataka,7,523831,495216
+Karnataka,8,540621,514496
+Karnataka,9,538951,514080
+Karnataka,10,629780,594271
+Karnataka,11,575938,549764
+Karnataka,12,596025,563819
+Karnataka,13,562002,529402
+Karnataka,14,591542,544103
+Karnataka,15,602212,543040
+Karnataka,16,592938,536857
+Karnataka,17,551764,496514
+Karnataka,18,724617,656745
+Karnataka,19,570517,552073
+Karnataka,20,762130,762035
+Karnataka,21,550991,509432
+Karnataka,22,657812,615351
+Karnataka,23,547788,492183
+Karnataka,24,590865,563971
+Karnataka,25,763779,829189
+Karnataka,26,581485,558866
+Karnataka,27,482004,453415
+Karnataka,28,613736,622497
+Karnataka,29,438250,428385
+Karnataka,30,845770,873237
+Karnataka,31,380167,347085
+Karnataka,32,451178,420748
+Karnataka,33,313778,284712
+Karnataka,34,398701,383004
+Karnataka,35,800477,838055
+Karnataka,36,409024,413870
+Karnataka,37,310358,306752
+Karnataka,38,457432,484440
+Karnataka,39,341797,333246
+Karnataka,40,823742,813347
+Karnataka,41,306718,269409
+Karnataka,42,340074,299555
+Karnataka,43,228323,204792
+Karnataka,44,278911,261841
+Karnataka,45,712351,709892
+Karnataka,46,299209,277576
+Karnataka,47,218353,192303
+Karnataka,48,323743,305424
+Karnataka,49,251177,229754
+Karnataka,50,632755,657799
+Karnataka,51,211406,185455
+Karnataka,52,207091,174420
+Karnataka,53,143052,117834
+Karnataka,54,187665,181793
+Karnataka,55,411078,475545
+Karnataka,56,185534,174892
+Karnataka,57,122072,105766
+Karnataka,58,176999,171094
+Karnataka,59,160371,159153
+Karnataka,60,488309,584283
+Karnataka,61,148940,146489
+Karnataka,62,134717,125919
+Karnataka,63,99590,84931
+Karnataka,64,123074,123800
+Karnataka,65,341547,417895
+Karnataka,66,115807,119096
+Karnataka,67,75286,66149
+Karnataka,68,102595,101634
+Karnataka,69,88452,91658
+Karnataka,70,293723,350113
+Karnataka,71,74383,75842
+Karnataka,72,56974,49468
+Karnataka,73,37000,29500
+Karnataka,74,48339,45783
+Karnataka,75,128357,151212
+Karnataka,76,42828,43643
+Karnataka,77,22567,19197
+Karnataka,78,28737,28271
+Karnataka,79,27345,32269
+Karnataka,80,94923,137264
+Karnataka,81,23980,29698
+Karnataka,82,15163,15115
+Karnataka,83,10111,9333
+Karnataka,84,12589,13848
+Karnataka,85,29626,42115
+Karnataka,86,10892,12936
+Karnataka,87,5752,5948
+Karnataka,88,6195,6799
+Karnataka,89,5688,7787
+Karnataka,90,17828,28611
+Karnataka,91,4722,6569
+Karnataka,92,3339,3480
+Karnataka,93,2271,2101
+Karnataka,94,2610,3003
+Karnataka,95,5729,8591
+Karnataka,96,2515,3179
+Karnataka,97,1579,1776
+Karnataka,98,2248,2994
+Karnataka,99,1316,2330
+Karnataka,100+,9426,13331
+Karnataka,Age not stated,25410,20441
+Goa,0,9868,9171
+Goa,1,10817,10364
+Goa,2,10566,9800
+Goa,3,10171,9757
+Goa,4,10595,10094
+Goa,5,11525,10603
+Goa,6,10918,10362
+Goa,7,11068,10297
+Goa,8,10515,9746
+Goa,9,10646,10288
+Goa,10,12265,11499
+Goa,11,11821,11000
+Goa,12,11171,10163
+Goa,13,11002,10456
+Goa,14,11158,10454
+Goa,15,11343,10516
+Goa,16,11005,10036
+Goa,17,10844,10193
+Goa,18,13363,11513
+Goa,19,13520,11542
+Goa,20,15452,12705
+Goa,21,13880,11585
+Goa,22,14250,11722
+Goa,23,13411,11644
+Goa,24,13623,12473
+Goa,25,15146,14387
+Goa,26,13831,12863
+Goa,27,12802,12196
+Goa,28,13740,13543
+Goa,29,12225,11893
+Goa,30,16238,15881
+Goa,31,12436,12123
+Goa,32,12387,12123
+Goa,33,10438,10335
+Goa,34,11972,11926
+Goa,35,16120,16031
+Goa,36,12731,12525
+Goa,37,10877,10860
+Goa,38,12517,12510
+Goa,39,11296,10831
+Goa,40,15088,14533
+Goa,41,10986,10262
+Goa,42,11328,10494
+Goa,43,9263,8866
+Goa,44,8839,8853
+Goa,45,12665,13080
+Goa,46,9748,9662
+Goa,47,8171,7721
+Goa,48,8733,8418
+Goa,49,8550,7988
+Goa,50,10749,11363
+Goa,51,7925,7557
+Goa,52,7290,6834
+Goa,53,6416,5669
+Goa,54,6402,6387
+Goa,55,7740,9656
+Goa,56,6771,6877
+Goa,57,5739,5318
+Goa,58,6109,6214
+Goa,59,5662,5467
+Goa,60,8443,10944
+Goa,61,5804,6373
+Goa,62,5399,5494
+Goa,63,4893,4665
+Goa,64,4561,4528
+Goa,65,6213,8303
+Goa,66,4001,4479
+Goa,67,2984,2999
+Goa,68,3096,3254
+Goa,69,2711,2979
+Goa,70,4582,6683
+Goa,71,2692,3289
+Goa,72,2137,2301
+Goa,73,1760,1868
+Goa,74,1719,2024
+Goa,75,2455,3523
+Goa,76,1601,1968
+Goa,77,1227,1361
+Goa,78,1109,1312
+Goa,79,836,1144
+Goa,80,1427,2420
+Goa,81,771,1232
+Goa,82,576,745
+Goa,83,418,641
+Goa,84,407,609
+Goa,85,512,958
+Goa,86,347,525
+Goa,87,225,365
+Goa,88,201,320
+Goa,89,167,273
+Goa,90,223,441
+Goa,91,152,225
+Goa,92,85,136
+Goa,93,59,93
+Goa,94,74,100
+Goa,95,92,148
+Goa,96,55,79
+Goa,97,35,58
+Goa,98,61,62
+Goa,99,22,48
+Goa,100+,183,211
+Goa,Age not stated,1098,996
+Lakshadweep,0,593,522
+Lakshadweep,1,530,468
+Lakshadweep,2,502,435
+Lakshadweep,3,494,469
+Lakshadweep,4,529,510
+Lakshadweep,5,574,561
+Lakshadweep,6,575,493
+Lakshadweep,7,566,545
+Lakshadweep,8,450,455
+Lakshadweep,9,595,593
+Lakshadweep,10,641,678
+Lakshadweep,11,606,643
+Lakshadweep,12,537,624
+Lakshadweep,13,519,631
+Lakshadweep,14,551,568
+Lakshadweep,15,586,573
+Lakshadweep,16,530,603
+Lakshadweep,17,564,588
+Lakshadweep,18,579,561
+Lakshadweep,19,549,491
+Lakshadweep,20,626,521
+Lakshadweep,21,616,540
+Lakshadweep,22,573,533
+Lakshadweep,23,612,546
+Lakshadweep,24,644,618
+Lakshadweep,25,654,593
+Lakshadweep,26,650,557
+Lakshadweep,27,668,565
+Lakshadweep,28,581,572
+Lakshadweep,29,582,545
+Lakshadweep,30,617,574
+Lakshadweep,31,611,602
+Lakshadweep,32,547,528
+Lakshadweep,33,475,451
+Lakshadweep,34,527,505
+Lakshadweep,35,611,558
+Lakshadweep,36,601,604
+Lakshadweep,37,532,519
+Lakshadweep,38,504,502
+Lakshadweep,39,508,450
+Lakshadweep,40,577,498
+Lakshadweep,41,496,469
+Lakshadweep,42,514,424
+Lakshadweep,43,453,382
+Lakshadweep,44,413,382
+Lakshadweep,45,455,400
+Lakshadweep,46,442,426
+Lakshadweep,47,369,327
+Lakshadweep,48,380,398
+Lakshadweep,49,329,284
+Lakshadweep,50,332,329
+Lakshadweep,51,331,259
+Lakshadweep,52,337,293
+Lakshadweep,53,313,286
+Lakshadweep,54,312,274
+Lakshadweep,55,326,377
+Lakshadweep,56,318,314
+Lakshadweep,57,304,230
+Lakshadweep,58,316,260
+Lakshadweep,59,249,207
+Lakshadweep,60,257,320
+Lakshadweep,61,189,187
+Lakshadweep,62,216,184
+Lakshadweep,63,215,152
+Lakshadweep,64,169,145
+Lakshadweep,65,215,226
+Lakshadweep,66,175,140
+Lakshadweep,67,130,100
+Lakshadweep,68,130,112
+Lakshadweep,69,103,82
+Lakshadweep,70,156,199
+Lakshadweep,71,82,93
+Lakshadweep,72,92,56
+Lakshadweep,73,48,50
+Lakshadweep,74,32,41
+Lakshadweep,75,101,106
+Lakshadweep,76,52,64
+Lakshadweep,77,41,24
+Lakshadweep,78,27,28
+Lakshadweep,79,23,27
+Lakshadweep,80,52,77
+Lakshadweep,81,22,32
+Lakshadweep,82,14,9
+Lakshadweep,83,13,8
+Lakshadweep,84,10,9
+Lakshadweep,85,21,35
+Lakshadweep,86,12,14
+Lakshadweep,87,7,1
+Lakshadweep,88,9,8
+Lakshadweep,89,5,2
+Lakshadweep,90,7,19
+Lakshadweep,91,3,6
+Lakshadweep,92,3,1
+Lakshadweep,93,4,4
+Lakshadweep,94,6,2
+Lakshadweep,95,8,8
+Lakshadweep,96,2,10
+Lakshadweep,97,7,2
+Lakshadweep,98,4,2
+Lakshadweep,99,6,3
+Lakshadweep,100+,6,8
+Lakshadweep,Age not stated,74,41
+Kerala,0,243852,238489
+Kerala,1,255004,245350
+Kerala,2,245356,237495
+Kerala,3,247884,238933
+Kerala,4,255438,245291
+Kerala,5,261438,251248
+Kerala,6,259272,247905
+Kerala,7,260663,249844
+Kerala,8,257189,247863
+Kerala,9,264628,255062
+Kerala,10,296685,283995
+Kerala,11,289140,278880
+Kerala,12,276952,264832
+Kerala,13,293478,285228
+Kerala,14,282662,270918
+Kerala,15,276123,265577
+Kerala,16,261654,253505
+Kerala,17,263097,254228
+Kerala,18,269522,258075
+Kerala,19,257903,250868
+Kerala,20,279283,276062
+Kerala,21,259752,261849
+Kerala,22,259666,271402
+Kerala,23,250442,274155
+Kerala,24,249683,283515
+Kerala,25,252370,294345
+Kerala,26,244441,282209
+Kerala,27,237999,272652
+Kerala,28,245857,290828
+Kerala,29,223311,260080
+Kerala,30,266060,313795
+Kerala,31,216325,250415
+Kerala,32,223415,261327
+Kerala,33,206019,242837
+Kerala,34,216398,258910
+Kerala,35,258314,313809
+Kerala,36,229025,279190
+Kerala,37,211305,260938
+Kerala,38,247712,305537
+Kerala,39,215463,258380
+Kerala,40,271233,330542
+Kerala,41,210270,240073
+Kerala,42,236854,265981
+Kerala,43,202850,234357
+Kerala,44,196217,224121
+Kerala,45,264829,307789
+Kerala,46,212387,237667
+Kerala,47,197322,221676
+Kerala,48,232157,263741
+Kerala,49,198903,212059
+Kerala,50,243497,286855
+Kerala,51,185853,186088
+Kerala,52,171536,183184
+Kerala,53,162116,165906
+Kerala,54,168189,174921
+Kerala,55,225560,247071
+Kerala,56,167937,172496
+Kerala,57,141103,142579
+Kerala,58,188680,184477
+Kerala,59,138247,134258
+Kerala,60,204341,239585
+Kerala,61,125563,128727
+Kerala,62,130812,134417
+Kerala,63,121563,120649
+Kerala,64,102857,106157
+Kerala,65,153856,195403
+Kerala,66,88205,101550
+Kerala,67,77837,84460
+Kerala,68,79798,93817
+Kerala,69,59536,67672
+Kerala,70,106577,152037
+Kerala,71,59469,69197
+Kerala,72,60970,69488
+Kerala,73,50425,58075
+Kerala,74,49121,58013
+Kerala,75,75206,113934
+Kerala,76,45155,61341
+Kerala,77,30412,37805
+Kerala,78,33940,47167
+Kerala,79,23604,32803
+Kerala,80,45497,78237
+Kerala,81,22498,32365
+Kerala,82,19565,27743
+Kerala,83,15563,22250
+Kerala,84,15421,23304
+Kerala,85,24344,45331
+Kerala,86,14058,23638
+Kerala,87,8836,14283
+Kerala,88,7411,12444
+Kerala,89,5254,8656
+Kerala,90,8516,18048
+Kerala,91,3345,6500
+Kerala,92,2269,3914
+Kerala,93,2123,3641
+Kerala,94,1714,2860
+Kerala,95,2111,4475
+Kerala,96,1419,2615
+Kerala,97,902,1476
+Kerala,98,837,1546
+Kerala,99,477,932
+Kerala,100+,2188,3243
+Kerala,Age not stated,17297,17189
+Tamil Nadu,0,518251,486720
+Tamil Nadu,1,556872,521841
+Tamil Nadu,2,539636,513912
+Tamil Nadu,3,554773,529385
+Tamil Nadu,4,545046,512265
+Tamil Nadu,5,557696,521785
+Tamil Nadu,6,548002,517648
+Tamil Nadu,7,585055,554812
+Tamil Nadu,8,575557,551476
+Tamil Nadu,9,584983,554241
+Tamil Nadu,10,666692,624299
+Tamil Nadu,11,629072,588086
+Tamil Nadu,12,623211,584365
+Tamil Nadu,13,635251,601385
+Tamil Nadu,14,634764,590422
+Tamil Nadu,15,664183,615611
+Tamil Nadu,16,610930,566844
+Tamil Nadu,17,623711,572969
+Tamil Nadu,18,683260,642072
+Tamil Nadu,19,647754,626458
+Tamil Nadu,20,719304,730102
+Tamil Nadu,21,617853,626307
+Tamil Nadu,22,608972,633913
+Tamil Nadu,23,603747,626367
+Tamil Nadu,24,604928,640050
+Tamil Nadu,25,725651,823418
+Tamil Nadu,26,616761,654989
+Tamil Nadu,27,662270,671723
+Tamil Nadu,28,636844,684622
+Tamil Nadu,29,595848,591620
+Tamil Nadu,30,820748,888461
+Tamil Nadu,31,543290,509929
+Tamil Nadu,32,561252,549118
+Tamil Nadu,33,479816,460479
+Tamil Nadu,34,503643,498824
+Tamil Nadu,35,793584,898975
+Tamil Nadu,36,522689,553105
+Tamil Nadu,37,498491,512661
+Tamil Nadu,38,530792,581130
+Tamil Nadu,39,469649,475380
+Tamil Nadu,40,834994,907757
+Tamil Nadu,41,461677,428255
+Tamil Nadu,42,482183,446027
+Tamil Nadu,43,381996,358589
+Tamil Nadu,44,388996,373735
+Tamil Nadu,45,787942,840095
+Tamil Nadu,46,429555,406599
+Tamil Nadu,47,390093,358345
+Tamil Nadu,48,414078,401454
+Tamil Nadu,49,353247,331648
+Tamil Nadu,50,687779,770315
+Tamil Nadu,51,330357,293922
+Tamil Nadu,52,320908,277243
+Tamil Nadu,53,252024,216943
+Tamil Nadu,54,284495,269474
+Tamil Nadu,55,542372,634927
+Tamil Nadu,56,290232,272943
+Tamil Nadu,57,226492,198579
+Tamil Nadu,58,247193,231998
+Tamil Nadu,59,234635,221771
+Tamil Nadu,60,580996,695393
+Tamil Nadu,61,236407,224112
+Tamil Nadu,62,208590,178419
+Tamil Nadu,63,180540,144997
+Tamil Nadu,64,171506,161648
+Tamil Nadu,65,390162,487387
+Tamil Nadu,66,150464,154890
+Tamil Nadu,67,122714,102082
+Tamil Nadu,68,115697,110804
+Tamil Nadu,69,117375,116795
+Tamil Nadu,70,351563,416655
+Tamil Nadu,71,117332,113803
+Tamil Nadu,72,86980,70889
+Tamil Nadu,73,64211,48943
+Tamil Nadu,74,73081,63072
+Tamil Nadu,75,171521,190657
+Tamil Nadu,76,65676,62312
+Tamil Nadu,77,39974,30161
+Tamil Nadu,78,37623,33275
+Tamil Nadu,79,38952,40090
+Tamil Nadu,80,116984,153890
+Tamil Nadu,81,35566,40168
+Tamil Nadu,82,22458,19539
+Tamil Nadu,83,17113,14084
+Tamil Nadu,84,18691,18246
+Tamil Nadu,85,40233,51839
+Tamil Nadu,86,16750,17679
+Tamil Nadu,87,10852,8916
+Tamil Nadu,88,7584,7084
+Tamil Nadu,89,7435,8586
+Tamil Nadu,90,18909,28528
+Tamil Nadu,91,5493,7345
+Tamil Nadu,92,2896,2832
+Tamil Nadu,93,2164,2095
+Tamil Nadu,94,2085,2338
+Tamil Nadu,95,3984,5849
+Tamil Nadu,96,1909,2278
+Tamil Nadu,97,1170,1287
+Tamil Nadu,98,1207,1529
+Tamil Nadu,99,737,1024
+Tamil Nadu,100+,5642,7012
+Tamil Nadu,Age not stated,34670,32135
+Puducherry,0,9089,8900
+Puducherry,1,10316,9945
+Puducherry,2,9577,9049
+Puducherry,3,9454,9154
+Puducherry,4,9267,9198
+Puducherry,5,9612,9431
+Puducherry,6,10212,9654
+Puducherry,7,10237,9887
+Puducherry,8,9990,9571
+Puducherry,9,10276,9847
+Puducherry,10,11433,11035
+Puducherry,11,11050,10590
+Puducherry,12,10292,9943
+Puducherry,13,10681,10155
+Puducherry,14,10480,10067
+Puducherry,15,10812,10130
+Puducherry,16,9985,9454
+Puducherry,17,10113,9415
+Puducherry,18,10731,10536
+Puducherry,19,10590,10550
+Puducherry,20,11220,11830
+Puducherry,21,10320,11290
+Puducherry,22,10024,11362
+Puducherry,23,9933,11555
+Puducherry,24,9790,11495
+Puducherry,25,10860,13326
+Puducherry,26,10843,12728
+Puducherry,27,11233,12612
+Puducherry,28,11377,12774
+Puducherry,29,10739,11752
+Puducherry,30,12657,14378
+Puducherry,31,10753,11300
+Puducherry,32,10108,11029
+Puducherry,33,10008,10151
+Puducherry,34,10235,10451
+Puducherry,35,12524,13724
+Puducherry,36,10383,10874
+Puducherry,37,9793,9980
+Puducherry,38,10646,11199
+Puducherry,39,9309,9027
+Puducherry,40,11587,12454
+Puducherry,41,9320,8665
+Puducherry,42,8834,8595
+Puducherry,43,7851,7438
+Puducherry,44,7890,7145
+Puducherry,45,10566,11605
+Puducherry,46,8120,7670
+Puducherry,47,7468,6660
+Puducherry,48,7956,7247
+Puducherry,49,6515,5498
+Puducherry,50,8784,10161
+Puducherry,51,6372,5623
+Puducherry,52,5596,5067
+Puducherry,53,5074,4570
+Puducherry,54,5032,4644
+Puducherry,55,6926,8850
+Puducherry,56,5002,5007
+Puducherry,57,4166,3767
+Puducherry,58,4731,4467
+Puducherry,59,3790,3403
+Puducherry,60,6736,9620
+Puducherry,61,4023,4263
+Puducherry,62,3464,3618
+Puducherry,63,3384,3079
+Puducherry,64,2891,2750
+Puducherry,65,4299,7085
+Puducherry,66,2287,2863
+Puducherry,67,1886,1997
+Puducherry,68,2051,2164
+Puducherry,69,1631,1720
+Puducherry,70,3944,6437
+Puducherry,71,1897,2287
+Puducherry,72,1569,1549
+Puducherry,73,1279,1153
+Puducherry,74,1172,1234
+Puducherry,75,2303,3547
+Puducherry,76,1113,1497
+Puducherry,77,750,789
+Puducherry,78,759,829
+Puducherry,79,569,633
+Puducherry,80,1425,2669
+Puducherry,81,629,895
+Puducherry,82,434,481
+Puducherry,83,367,383
+Puducherry,84,296,359
+Puducherry,85,574,1001
+Puducherry,86,316,423
+Puducherry,87,223,224
+Puducherry,88,168,184
+Puducherry,89,135,135
+Puducherry,90,265,444
+Puducherry,91,117,150
+Puducherry,92,89,83
+Puducherry,93,53,76
+Puducherry,94,53,55
+Puducherry,95,73,118
+Puducherry,96,47,49
+Puducherry,97,33,33
+Puducherry,98,30,29
+Puducherry,99,10,15
+Puducherry,100+,75,97
+Puducherry,Age not stated,560,541
+Andaman & Nicobar Islands,0,2727,2651
+Andaman & Nicobar Islands,1,3071,2926
+Andaman & Nicobar Islands,2,2939,2895
+Andaman & Nicobar Islands,3,2938,2822
+Andaman & Nicobar Islands,4,2966,2819
+Andaman & Nicobar Islands,5,2989,2978
+Andaman & Nicobar Islands,6,3140,3017
+Andaman & Nicobar Islands,7,3208,3010
+Andaman & Nicobar Islands,8,3072,2868
+Andaman & Nicobar Islands,9,3103,3069
+Andaman & Nicobar Islands,10,3608,3443
+Andaman & Nicobar Islands,11,3506,3423
+Andaman & Nicobar Islands,12,3261,3213
+Andaman & Nicobar Islands,13,3367,3130
+Andaman & Nicobar Islands,14,3376,3140
+Andaman & Nicobar Islands,15,3480,3248
+Andaman & Nicobar Islands,16,3397,3102
+Andaman & Nicobar Islands,17,3400,3007
+Andaman & Nicobar Islands,18,3587,3283
+Andaman & Nicobar Islands,19,3402,3120
+Andaman & Nicobar Islands,20,3827,3485
+Andaman & Nicobar Islands,21,3545,3254
+Andaman & Nicobar Islands,22,4061,3578
+Andaman & Nicobar Islands,23,3977,3505
+Andaman & Nicobar Islands,24,4118,3765
+Andaman & Nicobar Islands,25,4678,4214
+Andaman & Nicobar Islands,26,4650,4056
+Andaman & Nicobar Islands,27,4399,3747
+Andaman & Nicobar Islands,28,4595,4104
+Andaman & Nicobar Islands,29,3908,3371
+Andaman & Nicobar Islands,30,4943,4464
+Andaman & Nicobar Islands,31,3746,3028
+Andaman & Nicobar Islands,32,3933,3239
+Andaman & Nicobar Islands,33,3216,2727
+Andaman & Nicobar Islands,34,3521,2906
+Andaman & Nicobar Islands,35,4463,4181
+Andaman & Nicobar Islands,36,3448,3079
+Andaman & Nicobar Islands,37,3044,2657
+Andaman & Nicobar Islands,38,3363,3199
+Andaman & Nicobar Islands,39,2852,2556
+Andaman & Nicobar Islands,40,4260,3699
+Andaman & Nicobar Islands,41,2866,2197
+Andaman & Nicobar Islands,42,3055,2346
+Andaman & Nicobar Islands,43,2219,1834
+Andaman & Nicobar Islands,44,2413,1846
+Andaman & Nicobar Islands,45,3945,3427
+Andaman & Nicobar Islands,46,2546,2007
+Andaman & Nicobar Islands,47,2155,1562
+Andaman & Nicobar Islands,48,2649,2097
+Andaman & Nicobar Islands,49,1975,1498
+Andaman & Nicobar Islands,50,3053,2771
+Andaman & Nicobar Islands,51,1845,1347
+Andaman & Nicobar Islands,52,1837,1309
+Andaman & Nicobar Islands,53,1393,1060
+Andaman & Nicobar Islands,54,1582,1099
+Andaman & Nicobar Islands,55,2264,2144
+Andaman & Nicobar Islands,56,1602,1142
+Andaman & Nicobar Islands,57,1191,790
+Andaman & Nicobar Islands,58,1544,1071
+Andaman & Nicobar Islands,59,1269,777
+Andaman & Nicobar Islands,60,2041,1913
+Andaman & Nicobar Islands,61,1078,786
+Andaman & Nicobar Islands,62,1095,781
+Andaman & Nicobar Islands,63,867,561
+Andaman & Nicobar Islands,64,726,528
+Andaman & Nicobar Islands,65,1315,1303
+Andaman & Nicobar Islands,66,633,465
+Andaman & Nicobar Islands,67,475,320
+Andaman & Nicobar Islands,68,546,410
+Andaman & Nicobar Islands,69,461,298
+Andaman & Nicobar Islands,70,1063,876
+Andaman & Nicobar Islands,71,407,284
+Andaman & Nicobar Islands,72,373,240
+Andaman & Nicobar Islands,73,250,150
+Andaman & Nicobar Islands,74,285,170
+Andaman & Nicobar Islands,75,542,459
+Andaman & Nicobar Islands,76,225,168
+Andaman & Nicobar Islands,77,171,109
+Andaman & Nicobar Islands,78,193,127
+Andaman & Nicobar Islands,79,164,93
+Andaman & Nicobar Islands,80,352,364
+Andaman & Nicobar Islands,81,142,119
+Andaman & Nicobar Islands,82,89,59
+Andaman & Nicobar Islands,83,57,38
+Andaman & Nicobar Islands,84,71,45
+Andaman & Nicobar Islands,85,139,132
+Andaman & Nicobar Islands,86,71,61
+Andaman & Nicobar Islands,87,24,29
+Andaman & Nicobar Islands,88,32,30
+Andaman & Nicobar Islands,89,39,30
+Andaman & Nicobar Islands,90,58,58
+Andaman & Nicobar Islands,91,29,32
+Andaman & Nicobar Islands,92,17,25
+Andaman & Nicobar Islands,93,21,13
+Andaman & Nicobar Islands,94,20,17
+Andaman & Nicobar Islands,95,23,27
+Andaman & Nicobar Islands,96,14,21
+Andaman & Nicobar Islands,97,16,12
+Andaman & Nicobar Islands,98,17,12
+Andaman & Nicobar Islands,99,6,10
+Andaman & Nicobar Islands,100+,42,60
+Andaman & Nicobar Islands,Age not stated,195,173
