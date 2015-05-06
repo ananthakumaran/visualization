@@ -12,6 +12,7 @@
   "dependencies": {
     "d3-tip": "git://github.com/Caged/d3-tip.git#~0.6.6",
     "topojson": "git://github.com/mbostock/topojson.git#~1.6.19",
-    "underscore": "git://github.com/jashkenas/underscore.git#~1.8.3"
+    "underscore": "git://github.com/jashkenas/underscore.git#~1.8.3",
+    "d3": "~3.5.5"
   }
 }
