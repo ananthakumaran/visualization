@@ -39,9 +39,9 @@ var ageGroupedByState = _.groupBy(ages, 'state');
 var color = d3.scale.category20().domain(_.range(0, _.size(ageGroupedByState) * 2));
 
 $().ready(function () {
-  var totalWidth = $('body').width();
+  var totalWidth = $('body').width() - 20;
   var column = Math.floor(totalWidth / 425) || 1;
-  var width = (totalWidth / column) - 40;
+  var width = Math.floor((totalWidth / column)) - 20 - 2;
 
   var i = 0;
   _.each(ageGroupedByState, function (distribution, name) {
@@ -55,7 +55,7 @@ function renderBars(distribution, name, i, totalWidth) {
   var margin = {
     top: 15,
     left: 40,
-    right: 0,
+    right: 5,
     bottom: 25
   };
 
@@ -66,7 +66,7 @@ function renderBars(distribution, name, i, totalWidth) {
 
   var svg = d3.select("body").append("svg")
         .attr('class', 'state-distribution')
-        .attr("width", width + margin.left + margin.right)
+        .attr("width", totalWidth)
         .attr("height", height * 2 + margin.top + margin.bottom);
 
   var xAxis = d3.svg.axis().scale(x).orient('bottom').tickFormat((i) => i*5).tickSize(-height);
