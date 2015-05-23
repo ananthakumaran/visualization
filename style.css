@@ -14,6 +14,7 @@ img.thumb {
     box-sizing: border-box;
     height: 200px;
     border: 1px solid #ccc;
+    margin-top: 10px;
 }
 
 img.thumb:hover {
