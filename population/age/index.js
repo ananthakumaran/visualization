@@ -40,7 +40,7 @@ var color = d3.scale.category20().domain(_.range(0, _.size(ageGroupedByState) * 
 
 $().ready(function () {
   var totalWidth = $('body').width();
-  var column = Math.floor(totalWidth / 500) || 1;
+  var column = Math.floor(totalWidth / 425) || 1;
   var width = (totalWidth / column) - 40;
 
   var i = 0;
