@@ -1,4 +1,3 @@
-
 data/age.xls:
 	curl http://www.censusindia.gov.in/2011census/C-series/c-13/DDW-0000C-13.xls > data/age.xls
 
