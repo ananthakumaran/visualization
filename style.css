@@ -9,6 +9,16 @@ a {
     color: saddlebrown;
 }
 
+a.source {
+    float: right;
+    color: #999;
+    font-size: 14px;
+}
+
+a.source:hover {
+    color: #333;
+}
+
 img.thumb {
     width: 960px;
     box-sizing: border-box;
