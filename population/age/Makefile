@@ -8,8 +8,12 @@ data/age.csv: data/age.xls
 index.bundle.js: index.js
 	node_modules/webpack/bin/webpack.js index.js index.bundle.js
 
-minify: index.bundle.js
+comparison.bundle.js: comparison.js
+	node_modules/webpack/bin/webpack.js comparison.js comparison.bundle.js
+
+minify: index.bundle.js comparison.bundle.js
 	uglifyjs index.bundle.js -c -m -o index.bundle.js
+	uglifyjs comparison.bundle.js -c -m -o comparison.bundle.js
 
 setup:
 	npm install

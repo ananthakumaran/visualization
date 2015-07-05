@@ -1,0 +1,40 @@
+:focus {
+    outline: 0;
+}
+
+body {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+header {
+    text-align: center;
+    font: 18px sans-serif;
+    color: saddlebrown;
+    margin: 10px 0;
+}
+
+svg {
+    display: block;
+    margin: 0 auto;
+}
+
+path.male, path.female {
+    fill: none;
+    stroke-width: 1.5px;
+}
+
+.axis path.domain {
+    fill: none;
+    stroke: #ccc;
+}
+
+.axis .tick text {
+    fill: #aaa;
+    font-size: 12px;
+    font-family: serif;
+}
+
+.axis .tick line {
+    stroke: #ccc;
+}
