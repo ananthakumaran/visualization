@@ -23,7 +23,7 @@ function sum(rows, property) {
 
 var ageRaw = d3.csv.parse(age);
 var ages = _.chain(ageRaw)
-      .filter(row => (row.age !== '100+' || row.age !== 'Age not stated'))
+      .filter(row => (row.age !== '100+' && row.age !== 'Age not stated'))
       .map(row => {
         return _.mapObject(row, (val, key) => {
           if (key === 'state') {
@@ -52,6 +52,7 @@ $().ready(function () {
 function renderBars(distribution, name, i, totalWidth) {
   var totalMale = sum(distribution, 'male');
   var totalFemale = sum(distribution, 'female');
+  var total = totalMale + totalFemale;
   var margin = {
     top: 15,
     left: 40,
@@ -60,9 +61,10 @@ function renderBars(distribution, name, i, totalWidth) {
   };
 
   var bucketSize = 5;
+  var maxPercentage = 0.08;
   var height = 125, width = totalWidth - margin.left - margin.right;
   var x = d3.scale.ordinal().domain(_.range(0, distribution.length / bucketSize)).rangeRoundBands([0, width], 0.15);
-  var y = d3.scale.linear().domain([0, 0.15]).range([height, 0]);
+  var y = d3.scale.linear().domain([0, maxPercentage]).range([height, 0]).nice();
 
   var svg = d3.select("body").append("svg")
         .attr('class', 'state-distribution')
@@ -84,9 +86,9 @@ function renderBars(distribution, name, i, totalWidth) {
     .append('rect')
     .style('fill', color(2*i))
     .attr('x', (d, i) => x(i))
-    .attr('y', d => y(sum(d, 'male') / totalMale))
+    .attr('y', d => y(sum(d, 'male') / total))
     .attr('width', x.rangeBand())
-    .attr('height', d => height - y(sum(d, 'male') / totalMale));
+    .attr('height', d => height - y(sum(d, 'male') / total));
 
   svg.append('g')
     .attr('class', 'female')
@@ -99,9 +101,9 @@ function renderBars(distribution, name, i, totalWidth) {
     .attr('x', (d, i) => x(i))
     .attr('y', 0)
     .attr('width', x.rangeBand())
-    .attr('height', d => height - y(sum(d, 'female') / totalFemale));
+    .attr('height', d => height - y(sum(d, 'female') / total));
 
-  var tickValues = [0, 0.05, 0.10, 0.15];
+  var tickValues = [0.00, 0.04, 0.08];
   var formatY = (x) => (x * 100) + '%';
   var yAxis = d3.svg.axis().scale(y).orient('left').tickValues(tickValues).tickFormat(formatY).tickSize(5);
   svg.append('g')
