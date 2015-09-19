@@ -14,6 +14,18 @@ header {
     margin: 10px 0;
 }
 
+.current-state {
+    text-anchor: middle;
+    font: 16px sans-serif;
+    fill: saddlebrown;
+}
+
+.gender {
+    font-size: 16px;
+    fill: #333;
+    text-anchor: middle;
+}
+
 svg {
     display: block;
     margin: 0 auto;
@@ -22,19 +34,29 @@ svg {
 path.male, path.female {
     fill: none;
     stroke-width: 1.5px;
+    stroke: #bbb;
+}
+
+path.male.selected, path.female.selected {
+    stroke: #000;
 }
 
 .axis path.domain {
     fill: none;
-    stroke: #ccc;
+    stroke: #333;
 }
 
 .axis .tick text {
-    fill: #aaa;
+    fill: #333;
     font-size: 12px;
     font-family: serif;
 }
 
 .axis .tick line {
-    stroke: #ccc;
+    stroke: #333;
+}
+
+
+.voronoi path {
+    fill: none;
 }
