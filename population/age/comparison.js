@@ -90,13 +90,13 @@ function render(totalWidth) {
     .attr('class', 'gender')
     .text('Female');
 
-  var yAxis = d3.svg.axis().scale(y).orient('left');
+  var yAxis = d3.svg.axis().scale(y).orient('left').tickFormat((y) => y + '%');
   svg.append('g')
     .attr('class', 'y axis')
     .attr('transform', `translate(${margin.left}, ${margin.top})`)
     .call(yAxis);
 
-  var y1Axis = d3.svg.axis().scale(y.copy().domain([3, 0])).orient('left');
+  var y1Axis = d3.svg.axis().scale(y.copy().domain([3, 0])).orient('left').tickFormat((y) => y + '%');
   svg.append('g')
     .attr('class', 'y axis')
     .attr('transform', `translate(${margin.left}, ${margin.top + height})`)
