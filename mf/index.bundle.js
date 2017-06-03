@@ -15626,7 +15626,7 @@ module.exports = [
 		"values": [
 			[
 				"Axis Bank Ltd",
-				"INE238A01026",
+				"INE238A01034",
 				"Banks",
 				"154,100.00 ",
 				"2,338.01",
@@ -16022,8 +16022,8 @@ module.exports = [
 				"1.06%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Internet & Technology",
 				"16,013.00 ",
 				"5,577.03 ",
@@ -16733,8 +16733,8 @@ module.exports = [
 				"1.18%"
 			],
 			[
-				"Google - C Class",
-				"US38259P7069",
+				"Alphabet INC",
+				"US02079K1079",
 				"Internet & Technology",
 				"11,770.00 ",
 				"4,066.68",
@@ -16970,8 +16970,8 @@ module.exports = [
 				"1.02%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Internet Software & Services",
 				"16,593.00 ",
 				"6,953.74 ",
@@ -17460,8 +17460,8 @@ module.exports = [
 				"1.05%"
 			],
 			[
-				"Google – C Class ",
-				"US38259P7069",
+				"Alphabet ",
+				"US02079K1079",
 				"Internet & Technology",
 				"15,970.00 ",
 				"5,340.00",
@@ -17972,6 +17972,250 @@ module.exports = [
 				"56717.00",
 				"308.62",
 				"0.47%"
+			]
+		]
+	},
+	{
+		"date": "February-2015",
+		"values": [
+			[
+				"Axis Bank Ltd",
+				"INE238A01034",
+				"Banks",
+				"770,500.00 ",
+				"4720.08",
+				"8.02%"
+			],
+			[
+				"Gujarat Gas Company Ltd",
+				"INE374A01029",
+				"Gas",
+				"298,660.00 ",
+				"1708.93",
+				"2.90%"
+			],
+			[
+				"HDFC Bank Ltd",
+				"INE040A01026",
+				"Banks",
+				"55,000.00 ",
+				"589.16",
+				"1.00%"
+			],
+			[
+				"ICICI Bank Ltd",
+				"INE090A01021",
+				"Banks",
+				"903,270.00 ",
+				"3126.67",
+				"5.31%"
+			],
+			[
+				"ICRA Ltd",
+				"INE725G01011",
+				"Finance",
+				"117,367.00 ",
+				"4486.53",
+				"7.62%"
+			],
+			[
+				"IL&FS Investment Managers Ltd",
+				"INE050B01023",
+				"Finance",
+				"11,370,900.00 ",
+				"2171.84",
+				"3.69%"
+			],
+			[
+				"Indraprastha Gas Ltd",
+				"INE203G01019",
+				"Gas",
+				"1544.00",
+				"2.62%"
+			],
+			[
+				"IPCA Laboratories Ltd",
+				"INE571A01020",
+				"Pharmaceuticals",
+				"84,644.00 ",
+				"555.98",
+				"0.94%"
+			],
+			[
+				"Maharashtra Scooters Limited",
+				"INE288A01013",
+				"Auto Ancillaries",
+				"391,182.00 ",
+				"3144.91",
+				"5.34%"
+			],
+			[
+				"Mahindra Holidays and Resorts India Ltd",
+				"INE998I01010",
+				"Hotels",
+				"574,281.00 ",
+				"1474.47",
+				"2.51%"
+			],
+			[
+				"Mphasis Ltd",
+				"INE356A01018",
+				"Software",
+				"363,500.00 ",
+				"1380.03",
+				"2.35%"
+			],
+			[
+				"MT Educare Ltd",
+				"INE472M01018",
+				"Diversified Consumer Services",
+				"178,078.00 ",
+				"214.14",
+				"0.36%"
+			],
+			[
+				"Noida Toll Bridge Co Ltd",
+				"INE781B01015",
+				"Transportation",
+				"8,654,434.00 ",
+				"2933.85",
+				"4.99%"
+			],
+			[
+				"Novartis India Ltd",
+				"INE234A01025",
+				"Pharmaceuticals",
+				"22,102.00 ",
+				"136.33",
+				"0.23%"
+			],
+			[
+				"Persistent Systems Ltd",
+				"INE262H01013",
+				"Software",
+				"149,216.00 ",
+				"2706.85",
+				"4.60%"
+			],
+			[
+				"Pfizer Ltd",
+				"INE182A01018",
+				"Pharmaceuticals",
+				"33,600.00 ",
+				"669.65",
+				"1.14%"
+			],
+			[
+				"Selan Exploration Technology Ltd",
+				"INE818A01017",
+				"Oil",
+				"168,012.00 ",
+				"461.78",
+				"0.78%"
+			],
+			[
+				"Standard Chartered PLC IDR",
+				"INE028L21018",
+				"Banks",
+				"567,172.00 ",
+				"506.48",
+				"0.86%"
+			],
+			[
+				"United Spirits Ltd *",
+				"INE854D01016",
+				"Consumer Non Durables",
+				"31,733.00 ",
+				"1085.32",
+				"1.84%"
+			],
+			[
+				"Zydus Wellness Ltd",
+				"INE768C01010",
+				"Consumer Non Durables",
+				"357,763.00 ",
+				"3032.04",
+				"5.15%"
+			],
+			[
+				"HDFC Bank Ltd",
+				"INE040A01026",
+				"Banks",
+				"19,250.00 ",
+				"206.21",
+				"0.35%"
+			],
+			[
+				"IDFC Ltd.",
+				"INE043D01016",
+				"Finance",
+				"510,000.00 ",
+				"883.58",
+				"1.50%"
+			],
+			[
+				"ITC Ltd",
+				"INE154A01025",
+				"Consumer Non Durables",
+				"275,000.00 ",
+				"993.71",
+				"1.69%"
+			],
+			[
+				"State Bank of India",
+				"INE062A01020",
+				"Banks",
+				"293,750.00 ",
+				"886.10",
+				"1.51%"
+			],
+			[
+				"3M CO",
+				"US88579Y1010",
+				"Industrial Conglomerates",
+				"17,755.00 ",
+				"1862.57",
+				"3.17%"
+			],
+			[
+				"Anheuser Busch Inbev SA-ADR",
+				"US03524A1088",
+				"Brewers",
+				"8,316.00 ",
+				"655.74",
+				"1.11%"
+			],
+			[
+				"Alphabet ",
+				"US02079K1079",
+				"Internet & Technology",
+				"15,970.00 ",
+				"5486.72",
+				"9.32%"
+			],
+			[
+				"International Business Machines Corp (IBM)",
+				"US4592001014",
+				"IT Consulting & Other Services",
+				"20,895.00 ",
+				"2079.01",
+				"3.53%"
+			],
+			[
+				"Nestle SA – ADR",
+				"US6410694060",
+				"Packaged Foods",
+				"37,010.00 ",
+				"1790.51",
+				"3.04%"
+			],
+			[
+				"United Parcel Services INC",
+				"US9113121068",
+				"Logistics",
+				"39,675.00 ",
+				"2499.54",
+				"4.25%"
 			]
 		]
 	},
@@ -18661,8 +18905,8 @@ module.exports = [
 				"1.10%"
 			],
 			[
-				"Google – C Class ",
-				"US38259P7069",
+				"Alphabet ",
+				"US02079K1079",
 				"Internet & Technology",
 				"15,970.00 ",
 				"5,045.44",
@@ -19348,8 +19592,8 @@ module.exports = [
 				"3.61%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Software & Technology",
 				"10,920.00 ",
 				"3,883.09",
@@ -19569,8 +19813,8 @@ module.exports = [
 				"1.04%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Internet Software & Services",
 				"16,593.00 ",
 				"6,731.45 ",
@@ -19852,7 +20096,7 @@ module.exports = [
 		"values": [
 			[
 				"Axis Bank Ltd",
-				"INE238A01026",
+				"INE238A01034",
 				"Banks",
 				"154,100.00 ",
 				"2,956.95",
@@ -20043,8 +20287,8 @@ module.exports = [
 				"3.75%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Sowftware & Technology",
 				"5,520.00 ",
 				"1,917.55",
@@ -20256,8 +20500,8 @@ module.exports = [
 				"1.09%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Internet & Technology",
 				"16,013.00 ",
 				"5,315.47 ",
@@ -20539,7 +20783,7 @@ module.exports = [
 		"values": [
 			[
 				"Axis Bank Ltd",
-				"INE238A01026",
+				"INE238A01034",
 				"Banks",
 				"154,100.00 ",
 				"2,250.63",
@@ -20951,8 +21195,8 @@ module.exports = [
 				"1.12%"
 			],
 			[
-				"Google – C Class ",
-				"US38259P7069",
+				"Alphabet ",
+				"US02079K1079",
 				"Internet & Technology",
 				"15,970.00 ",
 				"5,508.41 ",
@@ -21479,7 +21723,7 @@ module.exports = [
 		"values": [
 			[
 				"Axis Bank Ltd",
-				"INE238A01026",
+				"INE238A01034",
 				"Banks",
 				"154,100.00 ",
 				"2,829.51",
@@ -21670,8 +21914,8 @@ module.exports = [
 				"3.96%"
 			],
 			[
-				"Google – C Class ",
-				"US38259P7069",
+				"Alphabet ",
+				"US02079K1079",
 				"Software & Technology",
 				"3,770.00 ",
 				"1,247.26",
@@ -21891,8 +22135,8 @@ module.exports = [
 				"1.08%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Internet & Technology",
 				"16,013.00 ",
 				"5,516.28 ",
@@ -22389,8 +22633,8 @@ module.exports = [
 				"1.12%"
 			],
 			[
-				"Google- C Class",
-				"US38259P7069",
+				"Alphabet INC",
+				"US02079K1079",
 				"Internet & Technology",
 				"13,990.00 ",
 				"4,689.14",
@@ -23116,8 +23360,8 @@ module.exports = [
 				"1.12%"
 			],
 			[
-				"Google-C Class",
-				"US38259P7069",
+				"Alphabet INC",
+				"US02079K1079",
 				"Internet & Technology",
 				"13,990.00 ",
 				"4,724.39",
@@ -23827,8 +24071,8 @@ module.exports = [
 				"1.16% "
 			],
 			[
-				"Google-C Class",
-				"US38259P7069",
+				"Alphabet INC",
+				"US02079K1079",
 				"Software & Technology",
 				"12,640.00 ",
 				"4,499.70 ",
@@ -24072,8 +24316,8 @@ module.exports = [
 				"0.96%"
 			],
 			[
-				"Google – C Class",
-				"US38259P7069",
+				"Alphabet",
+				"US02079K1079",
 				"Internet Software & Services",
 				"16,593.00 ",
 				"6,475.27 ",
@@ -42814,7 +43058,7 @@ var data = (0, _underscore.sortBy)(_all2.default.map(function (portfolio) {
     if (item) {
       var rs = parseFloat(item[4].replace(/ /, '').replace(/,/, ''));
       values[ticker] = rs;
-      tickerLabel[ticker] = item[0].replace(/ltd|corp|inc|[*.]|\(.*$/ig, '').trim();
+      tickerLabel[ticker] = item[0].replace(/ltd|corpn?|inc|[*.]|\(.*$/ig, '').trim();
     } else {
       values[ticker] = 0;
     }
@@ -42830,8 +43074,9 @@ function sum(list) {
 
 var tickerVolume = {};
 tickers.forEach(function (ticker) {
-  tickerVolume[ticker] = sum((0, _underscore.pluck)(data, ticker));
+  tickerVolume[ticker] = parseInt(sum((0, _underscore.pluck)(data, ticker)));
 });
+var tickerVolumeSorted = (0, _underscore.sortBy)(Object.values(tickerVolume), _underscore.identify).reverse();
 
 var stack = d3.stack().keys(tickers.sort()).order(d3.stackOrderNone).offset(d3.stackOffsetWiggle);
 
@@ -42840,7 +43085,14 @@ var series = stack(data);
 var width = Math.max(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), 1200);
 var height = Math.max(Math.max(document.documentElement.clientHeight, window.innerHeight || 0), 700);
 
-var x = d3.scaleTime().domain(d3.extent(data, function (d) {
+var margin = {
+  top: 40,
+  left: 0,
+  right: 0,
+  bottom: 0
+};
+
+var x = d3.scaleLinear().domain(d3.extent(data, function (d) {
   return d.date;
 })).range([0, width]);
 
@@ -42856,9 +43108,9 @@ function stackMin(layer) {
   });
 }
 
-var y = d3.scaleLinear().domain([d3.min(series, stackMin), d3.max(series, stackMax)]).range([height, 0]);
+var y = d3.scaleLinear().domain([d3.min(series, stackMin), d3.max(series, stackMax)]).range([height - margin.top - margin.bottom, 0]);
 
-var color = d3.scaleSequential(d3.interpolateCool).domain([0, d3.max(Object.values(tickerVolume))]);
+var color = d3.scaleSequential(d3.interpolateRainbow).domain([0, tickers.length]);
 
 var area = d3.area().x(function (d) {
   return x(d.data.date);
@@ -42870,10 +43122,18 @@ var area = d3.area().x(function (d) {
 
 var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
 
+var xAxis = d3.axisTop().tickSize(-height).tickValues(data.map(function (d) {
+  return d.date;
+})).tickFormat(function (t) {
+  return (0, _moment2.default)(t).format('MMM YY');
+}).scale(x);
+
+svg.append('g').attr('class', 'x axis').attr('transform', 'translate(' + margin.left + ', 15)').call(xAxis);
+
 var paths = svg.selectAll("path").data(series).enter();
 
-paths.append("path").attr("d", area).style("fill", function (d, i) {
-  return color(tickerVolume[d.key]);
+paths.append("path").attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')').attr("d", area).style("fill", function (d, i) {
+  return color(tickerVolumeSorted.indexOf(tickerVolume[d.key]));
 }).append('title').text(function (d) {
   return tickerLabel[d.key];
 });
@@ -42939,7 +43199,7 @@ function centroid(d) {
   return [-1000, -1000];
 }
 
-paths.append("text").attr('x', function (d) {
+paths.append("text").attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')').attr('x', function (d) {
   return centroid(d)[0];
 }).attr('y', function (d) {
   return centroid(d)[1];

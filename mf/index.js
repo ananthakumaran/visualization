@@ -10,7 +10,8 @@ import {
   sortBy,
   reduce,
   clone,
-  any
+  any,
+  identify
 } from 'underscore';
 
 all.forEach((portfolio) => {
@@ -29,7 +30,7 @@ const data = sortBy(all.map((portfolio) => {
     if (item) {
       let rs = parseFloat(item[4].replace(/ /, '').replace(/,/, ''));
       values[ticker] = rs;
-      tickerLabel[ticker] = item[0].replace(/ltd|corp|inc|[*.]|\(.*$/ig, '').trim();
+      tickerLabel[ticker] = item[0].replace(/ltd|corpn?|inc|[*.]|\(.*$/ig, '').trim();
     } else {
       values[ticker] = 0;
     }
@@ -43,8 +44,9 @@ function sum(list) {
 
 const tickerVolume = {};
 tickers.forEach((ticker) => {
-  tickerVolume[ticker] = sum(pluck(data, ticker));
+  tickerVolume[ticker] = parseInt(sum(pluck(data, ticker)));
 });
+const tickerVolumeSorted = sortBy(Object.values(tickerVolume), identify).reverse();
 
 
 var stack = d3.stack()
@@ -57,7 +59,14 @@ var series = stack(data);
 let width = Math.max(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), 1200);
 let height = Math.max(Math.max(document.documentElement.clientHeight, window.innerHeight || 0), 700);
 
-var x = d3.scaleTime()
+let margin = {
+  top: 40,
+  left: 0,
+  right: 0,
+  bottom: 0
+};
+
+var x = d3.scaleLinear()
     .domain(d3.extent(data, function(d){ return d.date; }))
     .range([0, width]);
 
@@ -72,10 +81,10 @@ function stackMin(layer) {
 
 var y = d3.scaleLinear()
     .domain([d3.min(series, stackMin), d3.max(series, stackMax)])
-    .range([height, 0]);
+    .range([height - margin.top - margin.bottom, 0]);
 
-var color = d3.scaleSequential(d3.interpolateCool)
-    .domain([0, d3.max(Object.values(tickerVolume))]);
+var color = d3.scaleSequential(d3.interpolateRainbow)
+    .domain([0, tickers.length]);
 
 var area = d3.area()
     .x(function(d) { return x(d.data.date); })
@@ -87,13 +96,26 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
+
+var xAxis = d3.axisTop()
+    .tickSize(-height)
+    .tickValues(data.map(d => d.date))
+    .tickFormat(t => moment(t).format('MMM YY'))
+    .scale(x);
+
+svg.append('g')
+  .attr('class', 'x axis')
+  .attr('transform', `translate(${margin.left}, 15)`)
+  .call(xAxis);
+
 var paths = svg.selectAll("path")
     .data(series)
     .enter();
 
 paths.append("path")
+  .attr('transform', `translate(${margin.left}, ${margin.top})`)
   .attr("d", area)
-  .style("fill", function(d, i) { return color(tickerVolume[d.key]); })
+  .style("fill", function(d, i) { return color(tickerVolumeSorted.indexOf(tickerVolume[d.key])); })
   .append('title')
   .text((d) => tickerLabel[d.key]);
 
@@ -141,6 +163,7 @@ function centroid(d) {
 }
 
 paths.append("text")
+  .attr('transform', `translate(${margin.left}, ${margin.top})`)
   .attr('x', (d) => centroid(d)[0])
   .attr('y', (d) => centroid(d)[1])
   .attr("dy", "0.32em")
@@ -149,3 +172,4 @@ paths.append("text")
   .style('text-anchor', 'middle')
   .style('font-family', 'sans-serif')
   .text((d) => tickerLabel[d.key]);
+
