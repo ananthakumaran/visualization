@@ -42804,6 +42804,7 @@ var tickers = (0, _underscore.unique)((0, _underscore.flatten)((0, _underscore.m
   return (0, _underscore.pluck)(month.values, 1);
 })));
 
+var tickerLabel = {};
 var data = (0, _underscore.sortBy)(_all2.default.map(function (portfolio) {
   var values = { date: portfolio.date };
   tickers.forEach(function (ticker) {
@@ -42813,6 +42814,7 @@ var data = (0, _underscore.sortBy)(_all2.default.map(function (portfolio) {
     if (item) {
       var rs = parseFloat(item[4].replace(/ /, '').replace(/,/, ''));
       values[ticker] = rs;
+      tickerLabel[ticker] = item[0].replace(/ltd|corp|inc|[*.]|\(.*$/ig, '').trim();
     } else {
       values[ticker] = 0;
     }
@@ -42835,8 +42837,8 @@ var stack = d3.stack().keys((0, _underscore.shuffle)(tickers)).order(d3.stackOrd
 
 var series = stack(data);
 
-var width = Math.max(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), 1300) - 20;
-var height = Math.max(Math.max(document.documentElement.clientHeight, window.innerHeight || 0), 700) - 20;
+var width = Math.max(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), 1200);
+var height = Math.max(Math.max(document.documentElement.clientHeight, window.innerHeight || 0), 700);
 
 var x = d3.scaleTime().domain(d3.extent(data, function (d) {
   return d.date;
@@ -42864,16 +42866,85 @@ var area = d3.area().x(function (d) {
   return y(d[0]);
 }).y1(function (d) {
   return y(d[1]);
-}).curve(d3.curveBasis);
+}).curve(d3.curveMonotoneX);
 
 var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
 
-svg.selectAll("path").data(series).enter().append("path").attr("d", area).style("fill", function (d, i) {
+var paths = svg.selectAll("path").data(series).enter();
+
+paths.append("path").attr("d", area).style("fill", function (d, i) {
   return color(tickerVolume[d.key]);
+}).append('title').text(function (d) {
+  return tickerLabel[d.key];
 });
 
-svg.selectAll("path").data(series).enter().append("path").attr("d", area).style("fill", function (d, i) {
-  return color(tickerVolume[d.key]);
+function canPlace(point, polygon, ticker) {
+  var fontHeight = 14;
+  var fontWidth = 6;
+  var length = tickerLabel[ticker].length * fontWidth;
+  var textBox = [[point[0] - length / 2, point[1] - fontHeight / 2], [point[0] + length / 2, point[1] - fontHeight / 2], [point[0] + length / 2, point[1] + fontHeight / 2], [point[0] - length / 2, point[1] + fontHeight / 2]];
+  if ((0, _underscore.any)(textBox, function (p) {
+    return !d3.polygonContains(polygon, p);
+  })) {
+    return false;
+  }
+  return true;
+}
+
+function centroid(d) {
+  var polygon = [];
+  var heights = [];
+  d.forEach(function (datum) {
+    heights.push(y(datum[0]) - y(datum[1]));
+    polygon.push([x(datum.data.date), y(datum[0])]);
+  });
+  (0, _underscore.clone)(d).reverse().forEach(function (datum) {
+    polygon.push([x(datum.data.date), y(datum[1])]);
+  });
+
+  var center = d3.polygonCentroid(polygon);
+  if (canPlace(center, polygon, d.key)) {
+    return center;
+  }
+  var _iteratorNormalCompletion = true;
+  var _didIteratorError = false;
+  var _iteratorError = undefined;
+
+  try {
+    for (var _iterator = d[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+      var datum = _step.value;
+
+      var y1 = y(datum[1]);
+      var y0 = y(datum[0]);
+      var point = [x(datum.data.date), y0 - (y0 - y1) / 2];
+      if (canPlace(point, polygon, d.key)) {
+        return point;
+      }
+    }
+  } catch (err) {
+    _didIteratorError = true;
+    _iteratorError = err;
+  } finally {
+    try {
+      if (!_iteratorNormalCompletion && _iterator.return) {
+        _iterator.return();
+      }
+    } finally {
+      if (_didIteratorError) {
+        throw _iteratorError;
+      }
+    }
+  }
+
+  return [-1000, -1000];
+}
+
+paths.append("text").attr('x', function (d) {
+  return centroid(d)[0];
+}).attr('y', function (d) {
+  return centroid(d)[1];
+}).attr("dy", "0.32em").style('fill', 'white').style('font-size', '12px').style('text-anchor', 'middle').style('font-family', 'sans-serif').text(function (d) {
+  return tickerLabel[d.key];
 });
 
 /***/ }),
