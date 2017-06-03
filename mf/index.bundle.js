@@ -42833,7 +42833,7 @@ tickers.forEach(function (ticker) {
   tickerVolume[ticker] = sum((0, _underscore.pluck)(data, ticker));
 });
 
-var stack = d3.stack().keys((0, _underscore.shuffle)(tickers)).order(d3.stackOrderNone).offset(d3.stackOffsetWiggle);
+var stack = d3.stack().keys(tickers.sort()).order(d3.stackOrderNone).offset(d3.stackOffsetWiggle);
 
 var series = stack(data);
 
@@ -42879,8 +42879,8 @@ paths.append("path").attr("d", area).style("fill", function (d, i) {
 });
 
 function canPlace(point, polygon, ticker) {
-  var fontHeight = 14;
-  var fontWidth = 6;
+  var fontHeight = 12;
+  var fontWidth = 5;
   var length = tickerLabel[ticker].length * fontWidth;
   var textBox = [[point[0] - length / 2, point[1] - fontHeight / 2], [point[0] + length / 2, point[1] - fontHeight / 2], [point[0] + length / 2, point[1] + fontHeight / 2], [point[0] - length / 2, point[1] + fontHeight / 2]];
   if ((0, _underscore.any)(textBox, function (p) {

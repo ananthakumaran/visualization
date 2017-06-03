@@ -9,7 +9,6 @@ import {
   find,
   sortBy,
   reduce,
-  shuffle,
   clone,
   any
 } from 'underscore';
@@ -49,7 +48,7 @@ tickers.forEach((ticker) => {
 
 
 var stack = d3.stack()
-    .keys(shuffle(tickers))
+    .keys(tickers.sort())
     .order(d3.stackOrderNone)
     .offset(d3.stackOffsetWiggle);
 
@@ -100,8 +99,8 @@ paths.append("path")
 
 
 function canPlace(point, polygon, ticker) {
-  const fontHeight = 14;
-  const fontWidth = 6;
+  const fontHeight = 12;
+  const fontWidth = 5;
   const length = tickerLabel[ticker].length * fontWidth;
   const textBox = [
     [point[0] - (length/2), point[1] - (fontHeight/2)],
