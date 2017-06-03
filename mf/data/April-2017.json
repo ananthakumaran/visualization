@@ -1,0 +1,261 @@
+{
+    "date": "April-2017",
+    "values": [
+        [
+            "HDFC Bank Ltd",
+            "INE040A01026",
+            "Bank",
+            "369070.00",
+            "5707.67",
+            "7.61%"
+        ],
+        [
+            "Bajaj Holdings & Investment Ltd",
+            "INE118A01012",
+            "Finance",
+            "240482.00",
+            "5084.87",
+            "6.78%"
+        ],
+        [
+            "Indraprastha Gas Ltd ",
+            "INE203G01019",
+            "Gas",
+            "353400.00",
+            "3737.91",
+            "4.98%"
+        ],
+        [
+            "Balkrishna Industries Ltd",
+            "INE787D01026",
+            "Auto Ancillaries",
+            "229215.00",
+            "3491.17",
+            "4.65%"
+        ],
+        [
+            "Zydus Wellness Ltd",
+            "INE768C01010",
+            "Consumer Non Durables",
+            "371729.00",
+            "3224.19",
+            "4.30%"
+        ],
+        [
+            "Persistent Systems Ltd",
+            "INE262H01013",
+            "Software",
+            "542373.00",
+            "3176.68",
+            "4.24%"
+        ],
+        [
+            "Mahindra Holidays & Resorts India Ltd",
+            "INE998I01010",
+            "Hotels,Resorts&OtherRecreational Actvities",
+            "574281.00",
+            "2585.41",
+            "3.45%"
+        ],
+        [
+            "Axis Bank Ltd",
+            "INE238A01034",
+            "Bank",
+            "505179.00",
+            "2574.64",
+            "3.43%"
+        ],
+        [
+            "Gujarat Gas Ltd",
+            "INE844O01022",
+            "Gas",
+            "298660.00",
+            "2522.63",
+            "3.36%"
+        ],
+        [
+            "Maharashtra Scooters Ltd",
+            "INE288A01013",
+            "Auto Ancillaries",
+            "107222.00",
+            "2221.00",
+            "2.96%"
+        ],
+        [
+            "ICICI Bank Ltd",
+            "INE090A01021",
+            "Bank",
+            "754970.00",
+            "2102.59",
+            "2.80%"
+        ],
+        [
+            "Mphasis Ltd(prev)Mphasis BFL Ltd",
+            "INE356A01018",
+            "Software",
+            "363500.00",
+            "1949.27",
+            "2.60%"
+        ],
+        [
+            "ICRA Ltd",
+            "INE725G01011",
+            "Finance",
+            "38676.00",
+            "1623.17",
+            "2.16%"
+        ],
+        [
+            "IPCA Laboratories Ltd",
+            "INE571A01020",
+            "Pharmaceuticals",
+            "236663.00",
+            "1415.36",
+            "1.89%"
+        ],
+        [
+            "Dr.Reddys Laboratories Ltd",
+            "INE089A01023",
+            "Pharmaceuticals",
+            "40000.00",
+            "1039.66",
+            "1.39%"
+        ],
+        [
+            "Pfizer (I) Ltd",
+            "INE182A01018",
+            "Pharmaceuticals",
+            "33600.00",
+            "583.83",
+            "0.78%"
+        ],
+        [
+            "IL&FS Investment Managers Ltd",
+            "INE050B01023",
+            "Finance",
+            "948482.00",
+            "149.39",
+            "0.20%"
+        ],
+        [
+            "Hindustan Petroleum Corpn Ltd",
+            "INE094A01015",
+            "Gas",
+            "686700.00",
+            "3681.74",
+            "4.91%"
+        ],
+        [
+            "Century Textiles Industries Ltd.",
+            "INE055A01016",
+            "Construction-Cement",
+            "174900.00",
+            "1973.83",
+            "2.63%"
+        ],
+        [
+            "Titan Company ltd",
+            "INE280A01028",
+            "Consumer-Durables",
+            "49500.00",
+            "232.77",
+            "0.31%"
+        ],
+        [
+            "21",
+            "TITAN 25-MAY-2017-FUT #",
+            "Consumer-Durables",
+            "-49500.00",
+            "-234.36",
+            "(0.31%)"
+        ],
+        [
+            "22",
+            "CENTURYTEX 25-MAY-2017-FUT #",
+            "Construction-Cement",
+            "-174900.00",
+            "-1,983.37",
+            "(2.64%)"
+        ],
+        [
+            "23",
+            "HINDPETRO 25-MAY-2017-FUT #",
+            "Gas",
+            "-686700.00",
+            "-3,706.81",
+            "(4.94%)"
+        ],
+        [
+            "Alphabet INC",
+            "US02079K1079",
+            "Software",
+            "15093.00",
+            "8480.15",
+            "11.31%"
+        ],
+        [
+            "United Parcel Services INC",
+            "US9113121068",
+            "Logistics",
+            "39675.00",
+            "2774.97",
+            "3.70%"
+        ],
+        [
+            "3M CO",
+            "US88579Y1010",
+            "Industrial Conglomerates",
+            "17755.00",
+            "2237.75",
+            "2.98%"
+        ],
+        [
+            "International Business Machines Corp",
+            "US4592001014",
+            "Software",
+            "20920.00",
+            "2155.47",
+            "2.87%"
+        ],
+        [
+            "Nestle SA-ADR",
+            "US6410694060",
+            "Consumer-Food Proc",
+            "40690.00",
+            "2036.34",
+            "2.71%"
+        ],
+        [
+            "APPLE Inc",
+            "US0378331005",
+            "Software",
+            "12550.00",
+            "1159.75",
+            "1.55%"
+        ],
+        [
+            "Anheuser Busch Inbev SA-ADR",
+            "US03524A1088",
+            "Consumer Misc",
+            "8316.00",
+            "599.81",
+            "0.80%"
+        ],
+        [
+            "Standard Chartered PLC",
+            "GB0004082847",
+            "Bank",
+            "56717.00",
+            "349.73",
+            "0.47%"
+        ],
+        [
+            "32",
+            "FUTCUR USDINR 29-MAY-2017 #",
+            "Misc",
+            "-25100000.00",
+            "-16,197.03",
+            "(21.59%)"
+        ]
+    ]
+}

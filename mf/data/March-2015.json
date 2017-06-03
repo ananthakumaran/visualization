@@ -1,0 +1,245 @@
+{
+    "date": "March-2015",
+    "values": [
+        [
+            "Axis Bank Ltd",
+            "INE238A01034",
+            "Banks",
+            "770,500.00 ",
+            "4,316.34 ",
+            "7.55%"
+        ],
+        [
+            "Gujarat Gas Company Ltd",
+            "INE374A01029",
+            "Gas",
+            "298,660.00 ",
+            "1,880.81 ",
+            "3.29%"
+        ],
+        [
+            "HDFC Bank Ltd",
+            "INE040A01026",
+            "Banks",
+            "55,000.00 ",
+            "562.49 ",
+            "0.98%"
+        ],
+        [
+            "ICICI Bank Ltd",
+            "INE090A01021",
+            "Banks",
+            "903,270.00 ",
+            "2,849.82 ",
+            "4.98%"
+        ],
+        [
+            "ICRA Ltd",
+            "INE725G01011",
+            "Finance",
+            "112,186.00 ",
+            "4,497.76 ",
+            "7.86%"
+        ],
+        [
+            "IL&FS Investment Managers Ltd",
+            "INE050B01023",
+            "Finance",
+            "11,370,900.00 ",
+            "2,126.36 ",
+            "3.72%"
+        ],
+        [
+            "Indraprastha Gas Ltd",
+            "INE203G01019",
+            "Gas",
+            "353,400.00 ",
+            "1,482.34 ",
+            "2.59%"
+        ],
+        [
+            "IPCA Laboratories Ltd",
+            "INE571A01020",
+            "Pharmaceuticals",
+            "136,093.00 ",
+            "865.35 ",
+            "1.51%"
+        ],
+        [
+            "Maharashtra Scooters Limited",
+            "INE288A01013",
+            "Auto Ancillaries",
+            "391,182.00 ",
+            "3,446.12 ",
+            "6.03%"
+        ],
+        [
+            "Mahindra Holidays and Resorts India Ltd",
+            "INE998I01010",
+            "Hotels, Resorts And Other Recreational Activities",
+            "574,281.00 ",
+            "1,480.50 ",
+            "2.59%"
+        ],
+        [
+            "Mphasis Ltd",
+            "INE356A01018",
+            "Software",
+            "363,500.00 ",
+            "1,400.93 ",
+            "2.45%"
+        ],
+        [
+            "MT Educare Ltd",
+            "INE472M01018",
+            "Diversified Consumer Services",
+            "178,078.00 ",
+            "184.67 ",
+            "0.32%"
+        ],
+        [
+            "Noida Toll Bridge Co Ltd",
+            "INE781B01015",
+            "Transportation",
+            "8,658,488.00 ",
+            "2,896.26 ",
+            "5.06%"
+        ],
+        [
+            "Novartis India Ltd",
+            "INE234A01025",
+            "Pharmaceuticals",
+            "22,102.00 ",
+            "124.32 ",
+            "0.22%"
+        ],
+        [
+            "Persistent Systems Ltd",
+            "INE262H01013",
+            "Software",
+            "298,432.00 ",
+            "2,131.70 ",
+            "3.73%"
+        ],
+        [
+            "Pfizer Ltd",
+            "INE182A01018",
+            "Pharmaceuticals",
+            "33,600.00 ",
+            "749.33 ",
+            "1.31%"
+        ],
+        [
+            "Selan Exploration Technology Ltd",
+            "INE818A01017",
+            "Oil",
+            "168,012.00 ",
+            "381.81 ",
+            "0.67%"
+        ],
+        [
+            "Standard Chartered PLC IDR",
+            "INE028L21018",
+            "Banks",
+            "567,172.00 ",
+            "554.98 ",
+            "0.97%"
+        ],
+        [
+            "Zydus Wellness Ltd",
+            "INE768C01010",
+            "Consumer Non Durables",
+            "357,763.00 ",
+            "3,642.21 ",
+            "6.37%"
+        ],
+        [
+            "HDFC Bank Ltd",
+            "INE040A01026",
+            "Banks",
+            "19,250.00 ",
+            "196.87",
+            "0.34%"
+        ],
+        [
+            "IDFC Ltd.",
+            "INE043D01016",
+            "Finance",
+            "1,300,000.00 ",
+            "2,170.35 ",
+            "3.80%"
+        ],
+        [
+            "ITC Ltd",
+            "INE154A01025",
+            "Consumer Non Durables",
+            "275,000.00 ",
+            "896.09 ",
+            "1.57%"
+        ],
+        [
+            "State Bank of India",
+            "INE062A01020",
+            "Banks",
+            "293,750.00 ",
+            "784.46 ",
+            "1.37%"
+        ],
+        [
+            "3M CO",
+            "US88579Y1010",
+            "Industrial Conglomerates",
+            "17,755.00 ",
+            "1,842.12 ",
+            "3.22%"
+        ],
+        [
+            "Anheuser Busch Inbev SA-ADR",
+            "US03524A1088",
+            "Brewers",
+            "8,316.00 ",
+            "641.97 ",
+            "1.12%"
+        ],
+        [
+            "Google – C Class ",
+            "US38259P7069",
+            "Internet & Technology",
+            "15,970.00 ",
+            "5,508.41 ",
+            "9.63%"
+        ],
+        [
+            "International Business Machines Corp (IBM)",
+            "US4592001014",
+            "IT Consulting & Other Services",
+            "20,895.00 ",
+            "2,123.77 ",
+            "3.71%"
+        ],
+        [
+            "Nestle SA – ADR",
+            "US6410694060",
+            "Packaged Foods",
+            "37,010.00 ",
+            "1,774.83 ",
+            "3.10%"
+        ],
+        [
+            "United Parcel Services INC",
+            "US9113121068",
+            "Logistics",
+            "39,675.00 ",
+            "2,411.32 ",
+            "4.22%"
+        ],
+        [
+            "Fixed Deposit",
+            "FIXED",
+            "Cash",
+            "600.00",
+            "600.00",
+            "1.05%"
+        ]
+    ]
+}
