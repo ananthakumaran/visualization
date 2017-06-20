@@ -11,7 +11,8 @@ import {
   reduce,
   clone,
   any,
-  identify
+  identify,
+  values
 } from 'underscore';
 
 all.forEach((portfolio) => {
@@ -46,7 +47,7 @@ const tickerVolume = {};
 tickers.forEach((ticker) => {
   tickerVolume[ticker] = parseInt(sum(pluck(data, ticker)));
 });
-const tickerVolumeSorted = sortBy(Object.values(tickerVolume), identify).reverse();
+const tickerVolumeSorted = sortBy(values(tickerVolume), identify).reverse();
 
 
 var stack = d3.stack()
