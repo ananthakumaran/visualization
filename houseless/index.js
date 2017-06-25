@@ -13,6 +13,7 @@ import {
   schemeOranges
 } from 'd3-scale-chromatic';
 import india from './data/india.json';
+import indiaStates from './data/india.states.json';
 import houseless from './data/houseless.json';
 import {
   feature,
@@ -27,6 +28,7 @@ let height = Math.max(document.documentElement.clientHeight, window.innerHeight 
 let width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
 
 let districts = feature(india, india.objects['-']);
+let states = feature(indiaStates, indiaStates.objects['-']);
 const b = india.bbox;
 const pad = 30;
 let projection = geoMercator()
@@ -42,7 +44,7 @@ let normalized = map(districts.features, (d) => {
 });
 
 function title(properties) {
-  return `Count: ${districtHouseless[properties.censuscode] || 'Data Not Available'} \nDistrict: ${properties.DISTRICT}\nState: ${properties.ST_NM}`
+  return `Count: ${districtHouseless[properties.censuscode] || 'Data Not Available'} \nDistrict: ${properties.DISTRICT}\nState: ${properties.ST_NM}`;
 }
 
 let domain = extent(normalized);
@@ -54,7 +56,6 @@ let svg = select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-
 svg.append("g")
   .attr("class", "districts")
   .selectAll("path")
@@ -65,6 +66,16 @@ svg.append("g")
   .append("title")
   .text((d) => title(d.properties));
 
+svg.append("g")
+  .attr("class", "states")
+  .selectAll("path")
+  .data(states.features)
+  .enter().append("path")
+  .attr("d", geoPath().projection(projection))
+  .attr("stroke", "#000")
+  .attr("stroke-width", 0.5)
+  .attr("stroke-opacity", 0.3)
+  .style("fill", 'none');
 
 let x = scaleSqrt()
     .domain([0, 35000])

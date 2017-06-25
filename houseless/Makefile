@@ -1,4 +1,4 @@
-.PHONY: data/india.json data/india.geojson data/houseless.json
+.PHONY: data/india.json data/india.geojson data/houseless.json data/india.states.json
 
 
 data/houseless.json: data/houseless.xls
@@ -14,6 +14,9 @@ data/india.geojson:
 
 data/india.json: data/india.geojson
 	geo2topo < data/india.geojson | toposimplify -p .005 | topoquantize 1e5 > data/india.json
+
+data/india.states.json:
+	shp2json ../maps/States/Admin2.shp | geo2topo | toposimplify -p .005 | topoquantize 1e5 > data/india.states.json
 
 setup:
 	yarn
