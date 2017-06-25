@@ -21,23 +21,3 @@ svg {
     display: block;
     margin: 0 auto;
 }
-
-.axis path.domain {
-    fill: none;
-    stroke: #ccc;
-    display: none;
-}
-
-.axis .tick text {
-    fill: #aaa;
-    font-size: 10px;
-    font-family: serif;
-}
-
-.axis .tick line {
-    stroke: #ccc;
-}
-
-.x.axis line {
-    stroke: #f5f5f5;
-}
