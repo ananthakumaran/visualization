@@ -3,3 +3,5 @@ population/variation/bower_components
 ne_10m_admin_1_states_provinces.*
 .DS_Store
 population/age/bower_components
+maps/
+houseless/data
