@@ -9,9 +9,24 @@ body {
     margin: 0;
 }
 
-.caption {
+header {
+    position: absolute;
+    top: 40px;
+    left: 20px;
     text-align: center;
-    font: 14px sans-serif;
+    font: 16px sans-serif;
+    color: saddlebrown;
+    fill: saddlebrown;
+    margin: 10px 0;
+}
+
+.description {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    max-width: 225px;
+    text-align: justify;
+    font: 10px sans-serif;
     color: saddlebrown;
     fill: saddlebrown;
     margin: 10px 0;
@@ -20,4 +35,8 @@ body {
 svg {
     display: block;
     margin: 0 auto;
+}
+
+a.source {
+    color: #999;
 }

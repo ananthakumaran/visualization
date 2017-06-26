@@ -74,7 +74,7 @@ svg.append("g")
   .attr("d", geoPath().projection(projection))
   .attr("stroke", "#000")
   .attr("stroke-width", 0.5)
-  .attr("stroke-opacity", 0.3)
+  .attr("stroke-opacity", 0.2)
   .style("fill", 'none');
 
 let x = scaleSqrt()
@@ -96,13 +96,6 @@ g.selectAll("rect")
   .attr("x", function(d) { return x(d[0]); })
   .attr("width", function(d) { return x(d[1]) - x(d[0]); })
   .attr("fill", function(d) { return color(d[0]); });
-
-g.append("text")
-  .attr("class", "caption")
-  .attr("x", x.range()[0] + 20)
-  .attr("y", 50)
-  .attr("text-anchor", "start")
-  .text("Houseless people district wise");
 
 g.call(axisBottom(x)
        .tickSize(13)
