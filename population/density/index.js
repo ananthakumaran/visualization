@@ -10,11 +10,11 @@ import {
   scaleSqrt
 } from 'd3';
 import {
-  schemeRdPu
+  schemeOrRd
 } from 'd3-scale-chromatic';
 import india from './data/india.json';
 import indiaStates from './data/india.states.json';
-import houseless from './data/houseless.json';
+import population from './data/population.json';
 import {
   feature,
 } from 'topojson-client';
@@ -35,22 +35,40 @@ let projection = geoMercator()
     .fitExtent([[pad, pad], [width - pad, height - pad]], districts);
 
 
-let districtHouseless = [];
-each(houseless, (d) => districtHouseless[parseInt(d.District, 10)] = parseInt(d.TOT_HL_P, 10));
+
+function density(data) {
+  if (!data || !data.total || !data.Area) {
+    return 0;
+  }
+  return (data.total / data.Area).toFixed(2);
+}
+let districtPopulation = [];
+each(population, (d) => {
+  const code = parseInt(d.District.replace(/[^0-9]/g, ''), 10);
+  d['District'] = code;
+  d['total'] = parseInt(d["Total Population Person"], 10);
+  d['Area'] = parseInt(d.Area, 10);
+  districtPopulation[code] = d;
+});
 
 let path = geoPath().projection(geoMercator().fitSize([1000, 1000], districts));
 let normalized = map(districts.features, (d) => {
-  return districtHouseless[d.properties.censuscode] || 0;
+  let data = districtPopulation[d.properties.censuscode];
+  return density(data);
 });
 
 function title(properties) {
-  return `Count: ${districtHouseless[properties.censuscode] || 'Data Not Available'} \nDistrict: ${properties.DISTRICT}\nState: ${properties.ST_NM}`;
+  let data = districtPopulation[properties.censuscode] || {};
+  let den = density(data) ? density(data) + " km²" : "Data Not Available";
+  let ar = data.Area ? data.Area + " km²" : "Data Not Available";
+  return `Density: ${den}\nTotal: ${data.total || "Data Not Available"}\nArea: ${ar}\nDistrict: ${properties.DISTRICT}\nState: ${properties.ST_NM}`;
 }
 
 let domain = extent(normalized);
+const threshold = map([100, 200, 300, 500, 1000, 2000, 10000, 20000], x => x * 1);
 let color = scaleThreshold()
-    .domain([100, 1000, 2000, 3000, 5000, 10000, 15000, 30000])
-    .range(schemeRdPu[9]);
+    .domain(threshold)
+    .range(schemeOrRd[9]);
 
 let svg = select("body").append("svg")
     .attr("width", width)
@@ -78,7 +96,7 @@ svg.append("g")
   .style("fill", 'none');
 
 let x = scaleSqrt()
-    .domain([0, 35000])
+    .domain([0, 45000])
     .rangeRound([0, width]);
 
 let g = svg.append("g")

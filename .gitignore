@@ -5,3 +5,5 @@ ne_10m_admin_1_states_provinces.*
 population/age/bower_components
 maps/
 houseless/data
+population/density/data
+population/density_old
