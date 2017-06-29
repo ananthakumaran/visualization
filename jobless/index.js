@@ -85,7 +85,7 @@ function title(properties) {
 
 let domain = extent(normalized);
 let color = scaleThreshold()
-    .domain([4, 6, 8, 10, 12, 20, 25, 40])
+    .domain([4, 6, 8, 10, 12, 15, 20, 30])
     .range(schemeReds[9]);
 
 let svg = select("body").append("svg")
