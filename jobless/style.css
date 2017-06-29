@@ -1,0 +1,46 @@
+:focus {
+    outline: 0;
+}
+
+body {
+    font-weight: normal;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    text-align: center;
+    font: 16px sans-serif;
+    color: saddlebrown;
+    fill: saddlebrown;
+    margin: 10px 0;
+}
+
+.description {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    max-width: 260px;
+    text-align: justify;
+    font: 10px sans-serif;
+    color: saddlebrown;
+    fill: saddlebrown;
+    margin: 10px 0;
+}
+
+svg {
+    display: block;
+    margin: 0 auto;
+}
+
+a.source {
+    color: #999;
+}
+
+pre {
+    font: 12px monospace;
+}
