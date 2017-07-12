@@ -25,5 +25,10 @@ setup:
 
 index.bundle.js: index.js
 	node_modules/webpack/bin/webpack.js index.js index.bundle.js
-minify: index.bundle.js
+
+index.circle.bundle.js: index.circle.js
+	node_modules/webpack/bin/webpack.js index.circle.js index.circle.bundle.js
+
+minify: index.bundle.js index.circle.bundle.js
 	uglifyjs index.bundle.js -c -m -o index.bundle.js
+	uglifyjs index.circle.bundle.js -c -m -o index.circle.bundle.js
