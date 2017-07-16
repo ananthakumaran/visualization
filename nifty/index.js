@@ -356,42 +356,42 @@ function renderSectorWeight(all, label) {
 
 const nifty50 = map(folders, folder => require('./data/' + folder + '/nifty50.json'));
 renderMarketCap(nifty50, 'Nifty 50 Market Cap');
-renderWeight(nifty50, 'Nifty 50 Market Weight (%)');
-renderSectorCap(nifty50, 'Nifty 50 Sector Market Cap');
-renderSectorWeight(nifty50, 'Nifty 50 Sector Market Weight (%)');
+renderWeight(nifty50, 'Nifty 50 Weightage (%)');
+renderSectorCap(nifty50, 'Nifty 50 Sector Wise Market Cap');
+renderSectorWeight(nifty50, 'Nifty 50 Sector Wise Weightage (%)');
 
 const niftynext50 = map(folders, folder => require('./data/' + folder + '/niftynext50.json'));
 renderMarketCap(niftynext50, 'Nifty Next 50 Market Cap');
-renderWeight(niftynext50, 'Nifty Next 50 Market Weight (%)');
-renderSectorCap(niftynext50, 'Nifty Next 50 Sector Market Cap');
-renderSectorWeight(niftynext50, 'Nifty Next 50 Sector Market Weight (%)');
+renderWeight(niftynext50, 'Nifty Next 50 Weightage (%)');
+renderSectorCap(niftynext50, 'Nifty Next 50 Sector Wise Market Cap');
+renderSectorWeight(niftynext50, 'Nifty Next 50 Sector Wise Weightage (%)');
 
 const nifty100 = map(folders, folder => require('./data/' + folder + '/nifty100.json'));
 renderMarketCap(nifty100, 'Nifty 100 Market Cap');
-renderWeight(nifty100, 'Nifty 100 Market Weight (%)');
-renderSectorCap(nifty100, 'Nifty 100 Sector Market Cap');
-renderSectorWeight(nifty100, 'Nifty 100 Sector Market Weight (%)');
+renderWeight(nifty100, 'Nifty 100 Weightage (%)');
+renderSectorCap(nifty100, 'Nifty 100 Sector Wise Market Cap');
+renderSectorWeight(nifty100, 'Nifty 100 Sector Wise Weightage (%)');
 
 const nifty200 = map(folders, folder => require('./data/' + folder + '/nifty200.json'));
 renderMarketCap(nifty200, 'Nifty 200 Market Cap');
-renderWeight(nifty200, 'Nifty 200 Market Weight (%)');
-renderSectorCap(nifty200, 'Nifty 200 Sector Market Cap');
-renderSectorWeight(nifty200, 'Nifty 200 Sector Market Weight (%)');
+renderWeight(nifty200, 'Nifty 200 Weightage (%)');
+renderSectorCap(nifty200, 'Nifty 200 Sector Wise Market Cap');
+renderSectorWeight(nifty200, 'Nifty 200 Sector Wise Weightage (%)');
 
 const nifty500 = map(folders, folder => require('./data/' + folder + '/nifty500.json'));
 renderMarketCap(nifty500, 'Nifty 500 Market Cap');
-renderWeight(nifty500, 'Nifty 500 Market Weight (%)');
-renderSectorCap(nifty500, 'Nifty 500 Sector Market Cap');
-renderSectorWeight(nifty500, 'Nifty 500 Sector Market Weight (%)');
+renderWeight(nifty500, 'Nifty 500 Weightage (%)');
+renderSectorCap(nifty500, 'Nifty 500 Sector Wise Market Cap');
+renderSectorWeight(nifty500, 'Nifty 500 Sector Wise Weightage (%)');
 
 const niftymidcap50 = map(folders, folder => require('./data/' + folder + '/niftymidcap50.json'));
 renderMarketCap(niftymidcap50, 'Nifty Midcap 50 Market Cap');
-renderWeight(niftymidcap50, 'Nifty Midcap 50 Market Weight (%)');
-renderSectorCap(niftymidcap50, 'Nifty Midcap 50 Sector Market Cap');
-renderSectorWeight(niftymidcap50, 'Nifty Midcap 50 Sector Market Weight (%)');
+renderWeight(niftymidcap50, 'Nifty Midcap 50 Weightage (%)');
+renderSectorCap(niftymidcap50, 'Nifty Midcap 50 Sector Wise Market Cap');
+renderSectorWeight(niftymidcap50, 'Nifty Midcap 50 Sector Wise Weightage (%)');
 
 const niftysmallcap100 = map(folders, folder => require('./data/' + folder + '/niftysmallcap100.json'));
 renderMarketCap(niftysmallcap100, 'Nifty Smallcap 100 Market Cap');
-renderWeight(niftysmallcap100, 'Nifty Smallcap 100 Market Weight (%)');
-renderSectorCap(niftysmallcap100, 'Nifty Smallcap 100 Sector Market Cap');
-renderSectorWeight(niftysmallcap100, 'Nifty Smallcap 100 Sector Market Weight (%)');
+renderWeight(niftysmallcap100, 'Nifty Smallcap 100 Weightage (%)');
+renderSectorCap(niftysmallcap100, 'Nifty Smallcap 100 Sector Wise Market Cap');
+renderSectorWeight(niftysmallcap100, 'Nifty Smallcap 100 Sector Wise Weightage (%)');
