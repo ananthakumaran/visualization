@@ -22,6 +22,18 @@ body {
     background: white;
 }
 
+.intro {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    max-width: 300px;
+    text-align: justify;
+    font: 10px sans-serif;
+    color: saddlebrown;
+    margin: 10px 0;
+    background: white;
+}
+
 
 svg {
     display: block;
