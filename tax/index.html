@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-101375832-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <title>Tax</title>
+</head>
+
+ <body>
+   <section class="section">
+     <div class="hero-body">
+       <div class="container has-text-centered">
+         <h1 class="title">
+           Income Tax Statistics of India
+         </h1>
+         <h6 class="subtitle">
+           2000-01 to 2016-17
+           <a href="https://www.incometaxindia.gov.in/Documents/Direct%20Tax%20Data/Time-Series-Data-2016-17.pdf">[source]</a>
+         </h6>
+       </div>
+     </div>
+    <div class="container">
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            Total Tax (Rs. in crore)
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="total"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            Direct Tax Break-Up (Rs. in crore)
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="direct"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            GDP Growth Rate vs Tax Growth Rate (%)
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="rate"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            <b>Tax buoyancy</b> is an indicator to measure efficiency and responsiveness of revenue mobilization in response to growth in the Gross domestic product or National income
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="buoyancy"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            Tax as a percentage of GDP (%)
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="total-ratio"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            Cost of Collection (Rs. in crore)
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="expenditure"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            Ratio of Total Collection vs Total Expenditure
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="cost-ratio"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            Assessees
+          </p>
+          <p>
+            Total population as of 2017 is 134,25,12,706
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="assesses-total"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="assesses-1"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="assesses-2"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+            State and U.T. Wise Break-Up of Collection (Rs. in crore)
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-0"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-1"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-2"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-3"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-4"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-5"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-6"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-7"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-8"></svg>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <p>
+          </p>
+        </div>
+        <div class="column is-three-quarters">
+          <svg id="states-9"></svg>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="dist/index.js"></script>
+ </body>
+<html>

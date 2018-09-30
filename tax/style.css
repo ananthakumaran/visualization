@@ -1,0 +1,23 @@
+svg {
+    display: block;
+    margin: 0 auto;
+}
+
+.axis path.domain {
+    fill: none;
+    display: none;
+}
+
+.axis .tick text {
+    fill: #999;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.axis .tick line {
+    stroke: #f6f6f6;
+}
+
+.axis line {
+    stroke: #f5f5f5;
+}

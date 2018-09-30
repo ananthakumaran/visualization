@@ -13,3 +13,8 @@ election/data
 nifty/data
 aum/data
 notes.txt
+.cache
+tax/data/*.csv
+tax/dist/*
+!tax/dist/index.js
+

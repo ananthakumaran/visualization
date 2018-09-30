@@ -1,0 +1,19 @@
+[
+{"Financial Year":"2000-01","Corporate Tax":35696,"Personal Income Tax":31764,"Other Direct Tax":845,"Total":68305},
+{"Financial Year":"2001-02","Corporate Tax":36609,"Personal Income Tax":32004,"Other Direct Tax":585,"Total":69198},
+{"Financial Year":"2002-03","Corporate Tax":46172,"Personal Income Tax":36866,"Other Direct Tax":50,"Total":83088},
+{"Financial Year":"2003-04","Corporate Tax":63562,"Personal Income Tax":41386,"Other Direct Tax":140,"Total":105088},
+{"Financial Year":"2004-05","Corporate Tax":82680,"Personal Income Tax":49268,"Other Direct Tax":823,"Total":132771},
+{"Financial Year":"2005-06","Corporate Tax":101277,"Personal Income Tax":63689,"Other Direct Tax":250,"Total":165216},
+{"Financial Year":"2006-07","Corporate Tax":144318,"Personal Income Tax":85623,"Other Direct Tax":240,"Total":230181},
+{"Financial Year":"2007-08","Corporate Tax":193561,"Personal Income Tax":120429,"Other Direct Tax":340,"Total":314330},
+{"Financial Year":"2008-09","Corporate Tax":213395,"Personal Income Tax":120034,"Other Direct Tax":389,"Total":333818},
+{"Financial Year":"2009-10","Corporate Tax":244725,"Personal Income Tax":132833,"Other Direct Tax":505,"Total":378063},
+{"Financial Year":"2010-11","Corporate Tax":298688,"Personal Income Tax":146258,"Other Direct Tax":1049,"Total":445995},
+{"Financial Year":"2011-12","Corporate Tax":322816,"Personal Income Tax":170181,"Other Direct Tax":990,"Total":493987},
+{"Financial Year":"2012-13","Corporate Tax":356326,"Personal Income Tax":201840,"Other Direct Tax":823,"Total":558989},
+{"Financial Year":"2013-14","Corporate Tax":394678,"Personal Income Tax":242888,"Other Direct Tax":1030,"Total":638596},
+{"Financial Year":"2014-15","Corporate Tax":428925,"Personal Income Tax":265772,"Other Direct Tax":1095,"Total":695792},
+{"Financial Year":"2015-16","Corporate Tax":453228,"Personal Income Tax":287637,"Other Direct Tax":1079,"Total":741945},
+{"Financial Year":"2016-17","Corporate Tax":484924,"Personal Income Tax":349270,"Other Direct Tax":15624,"Total":849818}
+]
