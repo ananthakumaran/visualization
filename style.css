@@ -30,3 +30,11 @@ img.thumb {
 img.thumb:hover {
     border: 1px solid #aaa;
 }
+
+em {
+    float: right;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 2.5px 5px 0 0;
+    color: #aaa;
+}
