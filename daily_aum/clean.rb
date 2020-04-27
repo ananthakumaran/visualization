@@ -11,7 +11,7 @@ Dir.glob("data/*.html").each do |path|
   if html =~ /The underlying data is unavailable./
     puts "ignoring #{date}"
   else
-    doc = Nokogiri::XML(html)
+    doc = Nokogiri::HTML(html)
     names = doc.xpath('//tbody/tr/td[1]').children.to_a.filter { |n| n.name == "text" }.map(&:text)
     values = doc.xpath('//tbody/tr/td[last()]').children.map(&:text)
     names.zip(values).each do |name, value|
