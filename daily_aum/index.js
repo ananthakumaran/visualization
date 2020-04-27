@@ -21,8 +21,8 @@ function renderDiff(datum) {
   if (info.max < 100) {
     return;
   }
-  const margin = { top: 30, right: 150, bottom: 30, left: 40 };
-  const width = 900;
+  const margin = { top: 30, right: 130, bottom: 30, left: 40 };
+  const width = 960;
   const height = 180;
 
   /**
@@ -65,7 +65,17 @@ function renderDiff(datum) {
           .attr("x", -margin.left)
           .attr("y", 15)
           .attr("text-anchor", "start")
-          .text("AUM in crores - " + datum.name)
+          .text("AUM in crores")
+      )
+      .call(g =>
+        g
+          .append("text")
+          .attr("x", width / 2)
+          .attr("y", 15)
+          .style("fill", "#666")
+          .style("font-size", "14px")
+          .attr("text-anchor", "middle")
+          .text(datum.name)
       );
 
   const xAxis = g =>
@@ -99,6 +109,7 @@ function renderDiff(datum) {
   const svg = d3
     .select("body")
     .append("svg")
+    .attr("class", datum.category)
     .attr("height", height)
     .attr("width", width);
 
@@ -135,3 +146,21 @@ function renderDiff(datum) {
 }
 
 data.forEach(datum => renderDiff(datum));
+
+function selectCategory(category) {
+  let svgs = Array.from(document.querySelectorAll("svg"));
+  for (let svg of svgs) {
+    svg.classList.add("hidden");
+  }
+
+  svgs = Array.from(document.querySelectorAll("svg." + category));
+  for (let svg of svgs) {
+    svg.classList.remove("hidden");
+  }
+}
+
+document.getElementById("category").addEventListener("change", function(event) {
+  selectCategory(event.target.value);
+});
+
+selectCategory("SDT_CR");

@@ -11,10 +11,30 @@
     ga('create', 'UA-101375832-1', 'auto');
     ga('send', 'pageview');
   </script>
-  <title>Daily Mutual Funds daily aum change</title>
+  <title>Debt Mutual Funds Daily AUM Changes</title>
 </head>
-
- <body>
+<body>
+  <section>
+    <label for="category">Debt Fund Category</label>
+    <select id="category" class="select">
+      <option value='SDT_LND'>Long Duration</option>
+      <option value='SDT_MLD'>Medium to Long Duration</option>
+      <option value='SDT_MD'>Medium Duration</option>
+      <option value='SDT_SD'>Short Duration</option>
+      <option value='SDT_LWD'>Low Duration</option>
+      <option value='SDT_USD'>Ultra Short Duration</option>
+      <option value='SDT_MM'>Money Market</option>
+      <option value='SDT_DB'>Dynamic Bond</option>
+      <option value='SDT_CB'>Corporate Bond</option>
+      <option selected="selected" value='SDT_CR'>Credit Risk</option>
+      <option value='SDT_BPSU'>Banking and PSU</option>
+      <option value='SDT_FL'>Floater</option>
+      <option value='SDT_FMP'>FMP</option>
+      <option value='SDT_GL'>Gilt</option>
+      <option value='SDT_GL10CD'>Gilt with 10 year constant duration</option>
+    </select>
+    <div class="note">Only funds with more than <b>100</b> crores of AUM is shown here</div>
+  </section>
   <script src="dist/index.js"></script>
- </body>
+</bob>
 <html>

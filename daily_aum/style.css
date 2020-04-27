@@ -2,6 +2,8 @@ body {
     width: 960px;
     margin: 0 auto;
     font-family: sans-serif;
+    color: #666;
+    font-size: 14px;
 }
 
 svg text {
@@ -17,4 +19,31 @@ table.info-table {
 table.info-table .amount {
     font-family: monospace;
     white-space: pre;
+}
+
+.hidden {
+    display: none;
+}
+
+section {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+label {
+    margin-right: 10px;
+}
+
+.note {
+    margin-left: auto;
+    color: #999;
+    font-size: 12px;
+}
+
+.select {
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 16px;
+    width: 400px;
 }
