@@ -17,4 +17,8 @@ notes.txt
 tax/data/*.csv
 tax/dist/*
 !tax/dist/index.js
-
+daily_aum/data
+daily_aum/funds.json
+daily_aum/data.json
+daily_aum/dist/*
+!daily_aum/dist/index.js

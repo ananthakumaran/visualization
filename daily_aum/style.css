@@ -1,0 +1,20 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+svg text {
+    fill: #999;
+    font-size: 11px;
+}
+
+table.info-table {
+    color: #999;
+    font-size: 14px;
+}
+
+table.info-table .amount {
+    font-family: monospace;
+    white-space: pre;
+}
