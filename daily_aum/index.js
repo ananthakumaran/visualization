@@ -27,12 +27,15 @@ function renderDiff(datum) {
 
   /**
    * @param array {Array<[number, number]>}
-   * @returns {Array<[Date, number]>}
    */
   function diff(array) {
     return array.slice(1).map(function(n, i) {
       const d = array[i][1] == 0 || n[1] == 0 ? 0 : n[1] - array[i][1];
-      return [new Date(n[0] * 1000), d];
+      return {
+        date: new Date(n[0] * 1000),
+        diff: d,
+        aum: n[1]
+      };
     });
   }
 
@@ -40,7 +43,7 @@ function renderDiff(datum) {
   const green = d3.schemeSet1[2];
   const lightGray = "#ededed";
   const points = diff(datum.points);
-  const xrange = [new Date("2020-01-01"), d3.max(points.map(p => p[0]))];
+  const xrange = [new Date("2020-01-01"), d3.max(points.map(p => p.date))];
   const xsize = (xrange[1] - xrange[0]) / (60 * 60 * 24 * 1000);
 
   const yAxis = g =>
@@ -97,7 +100,7 @@ function renderDiff(datum) {
 
   const y = d3
     .scaleLinear()
-    .domain(d3.extent(points.map(d => d[1])))
+    .domain(d3.extent(points.map(d => d.diff)))
     .nice()
     .range([height - margin.bottom, margin.top]);
 
@@ -116,17 +119,27 @@ function renderDiff(datum) {
   svg.append("g").call(xAxis);
   svg.append("g").call(yAxis);
 
+  const titleFormat = d3.format(".2f");
+  const tformat = d3.timeFormat("%b-%d");
+
   var barWidth = ((width - margin.left - margin.right) / xsize) * 0.8;
   svg
     .append("g")
     .selectAll("rect")
     .data(points)
     .join("rect")
-    .attr("fill", (d, i) => (d[1] > 0 ? green : red))
-    .attr("x", (d, i) => x(d[0]))
-    .attr("y", d => y(Math.max(0, d[1])))
-    .attr("height", d => Math.abs(y(0) - y(d[1])))
-    .attr("width", barWidth);
+    .attr("fill", (d, i) => (d.diff > 0 ? green : red))
+    .attr("x", (d, i) => x(d.date))
+    .attr("y", d => y(Math.max(0, d.diff)))
+    .attr("height", d => Math.abs(y(0) - y(d.diff)))
+    .attr("width", barWidth)
+    .append("title")
+    .text(
+      d =>
+        `Date: ${tformat(d.date)}\nAUM: ${titleFormat(
+          d.aum
+        )}\nDiff: ${titleFormat(d.diff)}`
+    );
 
   const format = d3.format(" > 9.2f");
   svg
