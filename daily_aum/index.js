@@ -40,7 +40,7 @@ function renderDiff(datum) {
   const green = d3.schemeSet1[2];
   const lightGray = "#ededed";
   const points = diff(datum.points);
-  const xrange = [new Date("2020-01-01"), new Date("2020-04-24")];
+  const xrange = [new Date("2020-01-01"), d3.max(points.map(p => p[0]))];
   const xsize = (xrange[1] - xrange[0]) / (60 * 60 * 24 * 1000);
 
   const yAxis = g =>

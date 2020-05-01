@@ -67,10 +67,11 @@ debt_categories = [
   'SDT_FL',
   'SDT_FMP',
   'SDT_GL',
-  'SDT_GL10CD'
+  'SDT_GL10CD',
+  'SHY_AR'
 ]
 debt_categories.each do |sub_category|
-  start = Date.new(2020, 1, 1)
+  start = Date.new(2020, 4, 25)
   today = Date.today
   while start < today
     download(sub_category, start)
