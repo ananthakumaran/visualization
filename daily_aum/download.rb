@@ -71,7 +71,7 @@ debt_categories = [
   'SHY_AR'
 ]
 debt_categories.each do |sub_category|
-  start = Date.new(2020, 5, 5)
+  start = Date.new(2020, 5, 15)
   today = Date.today
   while start < today
     download(sub_category, start)
